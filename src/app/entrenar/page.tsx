@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
@@ -343,12 +345,12 @@ export default function TrainingPage() {
             >
               Practicar nuevamente
             </button>
-            <a
+            <Link
               href="/dashboard"
               className="rounded-xl border border-white/15 px-6 py-3 font-black"
             >
               Ver dashboard
-            </a>
+            </Link>
           </div>
         </section>
       </main>
@@ -402,12 +404,12 @@ export default function TrainingPage() {
     <main className="min-h-screen bg-slate-950 px-5 py-8 text-white">
       <div className="mx-auto max-w-4xl">
         <header className="flex flex-col gap-5 border-b border-white/10 pb-6 sm:flex-row sm:items-center sm:justify-between">
-          <a href="/" className="flex items-center gap-3">
+          <Link href="/" className="flex items-center gap-3">
             <span className="grid h-11 w-11 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">
               π
             </span>
             <span className="text-xl font-black">PAESLab</span>
-          </a>
+          </Link>
 
           <div className="flex gap-2">
             {(["Todas", "M1", "M2"] as TestFilter[]).map((value) => (

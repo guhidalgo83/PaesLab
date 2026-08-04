@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
@@ -259,7 +261,7 @@ export default function SimulationHistoryPage() {
     <main className="min-h-screen bg-slate-950 px-5 py-8 text-white">
       <div className="mx-auto max-w-7xl">
         <header className="flex flex-col gap-5 border-b border-white/10 pb-6 sm:flex-row sm:items-center sm:justify-between">
-          <a href="/" className="flex items-center gap-3">
+          <Link href="/" className="flex items-center gap-3">
             <span className="grid h-11 w-11 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">
               π
             </span>
@@ -271,21 +273,21 @@ export default function SimulationHistoryPage() {
                 Evolución y análisis de desempeño
               </small>
             </span>
-          </a>
+          </Link>
 
           <div className="flex flex-wrap gap-3">
-            <a
+            <Link
               href="/simulacro"
               className="rounded-xl bg-teal-300 px-4 py-2 text-sm font-black text-slate-950"
             >
               Nuevo simulacro
-            </a>
-            <a
+            </Link>
+            <Link
               href="/dashboard"
               className="rounded-xl border border-white/15 px-4 py-2 text-sm font-bold"
             >
               Dashboard
-            </a>
+            </Link>
           </div>
         </header>
 
@@ -397,12 +399,12 @@ export default function SimulationHistoryPage() {
                   <p className="text-slate-400">
                     Completa un simulacro para comenzar tu historial.
                   </p>
-                  <a
+                  <Link
                     href="/simulacro"
                     className="mt-5 inline-block rounded-xl bg-teal-300 px-5 py-3 font-black text-slate-950"
                   >
                     Ir a simulacro
-                  </a>
+                  </Link>
                 </div>
               ) : (
                 <div className="mt-6 max-h-[720px] space-y-3 overflow-y-auto pr-1">

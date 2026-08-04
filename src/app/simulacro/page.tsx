@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useRef, useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
@@ -398,7 +400,7 @@ export default function SimulacroPage() {
     return (
       <main className="grid min-h-screen place-items-center bg-slate-950 px-5 py-10 text-white">
         <section className="w-full max-w-2xl rounded-[2rem] border border-white/10 bg-white/[0.05] p-7 sm:p-9">
-          <a href="/" className="flex items-center gap-3">
+          <Link href="/" className="flex items-center gap-3">
             <span className="grid h-12 w-12 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">
               π
             </span>
@@ -410,7 +412,7 @@ export default function SimulacroPage() {
                 Práctica cronometrada
               </small>
             </span>
-          </a>
+          </Link>
 
           <h1 className="mt-9 text-4xl font-black">
             Configura tu simulacro
@@ -504,12 +506,12 @@ export default function SimulacroPage() {
             Comenzar simulacro
           </button>
 
-          <a
+          <Link
             href="/historial"
             className="mt-3 block w-full rounded-xl border border-white/15 px-6 py-4 text-center font-black text-slate-200"
           >
             Ver historial de simulacros
-          </a>
+          </Link>
 
           <p className="mt-4 text-center text-xs text-slate-500">
             Este módulo es una práctica interna de PAESLab, no una
@@ -586,18 +588,18 @@ export default function SimulacroPage() {
               >
                 Nuevo simulacro
               </button>
-              <a
+              <Link
                 href="/historial"
                 className="rounded-xl border border-indigo-300/30 px-6 py-3 font-black text-indigo-200"
               >
                 Ver historial
-              </a>
-              <a
+              </Link>
+              <Link
                 href="/dashboard"
                 className="rounded-xl border border-white/15 px-6 py-3 font-black"
               >
                 Ver dashboard
-              </a>
+              </Link>
             </div>
           </div>
 

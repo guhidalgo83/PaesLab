@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
@@ -286,18 +288,18 @@ export default function MyStudyPlanPage() {
                 concreta de aprendizaje.
               </p>
               <div className="mt-6 flex flex-wrap gap-3">
-                <a
+                <Link
                   href="/entrenar"
                   className="rounded-xl bg-teal-300 px-5 py-3 font-black text-slate-950"
                 >
                   Entrenar
-                </a>
-                <a
+                </Link>
+                <Link
                   href="/simulacro"
                   className="rounded-xl border border-white/15 px-5 py-3 font-black"
                 >
                   Hacer simulacro
-                </a>
+                </Link>
               </div>
             </article>
           ) : (
@@ -355,12 +357,12 @@ export default function MyStudyPlanPage() {
                           : "Aprender ahora"}
                       </button>
 
-                      <a
+                      <Link
                         href={`/practicar-leccion/${lesson.id}`}
                         className="rounded-xl border border-indigo-300/30 px-4 py-3 font-black text-indigo-200"
                       >
                         Práctica específica
-                      </a>
+                      </Link>
 
                       <button
                         onClick={() =>
@@ -392,7 +394,7 @@ export default function MyStudyPlanPage() {
                   if (!lesson) return null;
 
                   return (
-                    <a
+                    <Link
                       key={item.id}
                       href={`/aprender/leccion/${lesson.slug}`}
                       className="rounded-2xl border border-emerald-300/15 bg-emerald-300/[0.04] p-5"
@@ -403,7 +405,7 @@ export default function MyStudyPlanPage() {
                       <h3 className="mt-2 text-xl font-black">
                         {lesson.title}
                       </h3>
-                    </a>
+                    </Link>
                   );
                 })}
               </div>

@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useMemo, useRef, useState } from "react";
 import type { ChangeEvent } from "react";
 import { createClient } from "@/lib/supabase/client";

@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
@@ -320,12 +322,12 @@ export default function LessonPracticePage() {
             No fue posible preparar esta práctica
           </h1>
           <p className="mt-4 text-slate-400">{message}</p>
-          <a
+          <Link
             href="/aprender"
             className="mt-6 inline-block rounded-xl bg-teal-300 px-5 py-3 font-black text-slate-950"
           >
             Volver a Aprender
-          </a>
+          </Link>
         </section>
       </main>
     );
@@ -353,18 +355,18 @@ export default function LessonPracticePage() {
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row sm:justify-center">
-            <a
+            <Link
               href={`/aprender/leccion/${lesson.slug}`}
               className="rounded-xl border border-indigo-300/30 px-5 py-3 font-black text-indigo-200"
             >
               Volver a la lección
-            </a>
-            <a
+            </Link>
+            <Link
               href="/mi-plan"
               className="rounded-xl bg-teal-300 px-5 py-3 font-black text-slate-950"
             >
               Continuar mi plan
-            </a>
+            </Link>
           </div>
         </section>
       </main>

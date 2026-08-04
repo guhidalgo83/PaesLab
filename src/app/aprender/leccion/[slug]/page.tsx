@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { useParams } from "next/navigation";
 import { createClient } from "@/lib/supabase/client";
@@ -210,12 +212,12 @@ export default function LessonPage() {
         />
 
         <article className="py-10">
-          <a
+          <Link
             href={`/aprender/${unit.test_type.toLowerCase()}/${unit.slug}`}
             className="text-sm font-bold text-slate-400 hover:text-teal-300"
           >
             ← Volver a {unit.title}
-          </a>
+          </Link>
 
           <div className="mt-6">
             <div className="flex flex-wrap gap-2">
@@ -270,17 +272,17 @@ export default function LessonPage() {
               con esta lección y te entregará diagnóstico por
               alternativa.
             </p>
-            <a
+            <Link
               href={`/practicar-leccion/${lesson.id}`}
               className="mt-5 inline-block rounded-xl bg-teal-300 px-5 py-3 font-black text-slate-950"
             >
               Iniciar práctica específica
-            </a>
+            </Link>
           </section>
 
           <div className="mt-8 grid gap-3 sm:grid-cols-2">
             {previousLesson ? (
-              <a
+              <Link
                 href={`/aprender/leccion/${previousLesson.slug}`}
                 className="rounded-2xl border border-white/10 p-5 hover:border-indigo-300"
               >
@@ -290,13 +292,13 @@ export default function LessonPage() {
                 <strong className="mt-2 block">
                   {previousLesson.title}
                 </strong>
-              </a>
+              </Link>
             ) : (
               <div />
             )}
 
             {nextLesson && (
-              <a
+              <Link
                 href={`/aprender/leccion/${nextLesson.slug}`}
                 className="rounded-2xl border border-white/10 p-5 text-right hover:border-teal-300"
               >
@@ -306,23 +308,23 @@ export default function LessonPage() {
                 <strong className="mt-2 block">
                   {nextLesson.title}
                 </strong>
-              </a>
+              </Link>
             )}
           </div>
 
           <div className="mt-6 flex flex-col gap-3 sm:flex-row">
-            <a
+            <Link
               href="/mi-plan"
               className="rounded-xl border border-amber-300/30 px-5 py-3 text-center font-black text-amber-200"
             >
               Ver mi plan
-            </a>
-            <a
+            </Link>
+            <Link
               href="/ruta-estudio"
               className="rounded-xl border border-indigo-300/30 px-5 py-3 text-center font-black text-indigo-200"
             >
               Continuar mi ruta
-            </a>
+            </Link>
           </div>
         </article>
       </div>

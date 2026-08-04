@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 type LearningHeaderProps = {
   title?: string;
   subtitle?: string;
@@ -13,7 +15,7 @@ export default function LearningHeader({
 }: LearningHeaderProps) {
   return (
     <header className="flex flex-col gap-5 border-b border-white/10 pb-6 sm:flex-row sm:items-center sm:justify-between">
-      <a href="/" className="flex items-center gap-3">
+      <Link href="/" className="flex items-center gap-3">
         <span className="grid h-11 w-11 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">
           π
         </span>
@@ -21,38 +23,38 @@ export default function LearningHeader({
           <strong className="block text-xl">{title}</strong>
           <small className="text-slate-400">{subtitle}</small>
         </span>
-      </a>
+      </Link>
 
       <nav className="flex flex-wrap gap-3">
-        <a
+        <Link
           href="/aprender"
           className="rounded-xl border border-white/15 px-4 py-2 text-sm font-bold"
         >
           Contenidos
-        </a>
+        </Link>
 
-        <a
+        <Link
           href="/mi-plan"
           className="rounded-xl border border-amber-300/40 px-4 py-2 text-sm font-black text-amber-200"
         >
           Mi plan
-        </a>
+        </Link>
 
         {showRoute && (
-          <a
+          <Link
             href="/ruta-estudio"
             className="rounded-xl border border-indigo-300/40 px-4 py-2 text-sm font-black text-indigo-200"
           >
             Mi ruta
-          </a>
+          </Link>
         )}
 
-        <a
+        <Link
           href="/entrenar"
           className="rounded-xl bg-teal-300 px-4 py-2 text-sm font-black text-slate-950"
         >
           Practicar
-        </a>
+        </Link>
       </nav>
     </header>
   );

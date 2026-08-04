@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 import { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { User } from "@supabase/supabase-js";
@@ -403,20 +405,20 @@ export default function DashboardPage() {
     <main className="min-h-screen bg-slate-950 px-5 py-8 text-white">
       <div className="mx-auto max-w-6xl">
         <header className="flex flex-col gap-5 border-b border-white/10 pb-6 sm:flex-row sm:items-center sm:justify-between">
-          <a href="/" className="flex items-center gap-3">
+          <Link href="/" className="flex items-center gap-3">
             <span className="grid h-11 w-11 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">
               π
             </span>
             <span className="text-xl font-black">PAESLab</span>
-          </a>
+          </Link>
 
           <div className="flex flex-wrap gap-3">
-            <a
+            <Link
               href="/entrenar"
               className="rounded-xl bg-teal-300 px-4 py-2 text-sm font-black text-slate-950"
             >
               Entrenar
-            </a>
+            </Link>
             <button
               onClick={handleLogout}
               className="rounded-xl border border-white/15 px-4 py-2 text-sm font-bold hover:border-rose-300 hover:text-rose-200"
@@ -642,12 +644,12 @@ export default function DashboardPage() {
                   Tu progreso detallado
                 </h2>
               </div>
-              <a
+              <Link
                 href="/entrenar"
                 className="font-bold text-teal-300 hover:text-teal-200"
               >
                 Practicar ahora →
-              </a>
+              </Link>
             </div>
 
             {axisStats.length === 0 ? (
