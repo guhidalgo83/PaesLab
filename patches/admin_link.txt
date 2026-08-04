@@ -1,0 +1,3 @@
+Agrega este enlace en /admin:
+
+<a href="/admin/contenidos" className="rounded-xl border border-indigo-300/40 px-4 py-2 text-sm font-black text-indigo-200">Contenidos</a>

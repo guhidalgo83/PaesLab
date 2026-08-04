@@ -1,0 +1,4 @@
+Agrega estos enlaces al encabezado del dashboard:
+
+<a href="/aprender" className="rounded-xl border border-teal-300/40 px-4 py-2 text-sm font-black text-teal-200">Aprender</a>
+<a href="/ruta-estudio" className="rounded-xl border border-indigo-300/40 px-4 py-2 text-sm font-black text-indigo-200">Mi ruta</a>

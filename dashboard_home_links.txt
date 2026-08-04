@@ -1,0 +1,15 @@
+Agrega estos enlaces en el dashboard y, si deseas, en la portada:
+
+<a
+  href="/aprender"
+  className="rounded-xl border border-teal-300/40 px-4 py-2 text-sm font-black text-teal-200"
+>
+  Aprender
+</a>
+
+<a
+  href="/mi-plan"
+  className="rounded-xl border border-amber-300/40 px-4 py-2 text-sm font-black text-amber-200"
+>
+  Mi plan
+</a>

@@ -1,0 +1,4512 @@
+{
+  "units": [
+    {
+      "id": "m1-numeros",
+      "test_type": "M1",
+      "axis": "Números",
+      "slug": "numeros",
+      "title": "Números",
+      "description": "Operaciones, proporcionalidad, porcentajes, potencias, raíces y matemática financiera.",
+      "icon": "123",
+      "sort_order": 1,
+      "is_published": true
+    },
+    {
+      "id": "m1-algebra-funciones",
+      "test_type": "M1",
+      "axis": "Álgebra y funciones",
+      "slug": "algebra-y-funciones",
+      "title": "Álgebra y funciones",
+      "description": "Expresiones, ecuaciones, sistemas, desigualdades, funciones y modelamiento.",
+      "icon": "ƒx",
+      "sort_order": 2,
+      "is_published": true
+    },
+    {
+      "id": "m1-geometria",
+      "test_type": "M1",
+      "axis": "Geometría",
+      "slug": "geometria",
+      "title": "Geometría",
+      "description": "Medición, Pitágoras, semejanza, transformaciones, círculo y cuerpos geométricos.",
+      "icon": "△",
+      "sort_order": 3,
+      "is_published": true
+    },
+    {
+      "id": "m1-probabilidad-estadistica",
+      "test_type": "M1",
+      "axis": "Probabilidad y estadística",
+      "slug": "probabilidad-y-estadistica",
+      "title": "Probabilidad y estadística",
+      "description": "Lectura de datos, medidas estadísticas y probabilidades en contextos cotidianos.",
+      "icon": "▥",
+      "sort_order": 4,
+      "is_published": true
+    }
+  ],
+  "lessons": [
+    {
+      "id": "m1-num-enteros",
+      "unit_id": "m1-numeros",
+      "slug": "enteros-y-operaciones",
+      "title": "Números enteros y operaciones",
+      "summary": "Ordena, compara y opera números positivos y negativos con seguridad.",
+      "objective": "Resolver operaciones y problemas con números enteros respetando signos y prioridad operacional.",
+      "estimated_minutes": 18,
+      "difficulty": "Básico",
+      "sort_order": 1,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [],
+      "tags": [
+        "enteros",
+        "operaciones",
+        "prioridad"
+      ],
+      "question_filter": {
+        "keywords": [
+          "enteros",
+          "signos",
+          "operaciones"
+        ]
+      }
+    },
+    {
+      "id": "m1-num-fracciones",
+      "unit_id": "m1-numeros",
+      "slug": "fracciones-y-decimales",
+      "title": "Fracciones y números decimales",
+      "summary": "Relaciona fracciones, decimales y operaciones en situaciones de medida y reparto.",
+      "objective": "Comparar, transformar y operar fracciones y decimales usando representaciones equivalentes.",
+      "estimated_minutes": 20,
+      "difficulty": "Básico",
+      "sort_order": 2,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-enteros"
+      ],
+      "tags": [
+        "fracciones",
+        "decimales",
+        "equivalencia"
+      ],
+      "question_filter": {
+        "keywords": [
+          "fracciones",
+          "decimales",
+          "racionales"
+        ]
+      }
+    },
+    {
+      "id": "m1-num-razones",
+      "unit_id": "m1-numeros",
+      "slug": "razones-y-proporciones",
+      "title": "Razones y proporciones",
+      "summary": "Compara cantidades y resuelve relaciones directas e inversas.",
+      "objective": "Modelar situaciones con razones, tasas y proporciones, distinguiendo proporcionalidad directa e inversa.",
+      "estimated_minutes": 22,
+      "difficulty": "Medio",
+      "sort_order": 3,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-fracciones"
+      ],
+      "tags": [
+        "razón",
+        "tasa",
+        "proporcionalidad"
+      ],
+      "question_filter": {
+        "keywords": [
+          "razones",
+          "proporciones",
+          "proporcionalidad"
+        ]
+      }
+    },
+    {
+      "id": "m1-num-porcentajes",
+      "unit_id": "m1-numeros",
+      "slug": "porcentajes",
+      "title": "Porcentajes y variaciones",
+      "summary": "Calcula porcentajes, descuentos, aumentos y variaciones sucesivas.",
+      "objective": "Resolver problemas de porcentaje interpretando correctamente valor inicial, variación y valor final.",
+      "estimated_minutes": 22,
+      "difficulty": "Medio",
+      "sort_order": 4,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-razones"
+      ],
+      "tags": [
+        "porcentajes",
+        "descuentos",
+        "variaciones"
+      ],
+      "question_filter": {
+        "keywords": [
+          "porcentaje",
+          "descuento",
+          "aumento",
+          "variación"
+        ]
+      }
+    },
+    {
+      "id": "m1-num-potencias",
+      "unit_id": "m1-numeros",
+      "slug": "potencias-y-raices",
+      "title": "Potencias y raíces",
+      "summary": "Opera potencias, raíces y notación científica comprendiendo sus propiedades.",
+      "objective": "Aplicar propiedades de potencias y raíces para simplificar expresiones y representar magnitudes.",
+      "estimated_minutes": 24,
+      "difficulty": "Medio",
+      "sort_order": 5,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-enteros"
+      ],
+      "tags": [
+        "potencias",
+        "raíces",
+        "notación científica"
+      ],
+      "question_filter": {
+        "keywords": [
+          "potencias",
+          "raíces",
+          "notación científica"
+        ]
+      }
+    },
+    {
+      "id": "m1-num-financiera",
+      "unit_id": "m1-numeros",
+      "slug": "matematica-financiera",
+      "title": "Matemática financiera",
+      "summary": "Interpreta interés, cuotas, ahorro y crecimiento de capital.",
+      "objective": "Modelar situaciones financieras simples y compuestas, comparando costos y beneficios.",
+      "estimated_minutes": 25,
+      "difficulty": "Avanzado",
+      "sort_order": 6,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-porcentajes",
+        "m1-num-potencias"
+      ],
+      "tags": [
+        "interés simple",
+        "interés compuesto",
+        "cuotas"
+      ],
+      "question_filter": {
+        "keywords": [
+          "interés",
+          "capital",
+          "cuotas",
+          "financiera"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-lenguaje",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "lenguaje-algebraico",
+      "title": "Lenguaje algebraico",
+      "summary": "Traduce situaciones entre lenguaje cotidiano, expresiones y propiedades.",
+      "objective": "Representar relaciones mediante expresiones algebraicas y evaluar su valor para datos dados.",
+      "estimated_minutes": 18,
+      "difficulty": "Básico",
+      "sort_order": 1,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [],
+      "tags": [
+        "expresiones",
+        "variables",
+        "modelar"
+      ],
+      "question_filter": {
+        "keywords": [
+          "expresiones",
+          "lenguaje algebraico",
+          "términos"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-ecuaciones",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "ecuaciones-lineales",
+      "title": "Ecuaciones lineales",
+      "summary": "Resuelve ecuaciones manteniendo la igualdad y verifica soluciones.",
+      "objective": "Resolver ecuaciones de primer grado y comprobar la solución en el problema original.",
+      "estimated_minutes": 20,
+      "difficulty": "Básico",
+      "sort_order": 2,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-lenguaje"
+      ],
+      "tags": [
+        "ecuaciones",
+        "despeje",
+        "verificación"
+      ],
+      "question_filter": {
+        "keywords": [
+          "ecuaciones",
+          "despeje",
+          "igualdad"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-sistemas",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "sistemas-de-ecuaciones",
+      "title": "Sistemas de ecuaciones",
+      "summary": "Encuentra valores que satisfacen simultáneamente dos relaciones.",
+      "objective": "Resolver sistemas lineales de dos ecuaciones e interpretar su solución como intersección o respuesta contextual.",
+      "estimated_minutes": 25,
+      "difficulty": "Medio",
+      "sort_order": 3,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-ecuaciones"
+      ],
+      "tags": [
+        "sistemas",
+        "sustitución",
+        "reducción"
+      ],
+      "question_filter": {
+        "keywords": [
+          "sistemas",
+          "ecuaciones",
+          "intersección"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-desigualdades",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "desigualdades",
+      "title": "Desigualdades e intervalos",
+      "summary": "Resuelve restricciones y representa conjuntos de soluciones.",
+      "objective": "Resolver desigualdades lineales, representar sus soluciones e interpretar restricciones contextuales.",
+      "estimated_minutes": 22,
+      "difficulty": "Medio",
+      "sort_order": 4,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-ecuaciones"
+      ],
+      "tags": [
+        "desigualdades",
+        "intervalos",
+        "restricciones"
+      ],
+      "question_filter": {
+        "keywords": [
+          "desigualdades",
+          "inecuaciones",
+          "intervalos"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-lineal",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "funcion-lineal-y-afin",
+      "title": "Función lineal y afín",
+      "summary": "Interpreta pendiente, intercepto y gráficos de relaciones lineales.",
+      "objective": "Representar e interpretar funciones lineales y afines en contextos matemáticos y cotidianos.",
+      "estimated_minutes": 25,
+      "difficulty": "Medio",
+      "sort_order": 5,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-lenguaje",
+        "m1-alg-ecuaciones"
+      ],
+      "tags": [
+        "funciones",
+        "pendiente",
+        "gráficos"
+      ],
+      "question_filter": {
+        "keywords": [
+          "función lineal",
+          "función afín",
+          "pendiente",
+          "intercepto"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-cuadratica",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "funcion-cuadratica",
+      "title": "Función cuadrática",
+      "summary": "Analiza parábolas mediante vértice, ceros, concavidad y signo.",
+      "objective": "Interpretar representaciones algebraicas y gráficas de funciones cuadráticas en problemas.",
+      "estimated_minutes": 28,
+      "difficulty": "Avanzado",
+      "sort_order": 6,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-lineal"
+      ],
+      "tags": [
+        "cuadrática",
+        "parábola",
+        "ceros"
+      ],
+      "question_filter": {
+        "keywords": [
+          "función cuadrática",
+          "parábola",
+          "raíces",
+          "vértice"
+        ]
+      }
+    },
+    {
+      "id": "m1-alg-modelamiento",
+      "unit_id": "m1-algebra-funciones",
+      "slug": "modelamiento-con-funciones",
+      "title": "Modelamiento con funciones",
+      "summary": "Elige variables, construye modelos y evalúa si representan el contexto.",
+      "objective": "Modelar situaciones con funciones, interpretar parámetros y evaluar la razonabilidad de resultados.",
+      "estimated_minutes": 28,
+      "difficulty": "Avanzado",
+      "sort_order": 7,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-lineal",
+        "m1-alg-cuadratica"
+      ],
+      "tags": [
+        "modelar",
+        "funciones",
+        "interpretación"
+      ],
+      "question_filter": {
+        "keywords": [
+          "modelamiento",
+          "funciones",
+          "contexto"
+        ]
+      }
+    },
+    {
+      "id": "m1-geo-perimetro-area",
+      "unit_id": "m1-geometria",
+      "slug": "perimetro-y-area",
+      "title": "Perímetro y área",
+      "summary": "Distingue longitud de superficie y calcula medidas de figuras compuestas.",
+      "objective": "Resolver problemas de perímetro y área seleccionando fórmulas, unidades y descomposiciones adecuadas.",
+      "estimated_minutes": 20,
+      "difficulty": "Básico",
+      "sort_order": 1,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [],
+      "tags": [
+        "perímetro",
+        "área",
+        "medición"
+      ],
+      "question_filter": {
+        "keywords": [
+          "perímetro",
+          "área",
+          "figuras"
+        ]
+      }
+    },
+    {
+      "id": "m1-geo-pitagoras",
+      "unit_id": "m1-geometria",
+      "slug": "teorema-de-pitagoras",
+      "title": "Teorema de Pitágoras",
+      "summary": "Relaciona los lados de triángulos rectángulos y resuelve distancias.",
+      "objective": "Aplicar el teorema de Pitágoras para calcular longitudes y verificar triángulos rectángulos.",
+      "estimated_minutes": 20,
+      "difficulty": "Básico",
+      "sort_order": 2,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-geo-perimetro-area"
+      ],
+      "tags": [
+        "Pitágoras",
+        "distancias",
+        "triángulos"
+      ],
+      "question_filter": {
+        "keywords": [
+          "Pitágoras",
+          "triángulo rectángulo",
+          "hipotenusa"
+        ]
+      }
+    },
+    {
+      "id": "m1-geo-semejanza",
+      "unit_id": "m1-geometria",
+      "slug": "semejanza-y-escalas",
+      "title": "Semejanza y escalas",
+      "summary": "Usa factores de escala para relacionar figuras, mapas y modelos.",
+      "objective": "Resolver problemas de semejanza, escalas y variaciones de longitud, área y volumen.",
+      "estimated_minutes": 23,
+      "difficulty": "Medio",
+      "sort_order": 3,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-razones",
+        "m1-geo-perimetro-area"
+      ],
+      "tags": [
+        "semejanza",
+        "escala",
+        "proporcionalidad"
+      ],
+      "question_filter": {
+        "keywords": [
+          "semejanza",
+          "escala",
+          "homotecia"
+        ]
+      }
+    },
+    {
+      "id": "m1-geo-transformaciones",
+      "unit_id": "m1-geometria",
+      "slug": "transformaciones-isometricas",
+      "title": "Transformaciones isométricas",
+      "summary": "Reconoce traslaciones, rotaciones y reflexiones en el plano.",
+      "objective": "Representar transformaciones isométricas mediante coordenadas y describir propiedades que se conservan.",
+      "estimated_minutes": 22,
+      "difficulty": "Medio",
+      "sort_order": 4,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-alg-lenguaje"
+      ],
+      "tags": [
+        "transformaciones",
+        "coordenadas",
+        "simetría"
+      ],
+      "question_filter": {
+        "keywords": [
+          "traslación",
+          "rotación",
+          "reflexión",
+          "isometría"
+        ]
+      }
+    },
+    {
+      "id": "m1-geo-circulo",
+      "unit_id": "m1-geometria",
+      "slug": "circunferencia-y-circulo",
+      "title": "Circunferencia y círculo",
+      "summary": "Calcula longitudes y áreas relacionadas con radio, diámetro y arcos.",
+      "objective": "Resolver problemas de circunferencia y círculo usando radio, diámetro, longitud y área.",
+      "estimated_minutes": 22,
+      "difficulty": "Medio",
+      "sort_order": 5,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-geo-perimetro-area"
+      ],
+      "tags": [
+        "círculo",
+        "π",
+        "área"
+      ],
+      "question_filter": {
+        "keywords": [
+          "círculo",
+          "circunferencia",
+          "radio",
+          "diámetro"
+        ]
+      }
+    },
+    {
+      "id": "m1-geo-cuerpos",
+      "unit_id": "m1-geometria",
+      "slug": "cuerpos-geometricos",
+      "title": "Cuerpos geométricos",
+      "summary": "Calcula áreas y volúmenes de prismas, cilindros y cuerpos compuestos.",
+      "objective": "Resolver problemas de área y volumen identificando bases, alturas y unidades cúbicas.",
+      "estimated_minutes": 24,
+      "difficulty": "Avanzado",
+      "sort_order": 6,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-geo-perimetro-area",
+        "m1-geo-circulo"
+      ],
+      "tags": [
+        "volumen",
+        "área",
+        "cuerpos 3D"
+      ],
+      "question_filter": {
+        "keywords": [
+          "volumen",
+          "prisma",
+          "cilindro",
+          "cuerpos"
+        ]
+      }
+    },
+    {
+      "id": "m1-est-tablas-graficos",
+      "unit_id": "m1-probabilidad-estadistica",
+      "slug": "tablas-y-graficos",
+      "title": "Tablas y gráficos",
+      "summary": "Lee, compara y comunica información representada con datos.",
+      "objective": "Interpretar tablas y gráficos, reconocer escalas y evaluar conclusiones basadas en datos.",
+      "estimated_minutes": 20,
+      "difficulty": "Básico",
+      "sort_order": 1,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [],
+      "tags": [
+        "datos",
+        "gráficos",
+        "representación"
+      ],
+      "question_filter": {
+        "keywords": [
+          "tablas",
+          "gráficos",
+          "frecuencia"
+        ]
+      }
+    },
+    {
+      "id": "m1-est-central",
+      "unit_id": "m1-probabilidad-estadistica",
+      "slug": "media-mediana-moda",
+      "title": "Media, mediana y moda",
+      "summary": "Resume conjuntos de datos y elige la medida más informativa.",
+      "objective": "Calcular e interpretar media, mediana y moda, evaluando el efecto de valores extremos.",
+      "estimated_minutes": 22,
+      "difficulty": "Básico",
+      "sort_order": 2,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-est-tablas-graficos"
+      ],
+      "tags": [
+        "tendencia central",
+        "datos",
+        "promedio"
+      ],
+      "question_filter": {
+        "keywords": [
+          "media",
+          "mediana",
+          "moda",
+          "promedio"
+        ]
+      }
+    },
+    {
+      "id": "m1-est-posicion-dispersion",
+      "unit_id": "m1-probabilidad-estadistica",
+      "slug": "posicion-y-dispersion",
+      "title": "Posición y dispersión",
+      "summary": "Compara la variabilidad y ubicación de datos con rango y cuartiles.",
+      "objective": "Interpretar medidas de posición y dispersión para comparar conjuntos de datos.",
+      "estimated_minutes": 24,
+      "difficulty": "Medio",
+      "sort_order": 3,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-est-central"
+      ],
+      "tags": [
+        "dispersión",
+        "cuartiles",
+        "rango"
+      ],
+      "question_filter": {
+        "keywords": [
+          "rango",
+          "cuartiles",
+          "dispersión",
+          "percentiles"
+        ]
+      }
+    },
+    {
+      "id": "m1-prob-simple",
+      "unit_id": "m1-probabilidad-estadistica",
+      "slug": "probabilidad-simple",
+      "title": "Probabilidad simple",
+      "summary": "Calcula y comunica la posibilidad de eventos en espacios equiprobables.",
+      "objective": "Resolver probabilidades simples identificando espacio muestral, casos favorables y complementos.",
+      "estimated_minutes": 20,
+      "difficulty": "Básico",
+      "sort_order": 4,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-num-fracciones"
+      ],
+      "tags": [
+        "probabilidad",
+        "eventos",
+        "complemento"
+      ],
+      "question_filter": {
+        "keywords": [
+          "probabilidad",
+          "espacio muestral",
+          "eventos"
+        ]
+      }
+    },
+    {
+      "id": "m1-prob-compuesta",
+      "unit_id": "m1-probabilidad-estadistica",
+      "slug": "probabilidad-compuesta",
+      "title": "Probabilidad compuesta",
+      "summary": "Combina etapas, eventos y complementos sin contar resultados dos veces.",
+      "objective": "Resolver probabilidades de experimentos de varias etapas usando diagramas, productos y sumas apropiadas.",
+      "estimated_minutes": 25,
+      "difficulty": "Medio",
+      "sort_order": 5,
+      "is_published": true,
+      "video_url": null,
+      "thumbnail_url": null,
+      "prerequisites": [
+        "m1-prob-simple"
+      ],
+      "tags": [
+        "probabilidad",
+        "regla multiplicativa",
+        "conteo"
+      ],
+      "question_filter": {
+        "keywords": [
+          "probabilidad compuesta",
+          "árbol",
+          "eventos"
+        ]
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver operaciones y problemas con números enteros respetando signos y prioridad operacional.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Los números enteros permiten representar ganancias y deudas, temperaturas sobre y bajo cero, alturas y desplazamientos. La clave no es memorizar reglas aisladas, sino interpretar qué significa cada signo en el contexto.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Signo y valor",
+            "body": "El signo indica posición respecto de cero. El valor absoluto mide distancia a cero, por lo que siempre es no negativo."
+          },
+          {
+            "title": "Suma y resta",
+            "body": "Sumar un número negativo equivale a retroceder; restar un número negativo equivale a sumar su opuesto."
+          },
+          {
+            "title": "Prioridad operacional",
+            "body": "Primero paréntesis, luego potencias, después multiplicaciones y divisiones, y finalmente sumas y restas de izquierda a derecha."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "|−7| = 7",
+          "a − (−b) = a + b"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Traducir el contexto a signos es el primer paso.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Situación",
+            "Cambio",
+            "Representación"
+          ],
+          "rows": [
+            [
+              "Temperatura baja 6°",
+              "Descenso",
+              "−6"
+            ],
+            [
+              "Se paga una deuda de $8.000",
+              "Disminución de deuda",
+              "+8.000 en el saldo neto"
+            ],
+            [
+              "Ascensor sube 4 pisos",
+              "Ascenso",
+              "+4"
+            ]
+          ],
+          "alt": "Tabla de interpretación de cambios con números enteros"
+        },
+        "caption": "Traducir el contexto a signos es el primer paso."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "La temperatura era 4 °C y bajó 9 °C. ¿Cuál es la nueva temperatura?",
+            "steps": [
+              "Representamos la baja como −9.",
+              "Calculamos 4 + (−9).",
+              "La diferencia de valores es 5 y domina el signo negativo."
+            ],
+            "answer": "−5 °C"
+          },
+          {
+            "problem": "Calcula 18 − 3·(−4) + 2.",
+            "steps": [
+              "Primero multiplicamos: 3·(−4)=−12.",
+              "Queda 18 − (−12) + 2.",
+              "Restar un negativo es sumar: 18+12+2."
+            ],
+            "answer": "32"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Ignorar el signo",
+            "description": "Usar solo los valores absolutos y perder el sentido de deuda, descenso o dirección."
+          },
+          {
+            "title": "Resolver de izquierda a derecha sin prioridad",
+            "description": "Sumar antes de multiplicar cambia el valor de la expresión."
+          },
+          {
+            "title": "Creer que dos negativos siempre dan positivo",
+            "description": "Eso ocurre al multiplicar o dividir, no necesariamente al sumar."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Interpreta cada signo antes de operar.",
+          "Usa paréntesis cuando reemplaces datos negativos.",
+          "Comprueba si el signo final tiene sentido en el contexto."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-num-enteros",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Comparar, transformar y operar fracciones y decimales usando representaciones equivalentes.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Una fracción representa una razón entre dos números y también una parte de una unidad. Los decimales son otra forma de escribir muchos números racionales. Elegir la representación adecuada simplifica el cálculo.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Fracciones equivalentes",
+            "body": "Multiplicar o dividir numerador y denominador por el mismo número distinto de cero conserva el valor."
+          },
+          {
+            "title": "Suma y resta",
+            "body": "Se necesita un denominador común porque las partes deben tener el mismo tamaño."
+          },
+          {
+            "title": "Multiplicación y división",
+            "body": "Al multiplicar se multiplican numeradores y denominadores. Dividir por una fracción equivale a multiplicar por su recíproco."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "a/b + c/d = (ad+bc)/bd",
+          "a/b ÷ c/d = a/b · d/c",
+          "0,25 = 25/100 = 1/4"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Tres escrituras distintas pueden representar el mismo valor.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Fracción",
+            "Decimal",
+            "Porcentaje"
+          ],
+          "rows": [
+            [
+              "1/2",
+              "0,5",
+              "50%"
+            ],
+            [
+              "1/4",
+              "0,25",
+              "25%"
+            ],
+            [
+              "3/5",
+              "0,6",
+              "60%"
+            ],
+            [
+              "7/10",
+              "0,7",
+              "70%"
+            ]
+          ],
+          "alt": "Equivalencias entre fracciones, decimales y porcentajes"
+        },
+        "caption": "Tres escrituras distintas pueden representar el mismo valor."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Calcula 3/4 + 2/3.",
+            "steps": [
+              "El mínimo común denominador es 12.",
+              "3/4=9/12 y 2/3=8/12.",
+              "Sumamos 9/12+8/12=17/12."
+            ],
+            "answer": "17/12 = 1 5/12"
+          },
+          {
+            "problem": "Una botella está llena en 0,6 de su capacidad y se consume 1/4 de la capacidad total.",
+            "steps": [
+              "Transformamos 0,6=3/5.",
+              "Calculamos 3/5−1/4.",
+              "Con denominador 20: 12/20−5/20=7/20."
+            ],
+            "answer": "Queda 7/20 de la capacidad"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Sumar numeradores y denominadores",
+            "description": "1/2+1/3 no es 2/5 porque las partes tienen tamaños distintos."
+          },
+          {
+            "title": "Confundir 0,5 con 0,05",
+            "description": "La posición decimal determina décimos, centésimos y milésimos."
+          },
+          {
+            "title": "Olvidar invertir al dividir",
+            "description": "La división de fracciones requiere multiplicar por el recíproco del divisor."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Busca equivalencias antes de operar.",
+          "Estima el resultado para detectar errores de magnitud.",
+          "Simplifica la fracción final cuando sea posible."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-num-fracciones",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Modelar situaciones con razones, tasas y proporciones, distinguiendo proporcionalidad directa e inversa.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Una razón compara dos cantidades mediante una división. Una proporción afirma que dos razones son equivalentes. Estas ideas aparecen en recetas, escalas, velocidades, precios unitarios y mezclas.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Razón",
+            "body": "La razón a:b puede escribirse a/b. El orden importa: 2:5 no significa lo mismo que 5:2."
+          },
+          {
+            "title": "Proporcionalidad directa",
+            "body": "Si una magnitud se multiplica por un factor, la otra también. El cociente y/x permanece constante."
+          },
+          {
+            "title": "Proporcionalidad inversa",
+            "body": "Cuando una magnitud aumenta, la otra disminuye manteniendo constante el producto x·y."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "y = kx",
+          "y = k/x",
+          "a/b = c/d ⇔ ad = bc"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "En una proporción directa, las barras crecen con el mismo factor.",
+      "data": {
+        "visual_type": "bar_chart",
+        "visual_data": {
+          "labels": [
+            "1 porción",
+            "2 porciones",
+            "3 porciones",
+            "4 porciones"
+          ],
+          "values": [
+            75,
+            150,
+            225,
+            300
+          ],
+          "yMax": 320,
+          "alt": "Crecimiento proporcional de gramos de arroz por porciones"
+        },
+        "caption": "En una proporción directa, las barras crecen con el mismo factor."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Para 4 personas se usan 300 g de arroz. ¿Cuánto se necesita para 10 personas?",
+            "steps": [
+              "Es una relación directa.",
+              "Calculamos 300/4=75 g por persona.",
+              "Multiplicamos 75·10."
+            ],
+            "answer": "750 g"
+          },
+          {
+            "problem": "6 trabajadores terminan una tarea en 8 días. Si trabajan al mismo ritmo, ¿cuánto tardan 12 trabajadores?",
+            "steps": [
+              "Es proporcionalidad inversa.",
+              "El producto trabajadores·días es 6·8=48.",
+              "Dividimos 48/12."
+            ],
+            "answer": "4 días"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Invertir la razón",
+            "description": "Cambiar el orden altera la comparación y puede cambiar la respuesta."
+          },
+          {
+            "title": "Aplicar regla de tres a todo",
+            "description": "Primero se debe decidir si la relación es directa, inversa o no proporcional."
+          },
+          {
+            "title": "No revisar unidades",
+            "description": "Una tasa debe indicar qué cantidad corresponde a cada unidad de la otra."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Identifica qué cantidades se comparan y en qué orden.",
+          "Comprueba si al aumentar una variable la otra aumenta o disminuye.",
+          "Usa la constante de proporcionalidad para verificar."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-num-razones",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver problemas de porcentaje interpretando correctamente valor inicial, variación y valor final.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Un porcentaje expresa una parte de cada cien. En problemas reales conviene separar tres elementos: el valor base, el porcentaje aplicado y el valor resultante.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Porcentaje de una cantidad",
+            "body": "Para hallar p% de N se multiplica N por p/100."
+          },
+          {
+            "title": "Aumento o descuento",
+            "body": "Un aumento de p% usa el factor 1+p/100; un descuento usa 1−p/100."
+          },
+          {
+            "title": "Variaciones sucesivas",
+            "body": "Los porcentajes sucesivos se aplican sobre bases diferentes, por lo que no siempre se suman."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "p% de N = N·p/100",
+          "Valor final = Valor inicial·(1±p/100)",
+          "Variación % = (final−inicial)/inicial·100"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "El precio final es el valor inicial menos el descuento.",
+      "data": {
+        "visual_type": "bar_chart",
+        "visual_data": {
+          "labels": [
+            "Precio inicial",
+            "Descuento",
+            "Precio final"
+          ],
+          "values": [
+            48000,
+            12000,
+            36000
+          ],
+          "yMax": 50000,
+          "alt": "Descomposición de un precio con descuento"
+        },
+        "caption": "El precio final es el valor inicial menos el descuento."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Una chaqueta cuesta $48.000 y tiene 25% de descuento.",
+            "steps": [
+              "Calculamos el factor de pago: 1−0,25=0,75.",
+              "Multiplicamos 48.000·0,75."
+            ],
+            "answer": "$36.000"
+          },
+          {
+            "problem": "Un precio sube 10% y luego baja 10%. ¿Vuelve al valor inicial?",
+            "steps": [
+              "Tomamos una base 100.",
+              "Sube a 110.",
+              "Luego baja 10% de 110: 110·0,9=99."
+            ],
+            "answer": "No; queda 1% por debajo"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Confundir descuento con precio final",
+            "description": "El 25% es lo rebajado; el cliente paga el 75%."
+          },
+          {
+            "title": "Sumar porcentajes sucesivos",
+            "description": "Cada cambio puede tener una base diferente."
+          },
+          {
+            "title": "Dividir por 100 en el lugar incorrecto",
+            "description": "Convierte el porcentaje a decimal una sola vez."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Determina siempre la cantidad base.",
+          "Usa factores multiplicativos para aumentos y descuentos.",
+          "Prueba con una base 100 para comprender variaciones sucesivas."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-num-porcentajes",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Aplicar propiedades de potencias y raíces para simplificar expresiones y representar magnitudes.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Las potencias expresan multiplicaciones repetidas y las raíces deshacen potencias. Sus propiedades permiten simplificar cálculos sin desarrollar números enormes.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Misma base",
+            "body": "Al multiplicar potencias de igual base se suman exponentes; al dividir, se restan."
+          },
+          {
+            "title": "Potencia de una potencia",
+            "body": "Se multiplican los exponentes."
+          },
+          {
+            "title": "Raíz cuadrada",
+            "body": "√a es el número no negativo cuyo cuadrado es a. No se distribuye sobre sumas."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "a^m·a^n = a^(m+n)",
+          "a^m/a^n = a^(m−n)",
+          "(a^m)^n = a^(mn)",
+          "a×10^n, con 1≤a<10"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "El exponente indica cuántas veces actúa el factor o su inverso.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Expresión",
+            "Significado",
+            "Resultado"
+          ],
+          "rows": [
+            [
+              "10³",
+              "10·10·10",
+              "1.000"
+            ],
+            [
+              "10⁻²",
+              "1/10²",
+              "0,01"
+            ],
+            [
+              "√81",
+              "Número no negativo cuyo cuadrado es 81",
+              "9"
+            ]
+          ],
+          "alt": "Tabla de potencias y raíces"
+        },
+        "caption": "El exponente indica cuántas veces actúa el factor o su inverso."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Simplifica 2³·2⁵/2⁴.",
+            "steps": [
+              "Sumamos exponentes al multiplicar: 2^(3+5).",
+              "Restamos el exponente del divisor: 2^(8−4).",
+              "Calculamos 2⁴."
+            ],
+            "answer": "16"
+          },
+          {
+            "problem": "Escribe 0,00072 en notación científica.",
+            "steps": [
+              "Movemos la coma hasta obtener 7,2.",
+              "Se movió 4 lugares hacia la derecha.",
+              "El exponente es negativo."
+            ],
+            "answer": "7,2×10⁻⁴"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Sumar exponentes en una suma",
+            "description": "Las propiedades de exponentes se aplican a productos o cocientes, no a a^m+a^n."
+          },
+          {
+            "title": "Creer que √(a+b)=√a+√b",
+            "description": "La raíz no se distribuye sobre una suma."
+          },
+          {
+            "title": "Signo del exponente científico",
+            "description": "Números menores que 1 usan exponente negativo."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Identifica primero si hay producto, cociente o potencia de potencia.",
+          "Comprueba raíces elevando el resultado al cuadrado.",
+          "En notación científica, el primer factor debe estar entre 1 y 10."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-num-potencias",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Modelar situaciones financieras simples y compuestas, comparando costos y beneficios.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "La matemática financiera permite comparar alternativas de ahorro, crédito y pago. Antes de calcular, identifica capital inicial, tasa, período y número de períodos.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Interés simple",
+            "body": "El interés de cada período se calcula siempre sobre el capital inicial."
+          },
+          {
+            "title": "Interés compuesto",
+            "body": "Cada período incorpora los intereses al capital, por lo que el crecimiento se acumula."
+          },
+          {
+            "title": "Costo total",
+            "body": "Para comparar cuotas, considera pie, número de cuotas, valor de cada cuota y cargos adicionales."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "M_simple = C(1+i·n)",
+          "M_compuesto = C(1+i)^n",
+          "Costo total = pie + número de cuotas·valor cuota"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "En el interés compuesto, el aumento mensual también crece.",
+      "data": {
+        "visual_type": "bar_chart",
+        "visual_data": {
+          "labels": [
+            "Mes 0",
+            "Mes 1",
+            "Mes 2",
+            "Mes 3"
+          ],
+          "values": [
+            200000,
+            204000,
+            208080,
+            212242
+          ],
+          "yMax": 220000,
+          "alt": "Crecimiento de un capital con interés compuesto"
+        },
+        "caption": "En el interés compuesto, el aumento mensual también crece."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Se invierten $200.000 al 2% mensual compuesto durante 3 meses.",
+            "steps": [
+              "C=200.000, i=0,02 y n=3.",
+              "Aplicamos M=200.000·(1,02)³.",
+              "(1,02)³≈1,061208."
+            ],
+            "answer": "Aproximadamente $212.242"
+          },
+          {
+            "problem": "Una compra ofrece $50.000 de pie y 8 cuotas de $32.000.",
+            "steps": [
+              "Multiplicamos las cuotas: 8·32.000=256.000.",
+              "Sumamos el pie: 256.000+50.000."
+            ],
+            "answer": "Costo total $306.000"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar interés simple cuando se capitaliza",
+            "description": "Si los intereses se suman al capital, se necesita crecimiento compuesto."
+          },
+          {
+            "title": "Comparar solo la cuota",
+            "description": "Una cuota menor puede esconder más períodos o un pie mayor."
+          },
+          {
+            "title": "Usar 2 en vez de 0,02",
+            "description": "Las tasas porcentuales deben convertirse a decimal."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Alinea la unidad de la tasa con la duración de cada período.",
+          "Distingue capital, interés y monto final.",
+          "Compara alternativas mediante costo total y no solo por cuota."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-num-financiera",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Representar relaciones mediante expresiones algebraicas y evaluar su valor para datos dados.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "El álgebra usa letras para representar valores desconocidos o variables. Traducir correctamente una frase a una expresión es una habilidad esencial para modelar problemas.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Términos y coeficientes",
+            "body": "En 3x+5, 3 es coeficiente de x y 5 es término independiente."
+          },
+          {
+            "title": "Expresiones equivalentes",
+            "body": "Se pueden reducir términos semejantes y aplicar propiedades distributivas sin cambiar el valor."
+          },
+          {
+            "title": "Evaluar",
+            "body": "Evaluar una expresión significa reemplazar la variable por un valor y respetar la prioridad operacional."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "a(b+c)=ab+ac",
+          "ax+bx=(a+b)x",
+          "El doble de x aumentado en 3: 2x+3"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "El orden de las palabras y los paréntesis cambia la expresión.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Frase",
+            "Expresión"
+          ],
+          "rows": [
+            [
+              "La mitad de x",
+              "x/2"
+            ],
+            [
+              "Cinco más que y",
+              "y+5"
+            ],
+            [
+              "El cuadrado de la diferencia",
+              "(a−b)²"
+            ],
+            [
+              "El doble de la suma",
+              "2(x+y)"
+            ]
+          ],
+          "alt": "Traducción de frases a expresiones algebraicas"
+        },
+        "caption": "El orden de las palabras y los paréntesis cambia la expresión."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Expresa “el triple de un número menos 7”.",
+            "steps": [
+              "Representamos el número por x.",
+              "El triple es 3x.",
+              "Luego restamos 7."
+            ],
+            "answer": "3x−7"
+          },
+          {
+            "problem": "Evalúa 2x²−3x+1 para x=−2.",
+            "steps": [
+              "Reemplazamos usando paréntesis: 2(−2)²−3(−2)+1.",
+              "Calculamos la potencia: (−2)²=4.",
+              "Sumamos 8+6+1."
+            ],
+            "answer": "15"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Confundir el doble de una suma",
+            "description": "El doble de x+3 es 2(x+3), no 2x+3."
+          },
+          {
+            "title": "Omitir paréntesis al reemplazar negativos",
+            "description": "El cuadrado de −2 requiere escribir (−2)²."
+          },
+          {
+            "title": "Sumar términos no semejantes",
+            "description": "3x+2 no puede reducirse a 5x."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Define claramente qué representa cada variable.",
+          "Subraya palabras como doble, diferencia, producto y cociente.",
+          "Verifica la expresión con un valor numérico sencillo."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-lenguaje",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver ecuaciones de primer grado y comprobar la solución en el problema original.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Una ecuación afirma que dos expresiones tienen el mismo valor. Resolverla consiste en encontrar los valores que mantienen verdadera esa igualdad.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Balanza algebraica",
+            "body": "Toda operación realizada en un lado debe realizarse también en el otro."
+          },
+          {
+            "title": "Agrupar y despejar",
+            "body": "Primero reduce términos semejantes; luego deja los términos con variable en un lado y las constantes en el otro."
+          },
+          {
+            "title": "Verificación",
+            "body": "Reemplazar la solución en la ecuación original detecta errores de signo o cálculo."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "ax+b=c ⇒ x=(c−b)/a, a≠0"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La igualdad se conserva cuando actúas sobre ambos lados.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Ecuación",
+            "Operación en ambos lados",
+            "Resultado"
+          ],
+          "rows": [
+            [
+              "4x−7=21",
+              "+7",
+              "4x=28"
+            ],
+            [
+              "4x=28",
+              "÷4",
+              "x=7"
+            ]
+          ],
+          "alt": "Pasos para resolver una ecuación lineal"
+        },
+        "caption": "La igualdad se conserva cuando actúas sobre ambos lados."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Resuelve 4x−7=21.",
+            "steps": [
+              "Sumamos 7 a ambos lados: 4x=28.",
+              "Dividimos ambos lados por 4."
+            ],
+            "answer": "x=7"
+          },
+          {
+            "problem": "Un plan cobra $5.000 fijos y $1.200 por uso. La cuenta fue $14.600. ¿Cuántos usos hubo?",
+            "steps": [
+              "Modelamos 5.000+1.200x=14.600.",
+              "Restamos 5.000: 1.200x=9.600.",
+              "Dividimos por 1.200."
+            ],
+            "answer": "8 usos"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Cambiar de lado sin comprender",
+            "description": "La frase “pasa restando” oculta que se realiza la misma operación en ambos miembros."
+          },
+          {
+            "title": "Distribuir mal un signo negativo",
+            "description": "−(x−3)=−x+3."
+          },
+          {
+            "title": "No verificar",
+            "description": "Una sustitución rápida puede revelar una respuesta imposible."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Mantén la igualdad aplicando operaciones equivalentes.",
+          "Reduce antes de despejar.",
+          "Comprueba la solución en la ecuación y en el contexto."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-ecuaciones",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver sistemas lineales de dos ecuaciones e interpretar su solución como intersección o respuesta contextual.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Un sistema reúne condiciones que deben cumplirse al mismo tiempo. La solución es el par de valores que satisface todas las ecuaciones.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Método de sustitución",
+            "body": "Despeja una variable y reemplázala en la otra ecuación."
+          },
+          {
+            "title": "Método de reducción",
+            "body": "Suma o resta ecuaciones para eliminar una variable."
+          },
+          {
+            "title": "Interpretación gráfica",
+            "body": "Cada ecuación lineal representa una recta; la solución es su punto de intersección."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "{ ax+by=c ; dx+ey=f }"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "En un sistema, la solución corresponde a la intersección de las rectas.",
+      "data": {
+        "visual_type": "function_graph",
+        "visual_data": {
+          "kind": "linear",
+          "a": 1,
+          "b": 4,
+          "xMin": -2,
+          "xMax": 8,
+          "yMin": -2,
+          "yMax": 12,
+          "alt": "Gráfico de una recta para ilustrar un sistema"
+        },
+        "caption": "En un sistema, la solución corresponde a la intersección de las rectas."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Resuelve x+y=10 y x−y=2.",
+            "steps": [
+              "Sumamos ambas ecuaciones: 2x=12.",
+              "Entonces x=6.",
+              "Reemplazamos en x+y=10: y=4."
+            ],
+            "answer": "(x,y)=(6,4)"
+          },
+          {
+            "problem": "Se vendieron 30 entradas: adulto $5.000 y estudiante $3.000. La recaudación fue $114.000.",
+            "steps": [
+              "a+e=30.",
+              "5.000a+3.000e=114.000.",
+              "Sustituimos e=30−a y resolvemos."
+            ],
+            "answer": "12 adultos y 18 estudiantes"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Resolver una ecuación y olvidar la otra",
+            "description": "La solución debe satisfacer ambas condiciones."
+          },
+          {
+            "title": "Sumar ecuaciones sin preparar coeficientes",
+            "description": "La reducción funciona cuando una variable se elimina."
+          },
+          {
+            "title": "Intercambiar las variables",
+            "description": "Define claramente qué representa x y qué representa y."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Escribe las dos condiciones antes de operar.",
+          "Elige el método que produzca menos cálculo.",
+          "Verifica el par ordenado en ambas ecuaciones."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-sistemas",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver desigualdades lineales, representar sus soluciones e interpretar restricciones contextuales.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Una desigualdad compara cantidades que no necesariamente son iguales. Su solución suele ser un conjunto de valores y no un único número.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Operaciones equivalentes",
+            "body": "Se puede sumar o restar el mismo número en ambos lados sin cambiar el sentido."
+          },
+          {
+            "title": "Cambio de sentido",
+            "body": "Al multiplicar o dividir por un número negativo, el signo de desigualdad se invierte."
+          },
+          {
+            "title": "Representación",
+            "body": "Un punto cerrado incluye el extremo; un punto abierto lo excluye."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "−2x>6 ⇒ x<−3",
+          "x≥4 corresponde a [4,+∞)"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La inclusión del extremo depende del lenguaje del problema.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Expresión verbal",
+            "Símbolo"
+          ],
+          "rows": [
+            [
+              "Menor que",
+              "<"
+            ],
+            [
+              "A lo más",
+              "≤"
+            ],
+            [
+              "Mayor que",
+              ">"
+            ],
+            [
+              "Al menos",
+              "≥"
+            ]
+          ],
+          "alt": "Palabras asociadas a signos de desigualdad"
+        },
+        "caption": "La inclusión del extremo depende del lenguaje del problema."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Resuelve 3x+5≤20.",
+            "steps": [
+              "Restamos 5: 3x≤15.",
+              "Dividimos por 3 positivo, por lo que el signo no cambia."
+            ],
+            "answer": "x≤5"
+          },
+          {
+            "problem": "Una persona puede gastar como máximo $36.000. Ya gastó $12.000 y cada entrada cuesta $6.000.",
+            "steps": [
+              "Modelamos 12.000+6.000x≤36.000.",
+              "Restamos 12.000 y dividimos por 6.000.",
+              "Como x cuenta entradas, usamos enteros no negativos."
+            ],
+            "answer": "Puede comprar como máximo 4 entradas"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "No invertir al dividir por negativo",
+            "description": "Es el error más frecuente en desigualdades."
+          },
+          {
+            "title": "Usar igualdad cuando el contexto dice menos que",
+            "description": "Distingue < de ≤."
+          },
+          {
+            "title": "Ignorar restricciones naturales",
+            "description": "Cantidades de personas u objetos suelen ser enteros no negativos."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Resuelve como una ecuación, pero vigila los factores negativos.",
+          "Traduce “como máximo”, “al menos” y “más que”.",
+          "Comprueba con un valor dentro y otro fuera del intervalo."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-desigualdades",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Representar e interpretar funciones lineales y afines en contextos matemáticos y cotidianos.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Una función relaciona cada valor de entrada con un único valor de salida. En una función afín, la pendiente indica la tasa de cambio y el intercepto representa el valor inicial.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Pendiente",
+            "body": "m=Δy/Δx mide cuánto cambia y cuando x aumenta una unidad."
+          },
+          {
+            "title": "Intercepto",
+            "body": "b=f(0) es el punto donde la recta corta el eje y."
+          },
+          {
+            "title": "Lectura contextual",
+            "body": "En y=mx+b, m suele representar costo por unidad, velocidad o tasa; b suele ser una tarifa fija o valor inicial."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "f(x)=mx+b",
+          "m=(y₂−y₁)/(x₂−x₁)"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La pendiente 2 indica que y aumenta 2 por cada unidad de x.",
+      "data": {
+        "visual_type": "function_graph",
+        "visual_data": {
+          "kind": "linear",
+          "a": 2,
+          "b": 3,
+          "xMin": -4,
+          "xMax": 5,
+          "yMin": -5,
+          "yMax": 14,
+          "alt": "Gráfico de la función y=2x+3"
+        },
+        "caption": "La pendiente 2 indica que y aumenta 2 por cada unidad de x."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Una recta pasa por (1,5) y (4,11).",
+            "steps": [
+              "Calculamos Δy=11−5=6.",
+              "Calculamos Δx=4−1=3.",
+              "m=6/3=2."
+            ],
+            "answer": "La pendiente es 2"
+          },
+          {
+            "problem": "Un taxi cobra $1.800 de bajada de bandera y $900 por kilómetro.",
+            "steps": [
+              "Definimos x como kilómetros.",
+              "El costo variable es 900x.",
+              "Sumamos la tarifa fija."
+            ],
+            "answer": "C(x)=900x+1.800"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Confundir pendiente con intercepto",
+            "description": "La pendiente es tasa de cambio; el intercepto es el valor cuando x=0."
+          },
+          {
+            "title": "Invertir Δy/Δx",
+            "description": "La pendiente se calcula cambio vertical dividido por cambio horizontal."
+          },
+          {
+            "title": "Leer un punto sin considerar la escala",
+            "description": "Revisa cuánto representa cada división del eje."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Identifica entrada, salida, tasa y valor inicial.",
+          "La recta crece si m>0 y decrece si m<0.",
+          "Verifica la ecuación sustituyendo un punto conocido."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-lineal",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Interpretar representaciones algebraicas y gráficas de funciones cuadráticas en problemas.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Las funciones cuadráticas modelan trayectorias, áreas y situaciones con máximo o mínimo. Su gráfico es una parábola cuya forma depende de sus coeficientes.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Concavidad",
+            "body": "En f(x)=ax²+bx+c, si a>0 la parábola abre hacia arriba; si a<0 abre hacia abajo."
+          },
+          {
+            "title": "Ceros",
+            "body": "Son los valores de x donde f(x)=0 y corresponden a intersecciones con el eje x."
+          },
+          {
+            "title": "Vértice",
+            "body": "Es el punto de máximo o mínimo. Su abscisa es x=−b/(2a)."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "f(x)=ax²+bx+c",
+          "x_v=−b/(2a)",
+          "x=[−b±√(b²−4ac)]/(2a)"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La parábola es negativa entre sus dos ceros.",
+      "data": {
+        "visual_type": "function_graph",
+        "visual_data": {
+          "kind": "quadratic",
+          "a": 1,
+          "b": -4,
+          "c": 3,
+          "xMin": -1,
+          "xMax": 5,
+          "yMin": -3,
+          "yMax": 10,
+          "alt": "Gráfico de la parábola x²−4x+3"
+        },
+        "caption": "La parábola es negativa entre sus dos ceros."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Analiza f(x)=x²−4x+3.",
+            "steps": [
+              "Factorizamos: (x−1)(x−3).",
+              "Los ceros son 1 y 3.",
+              "El vértice está en x=2 y f(2)=−1."
+            ],
+            "answer": "Ceros 1 y 3; vértice (2,−1)"
+          },
+          {
+            "problem": "La altura de un objeto es h(t)=−5t²+20t+1.",
+            "steps": [
+              "Como a<0 existe un máximo.",
+              "t_v=−20/(2·−5)=2.",
+              "h(2)=−20+40+1."
+            ],
+            "answer": "Altura máxima 21 en t=2"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Confundir ceros con intercepto en y",
+            "description": "Los ceros ocurren cuando y=0; el intercepto vertical es f(0)=c."
+          },
+          {
+            "title": "Olvidar la concavidad",
+            "description": "El signo de a permite decidir si el vértice es máximo o mínimo."
+          },
+          {
+            "title": "Interpretar soluciones fuera del contexto",
+            "description": "Un tiempo negativo puede ser algebraicamente válido pero no físicamente relevante."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Ubica primero concavidad, ceros e intercepto.",
+          "Usa el vértice para máximos y mínimos.",
+          "Interpreta el dominio según el contexto."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-cuadratica",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Modelar situaciones con funciones, interpretar parámetros y evaluar la razonabilidad de resultados.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Modelar no es solo escribir una fórmula: implica elegir variables, establecer supuestos, construir una relación, calcular y comprobar si la respuesta es coherente.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Variables y unidades",
+            "body": "Define qué representa cada variable y conserva unidades compatibles."
+          },
+          {
+            "title": "Tipo de relación",
+            "body": "Busca señales de crecimiento constante, proporcional, cuadrático o acumulativo."
+          },
+          {
+            "title": "Validación",
+            "body": "Un modelo puede ser algebraicamente correcto pero inadecuado fuera del rango observado."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "Modelo = relación + dominio + interpretación"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Un modelo útil incluye interpretación y validación.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Paso",
+            "Pregunta clave"
+          ],
+          "rows": [
+            [
+              "1. Comprender",
+              "¿Qué se busca?"
+            ],
+            [
+              "2. Definir",
+              "¿Qué representa cada variable?"
+            ],
+            [
+              "3. Relacionar",
+              "¿Qué fórmula describe la situación?"
+            ],
+            [
+              "4. Validar",
+              "¿El resultado tiene sentido?"
+            ]
+          ],
+          "alt": "Etapas para construir un modelo matemático"
+        },
+        "caption": "Un modelo útil incluye interpretación y validación."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Un estanque contiene 500 L y pierde 12 L por minuto.",
+            "steps": [
+              "Definimos t en minutos.",
+              "El valor inicial es 500 y la tasa es −12.",
+              "El modelo es V(t)=500−12t con V(t)≥0."
+            ],
+            "answer": "V(t)=500−12t, 0≤t≤41,67"
+          },
+          {
+            "problem": "Un rectángulo tiene perímetro 40 m. Expresa su área según un lado x.",
+            "steps": [
+              "2x+2y=40, entonces y=20−x.",
+              "Área A=xy.",
+              "Sustituimos y."
+            ],
+            "answer": "A(x)=x(20−x), con 0<x<20"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar todos los números sin relación",
+            "description": "Cada dato debe tener un papel claro en el modelo."
+          },
+          {
+            "title": "Omitir el dominio",
+            "description": "El contexto restringe valores posibles."
+          },
+          {
+            "title": "No interpretar parámetros",
+            "description": "Una pendiente o intercepto debe explicarse con palabras y unidades."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Define variables antes de formular.",
+          "Indica supuestos y dominio.",
+          "Contrasta el resultado con una estimación o dato real."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-alg-modelamiento",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver problemas de perímetro y área seleccionando fórmulas, unidades y descomposiciones adecuadas.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "El perímetro mide el contorno y el área mide la superficie. En figuras compuestas, conviene separar o completar formas conocidas.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Unidades",
+            "body": "Perímetros usan unidades lineales; áreas usan unidades cuadradas."
+          },
+          {
+            "title": "Descomposición",
+            "body": "Una figura compleja puede dividirse en rectángulos, triángulos u otras figuras simples."
+          },
+          {
+            "title": "Escala dimensional",
+            "body": "Si todas las longitudes se multiplican por k, el perímetro se multiplica por k y el área por k²."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "A_rectángulo=b·h",
+          "A_triángulo=b·h/2",
+          "A_trapecio=(B+b)h/2"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La altura debe ser perpendicular a la base elegida.",
+      "data": {
+        "visual_type": "triangle",
+        "visual_data": {
+          "base": 10,
+          "height": 6,
+          "leftLabel": "6 cm",
+          "baseLabel": "10 cm",
+          "hypotenuseLabel": "?",
+          "alt": "Triángulo para analizar base y altura"
+        },
+        "caption": "La altura debe ser perpendicular a la base elegida."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Un trapecio tiene bases 8 cm y 14 cm, y altura 5 cm.",
+            "steps": [
+              "Sumamos las bases: 22.",
+              "Multiplicamos por la altura: 110.",
+              "Dividimos por 2."
+            ],
+            "answer": "55 cm²"
+          },
+          {
+            "problem": "Un patio rectangular de 12 m por 8 m tiene una piscina de 4 m por 3 m.",
+            "steps": [
+              "Área del patio: 96 m².",
+              "Área de la piscina: 12 m².",
+              "Restamos la zona ocupada."
+            ],
+            "answer": "84 m² disponibles"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Confundir área y perímetro",
+            "description": "Una superficie no se obtiene sumando lados."
+          },
+          {
+            "title": "Olvidar dividir por dos",
+            "description": "Triángulos y trapecios incorporan el factor 1/2."
+          },
+          {
+            "title": "Mezclar unidades",
+            "description": "Convierte todas las medidas antes de operar."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Dibuja y etiqueta las medidas.",
+          "Escribe unidades en cada paso.",
+          "Estima si el área resultante es razonable."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-geo-perimetro-area",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Aplicar el teorema de Pitágoras para calcular longitudes y verificar triángulos rectángulos.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "En un triángulo rectángulo, la hipotenusa es el lado opuesto al ángulo recto y es el lado de mayor longitud.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Identificar lados",
+            "body": "Los catetos forman el ángulo recto; la hipotenusa está frente a él."
+          },
+          {
+            "title": "Calcular un cateto",
+            "body": "Si falta un cateto, se resta el cuadrado del cateto conocido al cuadrado de la hipotenusa."
+          },
+          {
+            "title": "Uso en el plano",
+            "body": "La distancia horizontal y vertical pueden actuar como catetos."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "c²=a²+b²",
+          "a=√(c²−b²)"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Los catetos son perpendiculares y la hipotenusa es el lado inclinado.",
+      "data": {
+        "visual_type": "triangle",
+        "visual_data": {
+          "base": 5,
+          "height": 12,
+          "leftLabel": "12 cm",
+          "baseLabel": "5 cm",
+          "hypotenuseLabel": "?",
+          "alt": "Triángulo rectángulo de lados 5, 12 y una hipotenusa desconocida"
+        },
+        "caption": "Los catetos son perpendiculares y la hipotenusa es el lado inclinado."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Catetos de 5 cm y 12 cm.",
+            "steps": [
+              "c²=5²+12².",
+              "c²=25+144=169.",
+              "c=√169."
+            ],
+            "answer": "13 cm"
+          },
+          {
+            "problem": "Una escalera de 10 m alcanza una altura de 8 m. ¿A qué distancia está su base del muro?",
+            "steps": [
+              "La escalera es la hipotenusa.",
+              "x²=10²−8²=100−64=36.",
+              "x=6."
+            ],
+            "answer": "6 m"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Sumar longitudes sin elevar al cuadrado",
+            "description": "La relación es entre cuadrados de longitudes."
+          },
+          {
+            "title": "Tomar un cateto como hipotenusa",
+            "description": "La hipotenusa siempre está frente al ángulo recto."
+          },
+          {
+            "title": "Olvidar la raíz final",
+            "description": "Después de hallar c² se debe calcular c."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Marca el ángulo recto y la hipotenusa.",
+          "Escribe la ecuación antes de reemplazar.",
+          "La hipotenusa debe resultar mayor que cada cateto."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-geo-pitagoras",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver problemas de semejanza, escalas y variaciones de longitud, área y volumen.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Figuras semejantes tienen la misma forma y sus lados correspondientes son proporcionales. El factor de escala permite pasar de una figura a otra.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Correspondencia",
+            "body": "Primero identifica qué lados y ángulos ocupan posiciones equivalentes."
+          },
+          {
+            "title": "Factor lineal",
+            "body": "Si una longitud se multiplica por k, todas las longitudes correspondientes también."
+          },
+          {
+            "title": "Efectos en área y volumen",
+            "body": "Las áreas cambian por k² y los volúmenes por k³."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "lado nuevo = k·lado original",
+          "área nueva = k²·área original",
+          "escala 1:n ⇒ 1 unidad en mapa representa n reales"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Cada dimensión adicional agrega otra potencia del factor.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Factor lineal k",
+            "Perímetro",
+            "Área",
+            "Volumen"
+          ],
+          "rows": [
+            [
+              "2",
+              "×2",
+              "×4",
+              "×8"
+            ],
+            [
+              "3",
+              "×3",
+              "×9",
+              "×27"
+            ],
+            [
+              "1/2",
+              "×1/2",
+              "×1/4",
+              "×1/8"
+            ]
+          ],
+          "alt": "Efectos del factor de escala"
+        },
+        "caption": "Cada dimensión adicional agrega otra potencia del factor."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "En un plano a escala 1:500, una distancia mide 6 cm.",
+            "steps": [
+              "Multiplicamos 6·500=3.000 cm.",
+              "Convertimos 3.000 cm a 30 m."
+            ],
+            "answer": "30 m"
+          },
+          {
+            "problem": "Una figura se amplía con factor 3 y su área original es 8 cm².",
+            "steps": [
+              "El factor de área es 3²=9.",
+              "Multiplicamos 8·9."
+            ],
+            "answer": "72 cm²"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar k en vez de k² para áreas",
+            "description": "Las superficies crecen en dos dimensiones."
+          },
+          {
+            "title": "Invertir la escala",
+            "description": "Aclara si conviertes del dibujo a la realidad o al revés."
+          },
+          {
+            "title": "Relacionar lados no correspondientes",
+            "description": "Respeta el orden y la posición de vértices."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Encuentra primero el factor lineal.",
+          "Determina si se pregunta longitud, área o volumen.",
+          "Incluye conversiones de unidad al final."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-geo-semejanza",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Representar transformaciones isométricas mediante coordenadas y describir propiedades que se conservan.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Las isometrías cambian la posición u orientación de una figura, pero conservan distancias y ángulos. Por eso la figura original y su imagen son congruentes.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Traslación",
+            "body": "Todos los puntos se desplazan el mismo vector."
+          },
+          {
+            "title": "Reflexión",
+            "body": "Cada punto y su imagen quedan a igual distancia del eje de simetría."
+          },
+          {
+            "title": "Rotación",
+            "body": "Cada punto gira el mismo ángulo alrededor de un centro."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "Traslación por (a,b): (x,y)→(x+a,y+b)",
+          "Reflexión eje y: (x,y)→(−x,y)",
+          "Rotación 180° en origen: (x,y)→(−x,−y)"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Las reglas permiten transformar cada vértice de forma consistente.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Transformación",
+            "Regla ejemplo"
+          ],
+          "rows": [
+            [
+              "Traslación (3,−2)",
+              "(x,y)→(x+3,y−2)"
+            ],
+            [
+              "Reflexión eje x",
+              "(x,y)→(x,−y)"
+            ],
+            [
+              "Rotación 180°",
+              "(x,y)→(−x,−y)"
+            ]
+          ],
+          "alt": "Reglas de transformaciones en coordenadas"
+        },
+        "caption": "Las reglas permiten transformar cada vértice de forma consistente."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Traslada P(−2,3) por el vector (5,−1).",
+            "steps": [
+              "Sumamos 5 a la coordenada x.",
+              "Sumamos −1 a la coordenada y."
+            ],
+            "answer": "P'(3,2)"
+          },
+          {
+            "problem": "Refleja A(4,−2) respecto del eje y.",
+            "steps": [
+              "La coordenada x cambia de signo.",
+              "La coordenada y se conserva."
+            ],
+            "answer": "A'(−4,−2)"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Mover cada punto de manera distinta",
+            "description": "Una traslación usa el mismo vector para todos."
+          },
+          {
+            "title": "Cambiar ambas coordenadas en una reflexión axial",
+            "description": "Depende del eje de reflexión."
+          },
+          {
+            "title": "Confundir rotación con reflexión",
+            "description": "La rotación conserva la orientación relativa del giro y tiene un centro."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Escribe la regla de transformación antes de aplicarla.",
+          "Comprueba que las distancias se conservan.",
+          "Dibuja un punto sencillo para verificar el sentido."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-geo-transformaciones",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver problemas de circunferencia y círculo usando radio, diámetro, longitud y área.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "La circunferencia es la línea que limita al círculo; el círculo incluye toda la región interior. Distinguir longitud y área evita aplicar la fórmula equivocada.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Radio y diámetro",
+            "body": "El diámetro mide dos radios y pasa por el centro."
+          },
+          {
+            "title": "Longitud de circunferencia",
+            "body": "Mide el contorno y usa unidades lineales."
+          },
+          {
+            "title": "Área del círculo",
+            "body": "Mide la superficie y usa unidades cuadradas."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "d=2r",
+          "L=2πr=πd",
+          "A=πr²"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Longitud y área crecen de manera diferente al variar el radio.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Radio",
+            "Diámetro",
+            "Longitud",
+            "Área"
+          ],
+          "rows": [
+            [
+              "3",
+              "6",
+              "6π",
+              "9π"
+            ],
+            [
+              "5",
+              "10",
+              "10π",
+              "25π"
+            ],
+            [
+              "r",
+              "2r",
+              "2πr",
+              "πr²"
+            ]
+          ],
+          "alt": "Relaciones entre radio, diámetro, longitud y área"
+        },
+        "caption": "Longitud y área crecen de manera diferente al variar el radio."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Una rueda tiene radio 35 cm. ¿Qué distancia recorre en una vuelta?",
+            "steps": [
+              "Una vuelta corresponde a la longitud de la circunferencia.",
+              "L=2π·35=70π."
+            ],
+            "answer": "70π cm, aproximadamente 220 cm"
+          },
+          {
+            "problem": "Un jardín circular tiene diámetro 10 m.",
+            "steps": [
+              "El radio es 5 m.",
+              "A=π·5²."
+            ],
+            "answer": "25π m²"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar el diámetro como radio",
+            "description": "Si entregan diámetro, divídelo por dos antes de calcular el área."
+          },
+          {
+            "title": "Confundir longitud con área",
+            "description": "El contorno usa 2πr y la superficie usa πr²."
+          },
+          {
+            "title": "Omitir el cuadrado en el área",
+            "description": "El área cambia con el cuadrado del radio."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Marca si el dato es radio o diámetro.",
+          "Decide si se pide contorno o superficie.",
+          "Mantén π exacto salvo que se solicite aproximación."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-geo-circulo",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver problemas de área y volumen identificando bases, alturas y unidades cúbicas.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "El volumen mide cuánto espacio ocupa un cuerpo. Muchos sólidos se analizan como una base que se repite a lo largo de una altura.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Prismas",
+            "body": "El volumen es área de la base por altura."
+          },
+          {
+            "title": "Cilindros",
+            "body": "La base es un círculo, por lo que V=πr²h."
+          },
+          {
+            "title": "Unidades cúbicas",
+            "body": "Cada dimensión aporta una unidad; por eso el volumen se expresa en cm³, m³, etc."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "V_prisma=A_base·h",
+          "V_cilindro=πr²h",
+          "1 L=1.000 cm³"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La estructura A_base·altura unifica varios cuerpos.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Cuerpo",
+            "Área de base",
+            "Volumen"
+          ],
+          "rows": [
+            [
+              "Prisma rectangular",
+              "largo·ancho",
+              "largo·ancho·altura"
+            ],
+            [
+              "Cilindro",
+              "πr²",
+              "πr²h"
+            ],
+            [
+              "Prisma triangular",
+              "b·h/2",
+              "(b·h/2)·L"
+            ]
+          ],
+          "alt": "Fórmulas de volumen como área de base por altura"
+        },
+        "caption": "La estructura A_base·altura unifica varios cuerpos."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Una caja mide 40 cm×25 cm×30 cm.",
+            "steps": [
+              "Multiplicamos las tres dimensiones.",
+              "40·25·30=30.000 cm³.",
+              "Dividimos por 1.000 para litros."
+            ],
+            "answer": "30 L"
+          },
+          {
+            "problem": "Un cilindro tiene radio 3 cm y altura 10 cm.",
+            "steps": [
+              "Área de la base: π·3²=9π.",
+              "Multiplicamos por altura 10."
+            ],
+            "answer": "90π cm³"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar perímetro de la base",
+            "description": "El volumen necesita área de base, no su contorno."
+          },
+          {
+            "title": "Olvidar elevar el radio",
+            "description": "La base circular tiene área πr²."
+          },
+          {
+            "title": "Confundir cm² con cm³",
+            "description": "El volumen se expresa en unidades cúbicas."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Identifica la base y la altura perpendicular.",
+          "Convierte unidades antes de multiplicar.",
+          "Comprueba la magnitud comparando con un objeto conocido."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-geo-cuerpos",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Interpretar tablas y gráficos, reconocer escalas y evaluar conclusiones basadas en datos.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Una representación de datos resume información, pero también puede inducir a error si la escala, las categorías o el total no se observan con cuidado.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Frecuencia",
+            "body": "Indica cuántas veces aparece una categoría o valor."
+          },
+          {
+            "title": "Escala",
+            "body": "Antes de leer alturas o puntos, identifica cuánto representa cada intervalo del eje."
+          },
+          {
+            "title": "Comparación válida",
+            "body": "Usa la misma unidad y base al comparar porcentajes o frecuencias."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "Frecuencia relativa = frecuencia/total",
+          "Porcentaje = frecuencia relativa·100"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La suma de frecuencias es 60 y permite calcular porcentajes.",
+      "data": {
+        "visual_type": "bar_chart",
+        "visual_data": {
+          "labels": [
+            "Bus",
+            "Bicicleta",
+            "Caminata",
+            "Auto"
+          ],
+          "values": [
+            24,
+            18,
+            12,
+            6
+          ],
+          "yMax": 30,
+          "alt": "Gráfico de medios de transporte de 60 estudiantes"
+        },
+        "caption": "La suma de frecuencias es 60 y permite calcular porcentajes."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "En una encuesta, 18 de 60 estudiantes eligen bicicleta.",
+            "steps": [
+              "Frecuencia relativa: 18/60=0,3.",
+              "Convertimos a porcentaje: 0,3·100."
+            ],
+            "answer": "30%"
+          },
+          {
+            "problem": "Un gráfico comienza el eje vertical en 90 y una barra llega a 100, otra a 95.",
+            "steps": [
+              "La diferencia real es 5.",
+              "El eje truncado hace que visualmente parezca mayor.",
+              "La conclusión debe considerar la escala."
+            ],
+            "answer": "La diferencia es 5 unidades, no el doble"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Ignorar el total",
+            "description": "Una frecuencia aislada no permite comparar grupos de tamaños distintos."
+          },
+          {
+            "title": "Leer barras sin revisar escala",
+            "description": "Ejes truncados pueden exagerar diferencias."
+          },
+          {
+            "title": "Confundir frecuencia con porcentaje",
+            "description": "La frecuencia cuenta casos; el porcentaje los compara con el total."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Lee título, fuente, ejes y unidades.",
+          "Calcula el total antes de convertir a porcentaje.",
+          "Distingue lo que el gráfico muestra de lo que solo sugiere."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-est-tablas-graficos",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Calcular e interpretar media, mediana y moda, evaluando el efecto de valores extremos.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Las medidas de tendencia central resumen un conjunto de datos, pero cada una responde a una pregunta diferente. Elegir la más adecuada depende de la distribución y del contexto.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Media",
+            "body": "Suma todos los datos y divide por la cantidad. Usa toda la información y es sensible a extremos."
+          },
+          {
+            "title": "Mediana",
+            "body": "Ordena los datos y toma el valor central. Es resistente a valores extremos."
+          },
+          {
+            "title": "Moda",
+            "body": "Es el valor o categoría con mayor frecuencia. Puede haber más de una o ninguna."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "Media = suma de datos/cantidad de datos"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "La frecuencia permite reconstruir y resumir el conjunto.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Dato",
+            "Frecuencia"
+          ],
+          "rows": [
+            [
+              "4",
+              "1"
+            ],
+            [
+              "6",
+              "2"
+            ],
+            [
+              "7",
+              "1"
+            ],
+            [
+              "12",
+              "1"
+            ]
+          ],
+          "alt": "Tabla de frecuencias para calcular media mediana y moda"
+        },
+        "caption": "La frecuencia permite reconstruir y resumir el conjunto."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Datos: 4, 6, 6, 7, 12.",
+            "steps": [
+              "Media=(4+6+6+7+12)/5=35/5=7.",
+              "Mediana: el valor central es 6.",
+              "Moda: 6 aparece dos veces."
+            ],
+            "answer": "Media 7, mediana 6, moda 6"
+          },
+          {
+            "problem": "Sueldos: 500, 520, 530, 540 y 5.000 (miles).",
+            "steps": [
+              "El valor 5.000 eleva mucho la media.",
+              "La mediana sigue siendo 530.",
+              "Para describir un sueldo típico, la mediana es más representativa."
+            ],
+            "answer": "Conviene usar la mediana"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "No ordenar para hallar mediana",
+            "description": "La posición central solo tiene sentido con los datos ordenados."
+          },
+          {
+            "title": "Confundir moda con mayor valor",
+            "description": "La moda es el más frecuente, no necesariamente el más grande."
+          },
+          {
+            "title": "Dividir por un número incorrecto",
+            "description": "La media se divide por la cantidad de datos, no por su suma."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Ordena siempre antes de buscar mediana.",
+          "Observa valores extremos antes de elegir una medida.",
+          "Interpreta la medida con unidades y contexto."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-est-central",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Interpretar medidas de posición y dispersión para comparar conjuntos de datos.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Dos conjuntos pueden tener la misma media y comportarse de manera muy distinta. Las medidas de dispersión muestran qué tan separados están los datos.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Rango",
+            "body": "Es la diferencia entre valor máximo y mínimo. Es simple, pero depende solo de los extremos."
+          },
+          {
+            "title": "Cuartiles",
+            "body": "Dividen los datos ordenados en cuatro grupos aproximadamente iguales."
+          },
+          {
+            "title": "Rango intercuartílico",
+            "body": "RIC=Q3−Q1 mide la dispersión del 50% central y es menos sensible a extremos."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "Rango=máximo−mínimo",
+          "RIC=Q3−Q1"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Datos cercanos entre sí muestran menor dispersión.",
+      "data": {
+        "visual_type": "bar_chart",
+        "visual_data": {
+          "labels": [
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "A5"
+          ],
+          "values": [
+            4,
+            5,
+            5,
+            5,
+            6
+          ],
+          "yMax": 10,
+          "alt": "Datos de un conjunto poco disperso"
+        },
+        "caption": "Datos cercanos entre sí muestran menor dispersión."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "A: 4,5,5,5,6; B: 1,3,5,7,9.",
+            "steps": [
+              "Ambos tienen media 5.",
+              "Rango de A=2 y rango de B=8.",
+              "B es mucho más disperso."
+            ],
+            "answer": "B presenta mayor variabilidad"
+          },
+          {
+            "problem": "Q1=12 y Q3=20.",
+            "steps": [
+              "RIC=Q3−Q1.",
+              "20−12=8."
+            ],
+            "answer": "El 50% central se extiende en 8 unidades"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Confundir media con dispersión",
+            "description": "La media ubica el centro; no indica cuánto varían los datos."
+          },
+          {
+            "title": "Calcular rango como suma",
+            "description": "El rango es máximo menos mínimo."
+          },
+          {
+            "title": "Interpretar mayor dispersión como mejor",
+            "description": "La valoración depende del contexto: consistencia, riesgo o diversidad."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Compara centro y dispersión por separado.",
+          "Ordena datos para determinar posiciones.",
+          "Explica qué significa una mayor variabilidad en el contexto."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-est-posicion-dispersion",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver probabilidades simples identificando espacio muestral, casos favorables y complementos.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "La probabilidad cuantifica la posibilidad de que ocurra un evento. En situaciones equiprobables, se compara la cantidad de casos favorables con el total de casos posibles.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Espacio muestral",
+            "body": "Conjunto de todos los resultados posibles."
+          },
+          {
+            "title": "Evento",
+            "body": "Subconjunto de resultados que cumplen una condición."
+          },
+          {
+            "title": "Complemento",
+            "body": "El evento contrario a A tiene probabilidad 1−P(A)."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "P(A)=casos favorables/casos posibles",
+          "P(no A)=1−P(A)"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Tres de seis resultados son favorables.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Resultado del dado",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "rows": [
+            [
+              "¿Es par?",
+              "No",
+              "Sí",
+              "No",
+              "Sí",
+              "No",
+              "Sí"
+            ]
+          ],
+          "alt": "Espacio muestral de un dado para evento par"
+        },
+        "caption": "Tres de seis resultados son favorables."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Se lanza un dado justo. Probabilidad de obtener un número par.",
+            "steps": [
+              "Espacio: {1,2,3,4,5,6}.",
+              "Favorables: {2,4,6}, tres casos.",
+              "P=3/6."
+            ],
+            "answer": "1/2"
+          },
+          {
+            "problem": "En una bolsa hay 4 rojas, 3 azules y 1 verde. Probabilidad de no sacar verde.",
+            "steps": [
+              "Total 8.",
+              "P(verde)=1/8.",
+              "Complemento: 1−1/8."
+            ],
+            "answer": "7/8"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar un total incompleto",
+            "description": "El denominador debe incluir todos los resultados posibles."
+          },
+          {
+            "title": "Confundir favorable con seguro",
+            "description": "Casos favorables son solo los que cumplen el evento."
+          },
+          {
+            "title": "Sumar probabilidades incompatibles sin revisar",
+            "description": "Primero determina si los eventos se superponen."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Enumera o cuenta el espacio muestral.",
+          "Define el evento con precisión.",
+          "La probabilidad debe quedar entre 0 y 1."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-prob-simple",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "objective",
+      "title": "Objetivo de aprendizaje",
+      "content": "Resolver probabilidades de experimentos de varias etapas usando diagramas, productos y sumas apropiadas.",
+      "data": {},
+      "sort_order": 1
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "text",
+      "title": "Antes de comenzar",
+      "content": "Cuando un experimento tiene varias etapas, conviene representar cada camino posible. La probabilidad de un camino se obtiene multiplicando; la de varios caminos alternativos, sumando cuando no se superponen.",
+      "data": {},
+      "sort_order": 2
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "concepts",
+      "title": "Conceptos clave",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Regla del producto",
+            "body": "Para una secuencia de etapas, multiplica las probabilidades condicionales de cada paso."
+          },
+          {
+            "title": "Regla de la suma",
+            "body": "Para caminos mutuamente excluyentes, suma sus probabilidades."
+          },
+          {
+            "title": "Con o sin reposición",
+            "body": "Sin reposición cambia el total y las probabilidades de la segunda extracción."
+          }
+        ]
+      },
+      "sort_order": 3
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "formula",
+      "title": "Relaciones y fórmulas",
+      "content": "",
+      "data": {
+        "items": [
+          "P(A y B)=P(A)·P(B|A)",
+          "P(A o B)=P(A)+P(B) si son excluyentes"
+        ]
+      },
+      "sort_order": 4
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "visual",
+      "title": "Representación visual",
+      "content": "Sin reposición, la segunda probabilidad depende de la primera.",
+      "data": {
+        "visual_type": "table",
+        "visual_data": {
+          "headers": [
+            "Etapa",
+            "Probabilidad roja",
+            "Objetos restantes"
+          ],
+          "rows": [
+            [
+              "Primera extracción",
+              "3/5",
+              "4"
+            ],
+            [
+              "Segunda si salió roja",
+              "2/4",
+              "3"
+            ]
+          ],
+          "alt": "Probabilidades sucesivas sin reposición"
+        },
+        "caption": "Sin reposición, la segunda probabilidad depende de la primera."
+      },
+      "sort_order": 5
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "examples",
+      "title": "Ejemplos resueltos",
+      "content": "",
+      "data": {
+        "examples": [
+          {
+            "problem": "Se lanza una moneda y un dado. Probabilidad de cara y número mayor que 4.",
+            "steps": [
+              "P(cara)=1/2.",
+              "P(mayor que 4)=2/6=1/3.",
+              "Son etapas independientes: multiplicamos."
+            ],
+            "answer": "1/6"
+          },
+          {
+            "problem": "Bolsa con 3 rojas y 2 azules. Se extraen dos sin reposición. Probabilidad de ambas rojas.",
+            "steps": [
+              "Primera roja: 3/5.",
+              "Quedan 2 rojas de 4: 2/4.",
+              "Multiplicamos 3/5·2/4."
+            ],
+            "answer": "3/10"
+          }
+        ]
+      },
+      "sort_order": 6
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "common_errors",
+      "title": "Errores frecuentes",
+      "content": "",
+      "data": {
+        "items": [
+          {
+            "title": "Usar el mismo denominador sin reposición",
+            "description": "Después de extraer un objeto, cambia el total."
+          },
+          {
+            "title": "Sumar etapas consecutivas",
+            "description": "Los pasos de un mismo camino se multiplican."
+          },
+          {
+            "title": "Contar dos veces un resultado",
+            "description": "Revisa si los eventos se superponen antes de sumar."
+          }
+        ]
+      },
+      "sort_order": 7
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "summary",
+      "title": "Lo esencial",
+      "content": "",
+      "data": {
+        "items": [
+          "Dibuja las etapas o enumera caminos.",
+          "Multiplica a lo largo de un camino y suma entre caminos alternativos.",
+          "Revisa si hay reposición e independencia."
+        ]
+      },
+      "sort_order": 8
+    },
+    {
+      "lesson_id": "m1-prob-compuesta",
+      "block_type": "practice",
+      "title": "Comprueba tu aprendizaje",
+      "content": "Responde tres preguntas breves y luego continúa con práctica específica.",
+      "data": {},
+      "sort_order": 9
+    }
+  ]
+}
