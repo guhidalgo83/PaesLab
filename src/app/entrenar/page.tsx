@@ -155,7 +155,7 @@ export default function TrainingPage() {
       return;
     }
 
-    const shuffled = [...(data ?? [])]
+    const shuffled = [...((data ?? []) as unknown as Question[])]
       .sort(() => Math.random() - 0.5)
       .slice(0, 10) as Question[];
 

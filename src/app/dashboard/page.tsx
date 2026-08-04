@@ -133,7 +133,6 @@ const errorLabels: Record<string, string> = {
   confunde_base_exponente: "Confunde base con exponente",
   division_en_vez_log: "Divide en vez de usar exponente",
   confunde_seno_tangente: "Confunde seno con tangente",
-  invierte_razon: "Invierte la razón trigonométrica",
   confunde_inscrito_central: "Confunde ángulo inscrito con central",
   duplica_arco: "Duplica el arco",
   usa_area_circulo: "Usa el área de un círculo",
@@ -223,7 +222,7 @@ export default function DashboardPage() {
     if (attemptsResult.error) {
       setErrorMessage(attemptsResult.error.message);
     } else {
-      setAttempts((attemptsResult.data ?? []) as AttemptRow[]);
+      setAttempts((attemptsResult.data ?? []) as unknown as AttemptRow[]);
     }
 
     if (!sessionsResult.error) {

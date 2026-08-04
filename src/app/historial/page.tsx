@@ -139,7 +139,7 @@ export default function SimulationHistoryPage() {
       return;
     }
 
-    const loadedSessions = (sessionData ?? []) as SessionRow[];
+    const loadedSessions = (sessionData ?? []) as unknown as SessionRow[];
     setSessions(loadedSessions);
     setSelectedSessionId(loadedSessions[0]?.id ?? null);
 

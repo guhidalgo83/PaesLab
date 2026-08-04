@@ -140,7 +140,7 @@ export default function LessonPracticePage() {
       .order("sort_order")
       .limit(20);
 
-    let linked = (linkData ?? [])
+    let linked = ((linkData ?? []) as unknown as Array<{ questions: Question | Question[] | null }>)
       .map((row: { questions: Question | Question[] | null }) =>
         Array.isArray(row.questions)
           ? row.questions[0]
@@ -165,7 +165,7 @@ export default function LessonPracticePage() {
 
       linked = [
         ...linked,
-        ...((fallback ?? []) as Question[]).filter(
+        ...((fallback ?? []) as unknown as Question[]).filter(
           (question) =>
             !linked.some((item) => item.id === question.id),
         ),

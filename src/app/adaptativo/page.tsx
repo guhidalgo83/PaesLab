@@ -207,7 +207,7 @@ export default function AdaptiveTrainingPage() {
       return;
     }
 
-    const bank = (bankResult.data ?? []) as Question[];
+    const bank = (bankResult.data ?? []) as unknown as Question[];
 
     if (bank.length === 0) {
       setQuestions([]);

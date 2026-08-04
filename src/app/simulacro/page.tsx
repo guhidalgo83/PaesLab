@@ -165,7 +165,7 @@ export default function SimulacroPage() {
       return;
     }
 
-    const selected = shuffle((data ?? []) as Question[]).slice(
+    const selected = shuffle((data ?? []) as unknown as Question[]).slice(
       0,
       questionCount,
     );

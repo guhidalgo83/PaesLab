@@ -116,7 +116,7 @@ async function loadItems() {
       return;
     }
 
-    setItems((data ?? []) as PlanItem[]);
+    setItems((data ?? []) as unknown as PlanItem[]);
   }
 
 async function refreshRecommendations(showResult = true) {
