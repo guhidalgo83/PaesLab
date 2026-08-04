@@ -1,37 +1,41 @@
-# PAESLab Aprender V2 Integrado
+# PAESLab V3 — Contenidos profundos: M1 Números
 
-## Qué incorpora
-- Progreso automático mientras el alumno lee una lección.
-- El 100% se obtiene al completar la mini evaluación.
-- Plan personal generado desde errores reales.
-- Mayor prioridad para errores respondidos con alta seguridad.
-- Práctica específica de 10 preguntas para cada lección.
-- Diagnóstico por alternativa en la práctica específica.
-- Sincronización automática: completar una lección completa también
-  el elemento correspondiente del plan.
-- Navegación entre lección anterior y siguiente.
-- Acceso “Mi plan” desde el encabezado de Aprender.
+Esta versión transforma las seis lecciones del eje Números desde resúmenes breves
+a clases completas.
+
+## Incluye
+- 6 lecciones profundizadas.
+- 78 bloques pedagógicos.
+- 36 ejercicios totalmente resueltos.
+- 18 ejercicios guiados con pistas y solución desplegable.
+- Prerrequisitos, explicación conceptual, método PAES, errores frecuentes y criterios de dominio.
+- Ejemplos clasificados por habilidad: Resolver, Modelar, Representar y Argumentar.
+- Tiempo estimado de 42 a 50 minutos por lección.
 
 ## Instalación
-1. Ejecuta `database/01_aprender_v2_integration.sql`.
-2. Copia o reemplaza los archivos de la carpeta `src`.
-3. Guarda con Ctrl+S.
-4. Abre `/mi-plan`.
-5. Responde algunas preguntas incorrectamente y pulsa
-   “Actualizar recomendaciones”.
-6. Abre una lección y desplázate para comprobar el progreso.
-7. Pulsa “Práctica específica” desde una lección.
+1. Descomprime el ZIP en la raíz del proyecto.
+2. Reemplaza `src/components/learning/LessonBlockRenderer.tsx`.
+3. En Supabase ejecuta `database/06_deepen_m1_numbers.sql`.
+4. Ejecuta `database/07_verify_deep_numbers.sql`.
+5. Reinicia el servidor o espera la recompilación.
+6. Prueba `/aprender/leccion/porcentajes`.
 
-## Archivos que reemplaza
-- `src/components/learning/LearningHeader.tsx`
-- `src/app/aprender/leccion/[slug]/page.tsx`
+## Resultado esperado
+Cada lección tendrá 13 bloques:
+1. Meta
+2. Prerrequisitos
+3. Explicación profunda
+4. Conceptos
+5. Fórmulas
+6. Método de resolución
+7-9. Seis ejemplos resueltos
+10. Tres ejercicios guiados
+11. Errores frecuentes
+12. Dominio esperado
+13. Mini evaluación
 
-## Archivos nuevos
-- `src/components/learning/LessonProgressTracker.tsx`
-- `src/app/mi-plan/page.tsx`
-- `src/app/practicar-leccion/[lessonId]/page.tsx`
-
-## Importante
-La recomendación depende de que las preguntas estén vinculadas a las
-lecciones mediante `lesson_question_links`. Si el plan queda vacío,
-ejecuta nuevamente el script de vinculación automática de Aprender V1.
+## Próxima fase
+Aplicar el mismo estándar a:
+- Álgebra y funciones: 7 lecciones
+- Geometría: 6 lecciones
+- Probabilidad y estadística: 5 lecciones
