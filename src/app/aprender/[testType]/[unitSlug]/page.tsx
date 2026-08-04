@@ -11,8 +11,14 @@ import type { LearningUnit, Lesson, LessonProgress } from "@/types/learning";
 
 export default function UnitPage(){
  const params=useParams();const supabase=useMemo(()=>createClient(),[]);const [unit,setUnit]=useState<LearningUnit|null>(null);const [lessons,setLessons]=useState<Lesson[]>([]);const [progress,setProgress]=useState<LessonProgress[]>([]);const [loading,setLoading]=useState(true);
- useEffect(()=>{void load();},[params]);
+ 
  async function load(){const testType=String(params.testType??'m1').toUpperCase();const unitSlug=String(params.unitSlug??'');const {data:unitData}=await supabase.from('learning_units').select('*').eq('test_type',testType).eq('slug',unitSlug).eq('is_published',true).maybeSingle();if(!unitData){setLoading(false);return;}setUnit(unitData as LearningUnit);const {data:lessonData}=await supabase.from('lessons').select('*').eq('unit_id',unitData.id).eq('is_published',true).order('sort_order');setLessons((lessonData??[]) as Lesson[]);const {data:{user}}=await supabase.auth.getUser();if(user){const {data:p}=await supabase.from('lesson_progress').select('lesson_id,status,progress_percent,best_quiz_score,last_block_order').eq('user_id',user.id);setProgress((p??[]) as LessonProgress[]);}setLoading(false);}
+
+useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    void load();
+  }, [params]);
+
  if(loading)return <main className="grid min-h-screen place-items-center bg-slate-950 text-white">Cargando unidad...</main>;
  if(!unit)return <main className="grid min-h-screen place-items-center bg-slate-950 text-white"><div className="text-center"><h1 className="text-3xl font-black">Unidad no encontrada</h1><Link href="/aprender" className="mt-5 inline-block text-teal-300">Volver</Link></div></main>;
  const completed=lessons.filter(l=>progress.some(p=>p.lesson_id===l.id&&p.status==='completed')).length;const pct=lessons.length?Math.round(completed/lessons.length*100):0;

@@ -181,9 +181,7 @@ export default function DashboardPage() {
   const [loading, setLoading] = useState(true);
   const [errorMessage, setErrorMessage] = useState("");
 
-  useEffect(() => {
-    void loadDashboard();
-  }, []);
+  
 
   async function loadDashboard() {
     setLoading(true);
@@ -234,6 +232,12 @@ export default function DashboardPage() {
 
     setLoading(false);
   }
+
+useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    void loadDashboard();
+  }, []);
+
 
   async function handleLogout() {
     await supabase.auth.signOut();

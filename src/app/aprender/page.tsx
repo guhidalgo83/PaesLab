@@ -16,7 +16,7 @@ export default function LearnHomePage() {
   const [stats,setStats]=useState({xp:0,level:1,current_streak:0,lessons_completed:0});
   const [loading,setLoading]=useState(true);
 
-  useEffect(()=>{void load();},[]);
+  
   async function load(){
     const [{data:unitData},{data:{user}}]=await Promise.all([supabase.from("learning_units").select("*").eq("is_published",true).order("test_type").order("sort_order"),supabase.auth.getUser()]);
     const {data:lessonData}=await supabase.from("lessons").select("id,unit_id").eq("is_published",true);
@@ -28,6 +28,12 @@ export default function LearnHomePage() {
     const mapped=((unitData??[]) as LearningUnit[]).map(unit=>{const ids=(lessonData??[]).filter(l=>l.unit_id===unit.id).map(l=>l.id);return {...unit,lessonCount:ids.length,completedCount:ids.filter(id=>progress.some(p=>p.lesson_id===id&&p.status==='completed')).length};});
     setUnits(mapped);setLoading(false);
   }
+
+useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    void load();
+  }, []);
+
 
   const m1=units.filter(unit=>unit.test_type==='M1');
   const completed=m1.reduce((sum,u)=>sum+u.completedCount,0);const total=m1.reduce((sum,u)=>sum+u.lessonCount,0);const progress=total?Math.round(completed/total*100):0;

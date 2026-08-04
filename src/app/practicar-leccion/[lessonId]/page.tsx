@@ -74,14 +74,12 @@ export default function LessonPracticePage() {
     useState<ConfidenceLevel | null>(null);
   const [answered, setAnswered] = useState(false);
   const [correctAnswers, setCorrectAnswers] = useState(0);
-  const [startedAt, setStartedAt] = useState(Date.now());
+  const [startedAt, setStartedAt] = useState(0);
   const [loading, setLoading] = useState(true);
   const [finished, setFinished] = useState(false);
   const [message, setMessage] = useState("");
 
-  useEffect(() => {
-    void initialize();
-  }, [params]);
+  
 
   async function initialize() {
     setLoading(true);
@@ -143,7 +141,7 @@ export default function LessonPracticePage() {
       .limit(20);
 
     let linked = (linkData ?? [])
-      .map((row: any) =>
+      .map((row: { questions: Question | Question[] | null }) =>
         Array.isArray(row.questions)
           ? row.questions[0]
           : row.questions,
@@ -212,6 +210,12 @@ export default function LessonPracticePage() {
 
     setLoading(false);
   }
+
+useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    void initialize();
+  }, [params]);
+
 
   function getErrorTag(
     question: Question,

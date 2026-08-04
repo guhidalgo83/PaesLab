@@ -1,0 +1,35 @@
+
+/workspaces/paeslab/src/app/mi-plan/page.tsx
+  104:11  error  Error: Cannot access variable before it is declared
+
+`refreshRecommendations` is accessed before it is declared, which prevents the earlier access from updating when this value changes over time.
+
+/workspaces/paeslab/src/app/mi-plan/page.tsx:104:11
+  102 |
+  103 |     setUserId(user.id);
+> 104 |     await refreshRecommendations(false);
+      |           ^^^^^^^^^^^^^^^^^^^^^^ `refreshRecommendations` accessed before it is declared
+  105 |     setLoading(false);
+  106 |   }
+  107 |
+
+/workspaces/paeslab/src/app/mi-plan/page.tsx:114:3
+  112 |
+  113 |
+> 114 |   async function refreshRecommendations(showResult = true) {
+      |   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 115 |     setRefreshing(true);
+      | ^^^^^^^^^^^^^^^^^^^^^^^^
+> 116 |     setMessage("");
+      …
+      | ^^^^^^^^^^^^^^^^^^^^^^^^
+> 139 |     setRefreshing(false);
+      | ^^^^^^^^^^^^^^^^^^^^^^^^
+> 140 |   }
+      | ^^^^ `refreshRecommendations` is declared here
+  141 |
+  142 |   async function loadItems() {
+  143 |     const { data, error } = await supabase  react-hooks/immutability
+
+✖ 1 problem (1 error, 0 warnings)
+

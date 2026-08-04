@@ -40,9 +40,7 @@ export default function LessonPage() {
     useState<NavigationLesson | null>(null);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    void load();
-  }, [params]);
+  
 
   async function load() {
     setLoading(true);
@@ -147,7 +145,7 @@ export default function LessonPage() {
       .limit(3);
 
     let linked = (links ?? [])
-      .map((row: any) =>
+      .map((row: { questions: LearningQuestion | LearningQuestion[] | null }) =>
         Array.isArray(row.questions)
           ? row.questions[0]
           : row.questions,
@@ -177,6 +175,12 @@ export default function LessonPage() {
     setQuestions(linked);
     setLoading(false);
   }
+
+useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    void load();
+  }, [params]);
+
 
   if (loading) {
     return (

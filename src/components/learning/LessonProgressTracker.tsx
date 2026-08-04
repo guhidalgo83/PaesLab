@@ -24,8 +24,50 @@ export default function LessonProgressTracker({
     completed ? 100 : Math.max(10, initialProgress),
   );
   const savingRef = useRef(false);
+async function saveProgress(value: number) {
+    if (
+      !userId ||
+      completed ||
+      savingRef.current ||
+      value <= lastSavedRef.current
+    ) {
+      return;
+    }
 
-  useEffect(() => {
+    savingRef.current = true;
+
+    const { error } = await supabase
+      .from("lesson_progress")
+      .upsert(
+        {
+          user_id: userId,
+          lesson_id: lessonId,
+          status: "in_progress",
+          progress_percent: value,
+          last_block_order: Math.floor(value / 10),
+          started_at: new Date().toISOString(),
+        },
+        { onConflict: "user_id,lesson_id" },
+      );
+
+    if (!error) {
+      lastSavedRef.current = value;
+
+      await supabase
+        .from("study_plan_items")
+        .update({
+          status: "in_progress",
+          updated_at: new Date().toISOString(),
+        })
+        .eq("user_id", userId)
+        .eq("lesson_id", lessonId)
+        .eq("status", "pending");
+    }
+
+    savingRef.current = false;
+  }
+
+useEffect(() => {
     if (!userId || completed) return;
 
     void saveProgress(Math.max(10, initialProgress));
@@ -71,55 +113,8 @@ export default function LessonProgressTracker({
     };
   }, [userId, lessonId, completed, initialProgress]);
 
-  useEffect(() => {
-    if (completed) {
-      setProgress(100);
-      lastSavedRef.current = 100;
-    }
-  }, [completed]);
 
-  async function saveProgress(value: number) {
-    if (
-      !userId ||
-      completed ||
-      savingRef.current ||
-      value <= lastSavedRef.current
-    ) {
-      return;
-    }
-
-    savingRef.current = true;
-
-    const { error } = await supabase
-      .from("lesson_progress")
-      .upsert(
-        {
-          user_id: userId,
-          lesson_id: lessonId,
-          status: "in_progress",
-          progress_percent: value,
-          last_block_order: Math.floor(value / 10),
-          started_at: new Date().toISOString(),
-        },
-        { onConflict: "user_id,lesson_id" },
-      );
-
-    if (!error) {
-      lastSavedRef.current = value;
-
-      await supabase
-        .from("study_plan_items")
-        .update({
-          status: "in_progress",
-          updated_at: new Date().toISOString(),
-        })
-        .eq("user_id", userId)
-        .eq("lesson_id", lessonId)
-        .eq("status", "pending");
-    }
-
-    savingRef.current = false;
-  }
+  const displayedProgress = completed ? 100 : progress;
 
   return (
     <div className="sticky top-0 z-20 -mx-5 border-b border-white/10 bg-slate-950/95 px-5 py-3 backdrop-blur sm:rounded-b-2xl">
@@ -127,11 +122,11 @@ export default function LessonProgressTracker({
         <div className="h-2 flex-1 overflow-hidden rounded-full bg-white/10">
           <div
             className="h-full rounded-full bg-gradient-to-r from-teal-300 to-indigo-400 transition-all"
-            style={{ width: `${progress}%` }}
+            style={{ width: `${displayedProgress}%` }}
           />
         </div>
         <span className="w-12 text-right text-sm font-black text-teal-300">
-          {progress}%
+          {displayedProgress}%
         </span>
       </div>
     </div>

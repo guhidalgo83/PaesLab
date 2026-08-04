@@ -88,54 +88,7 @@ export default function MyStudyPlanPage() {
   const [refreshing, setRefreshing] = useState(false);
   const [message, setMessage] = useState("");
 
-  useEffect(() => {
-    void initialize();
-  }, []);
-
-  async function initialize() {
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
-
-    if (!user) {
-      router.replace("/login");
-      return;
-    }
-
-    setUserId(user.id);
-    await refreshRecommendations(false);
-    setLoading(false);
-  }
-
-  async function refreshRecommendations(showResult = true) {
-    setRefreshing(true);
-    setMessage("");
-
-    const { data, error } = await supabase.rpc(
-      "refresh_my_study_plan",
-      {
-        p_days: 45,
-        p_max_items: 8,
-      },
-    );
-
-    if (error) {
-      setMessage(
-        `No se pudieron actualizar las recomendaciones: ${error.message}`,
-      );
-    } else if (showResult) {
-      setMessage(
-        Number(data) > 0
-          ? `Se actualizaron ${data} recomendaciones usando tus errores recientes.`
-          : "Tu plan ya estaba actualizado o aún no hay suficientes errores vinculados.",
-      );
-    }
-
-    await loadItems();
-    setRefreshing(false);
-  }
-
-  async function loadItems() {
+async function loadItems() {
     const { data, error } = await supabase
       .from("study_plan_items")
       .select(
@@ -166,7 +119,55 @@ export default function MyStudyPlanPage() {
     setItems((data ?? []) as PlanItem[]);
   }
 
-  async function changeStatus(
+async function refreshRecommendations(showResult = true) {
+    setRefreshing(true);
+    setMessage("");
+
+    const { data, error } = await supabase.rpc(
+      "refresh_my_study_plan",
+      {
+        p_days: 45,
+        p_max_items: 8,
+      },
+    );
+
+    if (error) {
+      setMessage(
+        `No se pudieron actualizar las recomendaciones: ${error.message}`,
+      );
+    } else if (showResult) {
+      setMessage(
+        Number(data) > 0
+          ? `Se actualizaron ${data} recomendaciones usando tus errores recientes.`
+          : "Tu plan ya estaba actualizado o aún no hay suficientes errores vinculados.",
+      );
+    }
+
+    await loadItems();
+    setRefreshing(false);
+  }
+
+async function initialize() {
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+
+    if (!user) {
+      router.replace("/login");
+      return;
+    }
+
+    setUserId(user.id);
+    await refreshRecommendations(false);
+    setLoading(false);
+  }
+
+useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    void initialize();
+  }, []);
+
+async function changeStatus(
     item: PlanItem,
     status: PlanStatus,
   ) {
