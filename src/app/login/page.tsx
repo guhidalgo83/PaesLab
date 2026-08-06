@@ -84,7 +84,7 @@ export default function LoginPage() {
         <section className="w-full max-w-md rounded-[2rem] border border-white/10 bg-slate-900/85 p-7 shadow-2xl sm:p-9">
           <Link href="/" className="mb-8 flex items-center gap-3">
             <span className="grid h-11 w-11 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">π</span>
-            <span><strong className="block text-xl">PAESLab</strong><small className="text-slate-400">Matemática M1 y M2</small></span>
+            <span><strong className="block text-xl">MathLabs</strong><small className="text-slate-400">Matemática M1 y M2</small></span>
           </Link>
 
           <div className="mb-7 grid grid-cols-2 rounded-2xl bg-slate-950/70 p-1">

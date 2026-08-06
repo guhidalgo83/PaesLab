@@ -237,7 +237,7 @@ async function changeStatus(
                 Aprende exactamente lo que necesitas reforzar
               </h1>
               <p className="mt-4 max-w-3xl leading-7 text-slate-400">
-                PAESLab relaciona tus respuestas incorrectas con las
+                MathLabs relaciona tus respuestas incorrectas con las
                 lecciones disponibles. Los errores cometidos con alta
                 seguridad reciben mayor prioridad.
               </p>

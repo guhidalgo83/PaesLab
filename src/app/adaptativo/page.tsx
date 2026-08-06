@@ -588,7 +588,7 @@ export default function AdaptiveTrainingPage() {
             </span>
             <span>
               <strong className="block text-xl">
-                PAESLab Adaptativo
+                MathLabs Adaptativo
               </strong>
               <small className="text-slate-400">
                 Sesión diseñada según tu desempeño

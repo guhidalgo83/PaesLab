@@ -406,7 +406,7 @@ export default function SimulacroPage() {
             </span>
             <span>
               <strong className="block text-xl">
-                PAESLab Simulacro
+                MathLabs Simulacro
               </strong>
               <small className="text-slate-400">
                 Práctica cronometrada
@@ -514,7 +514,7 @@ export default function SimulacroPage() {
           </Link>
 
           <p className="mt-4 text-center text-xs text-slate-500">
-            Este módulo es una práctica interna de PAESLab, no una
+            Este módulo es una práctica interna de MathLabs, no una
             reproducción de una aplicación oficial.
           </p>
         </section>

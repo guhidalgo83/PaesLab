@@ -1,0 +1,15 @@
+Agrega estos accesos al dashboard cuando quieras integrarlos visualmente:
+
+<Link href="/matematica" className="rounded-xl border border-teal-300/30 px-4 py-3 font-black text-teal-200">
+  Matemática escolar
+</Link>
+
+<Link href="/paes" className="rounded-xl border border-indigo-300/30 px-4 py-3 font-black text-indigo-200">
+  Preparación PAES
+</Link>
+
+Para el administrador:
+
+<Link href="/admin/curriculum" className="rounded-xl border border-amber-300/30 px-4 py-3 font-black text-amber-200">
+  Mapa curricular
+</Link>

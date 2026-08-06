@@ -408,7 +408,7 @@ export default function TrainingPage() {
             <span className="grid h-11 w-11 place-items-center rounded-2xl bg-gradient-to-br from-teal-300 to-indigo-400 text-xl font-black text-slate-950">
               π
             </span>
-            <span className="text-xl font-black">PAESLab</span>
+            <span className="text-xl font-black">MathLabs</span>
           </Link>
 
           <div className="flex gap-2">

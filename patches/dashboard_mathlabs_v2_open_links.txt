@@ -1,0 +1,7 @@
+En el panel existente puedes agregar estos accesos, sin reemplazar el resto:
+
+- /mi-colegio — contexto escolar y recomendaciones
+- /agenda-estudio — pruebas, guías y temas de clases
+- /configurar-perfil — curso, objetivo y colegio
+- /matematica — mapa curricular
+- /paes — preparación PAES

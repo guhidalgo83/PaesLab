@@ -303,7 +303,7 @@ useEffect(() => {
             Tu evolución en simulacros
           </h1>
           <p className="mt-3 max-w-3xl leading-7 text-slate-400">
-            Los porcentajes son indicadores internos de PAESLab.
+            Los porcentajes son indicadores internos de MathLabs.
             No equivalen directamente a un puntaje oficial PAES.
           </p>
 

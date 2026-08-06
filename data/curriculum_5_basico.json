@@ -1,0 +1,207 @@
+{
+  "country": "Chile",
+  "course_id": "cl-5-basico",
+  "course_name": "5.º básico",
+  "curriculum_source": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico",
+  "axes": [
+    {
+      "id": "ma05-num",
+      "slug": "numeros-y-operaciones",
+      "name": "Números y operaciones",
+      "description": "Desarrollo del sentido numérico, cálculo, fracciones y decimales.",
+      "sort_order": 1
+    },
+    {
+      "id": "ma05-alg",
+      "slug": "patrones-y-algebra",
+      "name": "Patrones y álgebra",
+      "description": "Regularidades, predicciones, ecuaciones e inecuaciones de un paso.",
+      "sort_order": 2
+    },
+    {
+      "id": "ma05-geo",
+      "slug": "geometria",
+      "name": "Geometría",
+      "description": "Coordenadas, relaciones geométricas y transformaciones.",
+      "sort_order": 3
+    },
+    {
+      "id": "ma05-med",
+      "slug": "medicion",
+      "name": "Medición",
+      "description": "Longitud, conversiones, perímetro y área.",
+      "sort_order": 4
+    },
+    {
+      "id": "ma05-datos",
+      "slug": "datos-y-probabilidades",
+      "name": "Datos y probabilidades",
+      "description": "Promedio, azar, tablas y gráficos.",
+      "sort_order": 5
+    }
+  ],
+  "objectives": [
+    {
+      "code": "MA05 OA 01",
+      "axis_id": "ma05-num",
+      "title": "Números naturales y valor posicional",
+      "summary": "Representar, componer, descomponer, aproximar, comparar y ordenar números naturales menores que mil millones."
+    },
+    {
+      "code": "MA05 OA 02",
+      "axis_id": "ma05-num",
+      "title": "Estrategias de cálculo mental",
+      "summary": "Aplicar estrategias de multiplicación mental usando múltiplos de 10, dobles, mitades y propiedades de las operaciones."
+    },
+    {
+      "code": "MA05 OA 03",
+      "axis_id": "ma05-num",
+      "title": "Multiplicación de dos dígitos",
+      "summary": "Comprender y resolver multiplicaciones de dos dígitos por dos dígitos mediante estimación, estrategias y algoritmo."
+    },
+    {
+      "code": "MA05 OA 04",
+      "axis_id": "ma05-num",
+      "title": "División e interpretación del resto",
+      "summary": "Resolver divisiones con dividendos de tres dígitos y divisores de un dígito, interpretando el resto según el contexto."
+    },
+    {
+      "code": "MA05 OA 05",
+      "axis_id": "ma05-num",
+      "title": "Operatoria combinada",
+      "summary": "Realizar cálculos con las cuatro operaciones respetando paréntesis y prioridad operacional."
+    },
+    {
+      "code": "MA05 OA 06",
+      "axis_id": "ma05-num",
+      "title": "Problemas con las cuatro operaciones",
+      "summary": "Resolver problemas rutinarios y no rutinarios, incluidos contextos de dinero, usando combinaciones de operaciones."
+    },
+    {
+      "code": "MA05 OA 07",
+      "axis_id": "ma05-num",
+      "title": "Fracciones propias",
+      "summary": "Representar, amplificar, simplificar y comparar fracciones propias con igual o distinto denominador."
+    },
+    {
+      "code": "MA05 OA 08",
+      "axis_id": "ma05-num",
+      "title": "Fracciones impropias y números mixtos",
+      "summary": "Representar fracciones impropias y números mixtos, establecer equivalencias y ubicarlos en la recta numérica."
+    },
+    {
+      "code": "MA05 OA 09",
+      "axis_id": "ma05-num",
+      "title": "Suma y resta de fracciones",
+      "summary": "Resolver adiciones y sustracciones de fracciones propias con denominadores hasta 12."
+    },
+    {
+      "code": "MA05 OA 10",
+      "axis_id": "ma05-num",
+      "title": "Fracciones y decimales equivalentes",
+      "summary": "Determinar el decimal asociado a fracciones con denominadores 2, 4, 5 y 10."
+    },
+    {
+      "code": "MA05 OA 11",
+      "axis_id": "ma05-num",
+      "title": "Comparación de decimales",
+      "summary": "Comparar y ordenar números decimales hasta la milésima."
+    },
+    {
+      "code": "MA05 OA 12",
+      "axis_id": "ma05-num",
+      "title": "Suma y resta de decimales",
+      "summary": "Resolver adiciones y sustracciones de decimales usando valor posicional hasta la milésima."
+    },
+    {
+      "code": "MA05 OA 13",
+      "axis_id": "ma05-num",
+      "title": "Problemas con fracciones y decimales",
+      "summary": "Resolver problemas que involucren sumas y restas de fracciones propias o decimales hasta la milésima."
+    },
+    {
+      "code": "MA05 OA 14",
+      "axis_id": "ma05-alg",
+      "title": "Reglas y sucesiones",
+      "summary": "Descubrir reglas de sucesiones y utilizarlas para realizar predicciones."
+    },
+    {
+      "code": "MA05 OA 15",
+      "axis_id": "ma05-alg",
+      "title": "Ecuaciones e inecuaciones de un paso",
+      "summary": "Resolver problemas con ecuaciones e inecuaciones de un paso que involucren adición y sustracción."
+    },
+    {
+      "code": "MA05 OA 16",
+      "axis_id": "ma05-geo",
+      "title": "Plano cartesiano",
+      "summary": "Identificar y dibujar puntos del primer cuadrante a partir de coordenadas naturales."
+    },
+    {
+      "code": "MA05 OA 17",
+      "axis_id": "ma05-geo",
+      "title": "Paralelismo y perpendicularidad",
+      "summary": "Reconocer y describir elementos paralelos, secantes y perpendiculares en figuras 2D y 3D."
+    },
+    {
+      "code": "MA05 OA 18",
+      "axis_id": "ma05-geo",
+      "title": "Congruencia y transformaciones",
+      "summary": "Comprender la congruencia mediante traslaciones, reflexiones y rotaciones en cuadrículas."
+    },
+    {
+      "code": "MA05 OA 19",
+      "axis_id": "ma05-med",
+      "title": "Medición de longitudes",
+      "summary": "Medir longitudes con metros, centímetros y milímetros en problemas contextualizados."
+    },
+    {
+      "code": "MA05 OA 20",
+      "axis_id": "ma05-med",
+      "title": "Conversión de unidades de longitud",
+      "summary": "Transformar entre kilómetros, metros, centímetros y milímetros."
+    },
+    {
+      "code": "MA05 OA 21",
+      "axis_id": "ma05-med",
+      "title": "Rectángulos, perímetro y área",
+      "summary": "Diseñar rectángulos a partir del perímetro, el área o ambos, y extraer conclusiones."
+    },
+    {
+      "code": "MA05 OA 22",
+      "axis_id": "ma05-med",
+      "title": "Áreas de figuras",
+      "summary": "Calcular áreas de triángulos, paralelogramos y trapecios, y estimar áreas de figuras irregulares."
+    },
+    {
+      "code": "MA05 OA 23",
+      "axis_id": "ma05-datos",
+      "title": "Promedio e interpretación",
+      "summary": "Calcular el promedio de un conjunto de datos e interpretarlo en su contexto."
+    },
+    {
+      "code": "MA05 OA 24",
+      "axis_id": "ma05-datos",
+      "title": "Posibilidad de ocurrencia",
+      "summary": "Describir eventos aleatorios como seguros, posibles, poco posibles o imposibles."
+    },
+    {
+      "code": "MA05 OA 25",
+      "axis_id": "ma05-datos",
+      "title": "Comparación cualitativa de probabilidades",
+      "summary": "Comparar la probabilidad de distintos eventos sin necesidad de calcularla numéricamente."
+    },
+    {
+      "code": "MA05 OA 26",
+      "axis_id": "ma05-datos",
+      "title": "Tablas y gráficos",
+      "summary": "Leer, interpretar y completar tablas, gráficos de barras y gráficos de líneas, comunicando conclusiones."
+    },
+    {
+      "code": "MA05 OA 27",
+      "axis_id": "ma05-datos",
+      "title": "Diagramas de tallo y hojas",
+      "summary": "Representar datos de muestras mediante diagramas de tallo y hojas."
+    }
+  ]
+}

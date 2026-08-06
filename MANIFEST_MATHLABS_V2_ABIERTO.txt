@@ -1,0 +1,10 @@
+MathLabs V2 — Contexto escolar abierto
+
+REEMPLAZA: mathlabs_v2_nucleo_institucional.zip
+NO INCLUYE: organizaciones, membresías, cursos institucionales ni códigos de invitación.
+
+Nuevas tablas: 4
+Nuevas funciones: 2
+Nuevas rutas: 5
+Componentes nuevos: SchoolSelector
+Arquitectura V1 incluida: sí

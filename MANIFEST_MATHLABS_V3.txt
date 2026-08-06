@@ -1,0 +1,11 @@
+MathLabs V3 — Diagnóstico y ruta personalizada
+
+Archivos nuevos o reemplazados: 13
+Preguntas diagnósticas originales: 24
+Temas evaluados: 12
+Rutas nuevas:
+- /diagnostico-escolar
+- /diagnostico-escolar/[sessionId]
+- /diagnostico-escolar/[sessionId]/resultado
+- /mi-ruta
+- /admin/diagnostico

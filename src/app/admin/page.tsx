@@ -67,7 +67,7 @@ const emptyQuestion: Question = {
   critical_step: "",
   estimated_seconds: 120,
   is_active: true,
-  source: "Original PAESLab",
+  source: "Original MathLabs",
   review_status: "Pendiente",
   visual_type: "none",
   visual_data: {},
@@ -140,7 +140,7 @@ function normalizeQuestion(
         ? value.estimated_seconds
         : 120,
     is_active: value.is_active !== false,
-    source: String(value.source ?? "Original PAESLab").trim(),
+    source: String(value.source ?? "Original MathLabs").trim(),
     review_status: String(value.review_status ?? "Pendiente").trim(),
     visual_type: String(value.visual_type ?? "none"),
     visual_data:
@@ -724,7 +724,7 @@ export default function AdminPage() {
             </span>
             <span>
               <strong className="block text-xl">
-                PAESLab Admin
+                MathLabs Admin
               </strong>
               <small className="text-slate-400">
                 Banco y diagnóstico pedagógico

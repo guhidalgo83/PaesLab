@@ -272,7 +272,7 @@ useEffect(() => {
               Practica solamente este contenido
             </h2>
             <p className="mt-3 leading-7 text-slate-400">
-              PAESLab seleccionará preguntas vinculadas directamente
+              MathLabs seleccionará preguntas vinculadas directamente
               con esta lección y te entregará diagnóstico por
               alternativa.
             </p>
