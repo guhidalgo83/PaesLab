@@ -1,6 +1,7 @@
 "use client";
 
 import QuestionVisual from "@/components/QuestionVisual";
+import MathConceptModel from "@/components/mathlabs/MathConceptModel";
 import type { LessonBlock } from "@/types/learning";
 
 function stringArray(value: unknown): string[] {
@@ -117,6 +118,17 @@ export default function LessonBlockRenderer({
               </p>
             </article>
           ))}
+        </div>
+      </section>
+    );
+  }
+
+  if (block.block_type === "math_model") {
+    return (
+      <section>
+        <h2 className="text-2xl font-black">{block.title}</h2>
+        <div className="mt-5">
+          <MathConceptModel data={data} />
         </div>
       </section>
     );

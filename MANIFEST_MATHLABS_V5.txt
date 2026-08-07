@@ -1,0 +1,7 @@
+MATHLABS V5 — MANIFEST
+Lecciones: 7
+Bloques: 98
+Ejercicios resueltos: 42
+Ejercicios guiados: 21
+Modelos visuales: 7
+Preguntas: 84

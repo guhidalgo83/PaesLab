@@ -1,0 +1,20 @@
+{
+  "version": "5.0",
+  "name": "MathLabs V5 — Fracciones y decimales",
+  "unit_id": "school-5b-fracciones-decimales",
+  "lessons": 7,
+  "blocks": 98,
+  "solved_examples": 42,
+  "guided_exercises": 21,
+  "visual_models": 7,
+  "practice_questions": 84,
+  "topics": [
+    "fracciones-propias",
+    "fracciones-impropias-numeros-mixtos",
+    "suma-resta-de-fracciones",
+    "fracciones-decimales-equivalentes",
+    "comparacion-de-decimales",
+    "suma-resta-de-decimales",
+    "problemas-con-fracciones-decimales"
+  ]
+}
