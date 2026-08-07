@@ -363,6 +363,7 @@ export default function LessonBlockRenderer({ block }: { block: LessonBlock }) {
 
   if (block.block_type === "lab") {
     const labSlug = asText(data.lab_slug);
+    const labCourseSlug = asText(data.course_slug) || "5-basico";
     const labEmoji = asText(data.emoji) || "🧪";
     return (
       <section className="rounded-[2rem] border border-cyan-300/20 bg-[radial-gradient(circle_at_top_right,rgba(34,211,238,0.13),transparent_32%),linear-gradient(135deg,rgba(8,145,178,0.10),rgba(79,70,229,0.06))] p-6 sm:p-7">
@@ -379,7 +380,7 @@ export default function LessonBlockRenderer({ block }: { block: LessonBlock }) {
           </div>
           {labSlug ? (
             <Link
-              href={`/laboratorio/5-basico/${labSlug}`}
+              href={`/laboratorio/${labCourseSlug}/${labSlug}`}
               className="rounded-2xl bg-cyan-300 px-5 py-3 text-center font-black text-slate-950"
             >
               Abrir laboratorio →

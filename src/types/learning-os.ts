@@ -38,6 +38,7 @@ export type HubRecentActivity = {
 export type LearningHubData = {
   course: {
     id: string;
+    slug: string;
     name: string;
     short_name: string;
   };
@@ -85,6 +86,14 @@ export type AchievementUnlock = {
   unlocked_at: string;
 };
 
+export type AchievementDefinition = {
+  code: string;
+  emoji: string;
+  title: string;
+  description: string;
+  group: "inicio" | "practica" | "dominio" | "visual" | "desafio";
+};
+
 export type LearningTrendPoint = {
   week_start: string;
   practice_sessions: number;
@@ -94,10 +103,25 @@ export type LearningTrendPoint = {
   labs_completed: number;
 };
 
-export type AchievementDefinition = {
-  code: string;
-  emoji: string;
+export type LearningSessionItem = {
+  position: number;
+  action_type: "lesson" | "practice" | "review" | "lab" | "diagnostic";
   title: string;
   description: string;
-  group: "inicio" | "practica" | "dominio" | "visual" | "desafio";
+  href: string;
+  emoji: string;
+  estimated_minutes: number;
+  status: "pending" | "current" | "completed" | "skipped";
+  completed_at: string | null;
+};
+
+export type LearningSession = {
+  id: string;
+  course_id: string;
+  course_slug: string;
+  course_name: string;
+  target_minutes: number;
+  status: "active" | "ready_to_complete";
+  started_at: string;
+  items: LearningSessionItem[];
 };

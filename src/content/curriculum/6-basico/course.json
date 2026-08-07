@@ -1,0 +1,1125 @@
+{
+  "schema_version": 1,
+  "course": {
+    "id": "cl-6-basico",
+    "level_id": "basica",
+    "slug": "6-basico",
+    "name": "6.º básico",
+    "short_name": "6.º básico",
+    "grade_number": 6,
+    "country_code": "CL",
+    "curriculum_version": "Bases Curriculares vigentes",
+    "curriculum_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+    "description": "Matemática 6.º básico · primera versión curricular completa de MathLabs.",
+    "sort_order": 2,
+    "is_available": true,
+    "is_published": true
+  },
+  "axes": [
+    {
+      "id": "ma06-num",
+      "slug": "numeros-y-operaciones",
+      "name": "Números y operaciones",
+      "icon": "123",
+      "description": "Factores, operaciones, razones, porcentajes, fracciones y decimales.",
+      "sort_order": 1
+    },
+    {
+      "id": "ma06-alg",
+      "slug": "patrones-y-algebra",
+      "name": "Patrones y álgebra",
+      "icon": "x",
+      "description": "Tablas, reglas, expresiones con letras y ecuaciones.",
+      "sort_order": 2
+    },
+    {
+      "id": "ma06-geo",
+      "slug": "geometria",
+      "name": "Geometría",
+      "icon": "△",
+      "description": "Triángulos, teselaciones y relaciones entre ángulos.",
+      "sort_order": 3
+    },
+    {
+      "id": "ma06-med",
+      "slug": "medicion",
+      "name": "Medición",
+      "icon": "∠",
+      "description": "Superficie, volumen y medición de ángulos.",
+      "sort_order": 4
+    },
+    {
+      "id": "ma06-datos",
+      "slug": "datos-y-probabilidades",
+      "name": "Datos y probabilidades",
+      "icon": "▥",
+      "description": "Distribuciones, experimentos aleatorios y gráficos.",
+      "sort_order": 5
+    }
+  ],
+  "objectives": [
+    {
+      "id": "ma06-oa-01",
+      "code": "MA06 OA 01",
+      "axis_id": "ma06-num",
+      "title": "Factores, múltiplos, primos y compuestos",
+      "summary": "Comprender factores y múltiplos de números naturales menores de 100, reconocer primos y compuestos y resolver problemas con múltiplos.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 1
+    },
+    {
+      "id": "ma06-oa-02",
+      "code": "MA06 OA 02",
+      "axis_id": "ma06-num",
+      "title": "Cuatro operaciones en resolución de problemas",
+      "summary": "Realizar cálculos con las cuatro operaciones en problemas y usar calculadora cuando corresponda.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 2
+    },
+    {
+      "id": "ma06-oa-03",
+      "code": "MA06 OA 03",
+      "axis_id": "ma06-num",
+      "title": "Razones",
+      "summary": "Comprender la razón de forma concreta, pictórica y simbólica.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 3
+    },
+    {
+      "id": "ma06-oa-04",
+      "code": "MA06 OA 04",
+      "axis_id": "ma06-num",
+      "title": "Porcentajes",
+      "summary": "Comprender el porcentaje mediante representaciones concretas, pictóricas y simbólicas.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 4
+    },
+    {
+      "id": "ma06-oa-05",
+      "code": "MA06 OA 05",
+      "axis_id": "ma06-num",
+      "title": "Fracciones impropias y números mixtos",
+      "summary": "Establecer equivalencias entre fracciones impropias y números mixtos y representarlos en la recta numérica.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 5
+    },
+    {
+      "id": "ma06-oa-06",
+      "code": "MA06 OA 06",
+      "axis_id": "ma06-num",
+      "title": "Adición y sustracción de fracciones y números mixtos",
+      "summary": "Resolver adiciones y sustracciones de fracciones propias, impropias y números mixtos.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 6
+    },
+    {
+      "id": "ma06-oa-07",
+      "code": "MA06 OA 07",
+      "axis_id": "ma06-num",
+      "title": "Multiplicación y división de decimales",
+      "summary": "Comprender la multiplicación y división de decimales por naturales, múltiplos de 10 y decimales hasta la milésima.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 7
+    },
+    {
+      "id": "ma06-oa-08",
+      "code": "MA06 OA 08",
+      "axis_id": "ma06-num",
+      "title": "Problemas con fracciones y decimales",
+      "summary": "Resolver problemas rutinarios y no rutinarios que involucren fracciones, números mixtos y decimales.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 8
+    },
+    {
+      "id": "ma06-oa-09",
+      "code": "MA06 OA 09",
+      "axis_id": "ma06-alg",
+      "title": "Relaciones en tablas y reglas",
+      "summary": "Identificar patrones entre valores de una tabla y formular reglas con lenguaje matemático.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 9
+    },
+    {
+      "id": "ma06-oa-10",
+      "code": "MA06 OA 10",
+      "axis_id": "ma06-alg",
+      "title": "Generalizaciones con letras y ecuaciones",
+      "summary": "Representar relaciones entre números naturales usando expresiones con letras y ecuaciones.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 10
+    },
+    {
+      "id": "ma06-oa-11",
+      "code": "MA06 OA 11",
+      "axis_id": "ma06-alg",
+      "title": "Ecuaciones de primer grado",
+      "summary": "Resolver ecuaciones de primer grado con una incógnita usando modelos y procedimientos formales.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 11
+    },
+    {
+      "id": "ma06-oa-12",
+      "code": "MA06 OA 12",
+      "axis_id": "ma06-geo",
+      "title": "Construcción y comparación de triángulos",
+      "summary": "Construir y comparar triángulos según lados y ángulos usando instrumentos o software geométrico.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 12
+    },
+    {
+      "id": "ma06-oa-13",
+      "code": "MA06 OA 13",
+      "axis_id": "ma06-geo",
+      "title": "Área de redes de cubos y paralelepípedos",
+      "summary": "Comprender el área de superficies de cubos y paralelepípedos a partir de sus redes.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 13
+    },
+    {
+      "id": "ma06-oa-14",
+      "code": "MA06 OA 14",
+      "axis_id": "ma06-geo",
+      "title": "Teselaciones y transformaciones",
+      "summary": "Realizar teselaciones con figuras 2D usando traslaciones, reflexiones y rotaciones.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 14
+    },
+    {
+      "id": "ma06-oa-15",
+      "code": "MA06 OA 15",
+      "axis_id": "ma06-geo",
+      "title": "Construcción de ángulos",
+      "summary": "Construir ángulos agudos, obtusos, rectos, extendidos y completos.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 15
+    },
+    {
+      "id": "ma06-oa-16",
+      "code": "MA06 OA 16",
+      "axis_id": "ma06-geo",
+      "title": "Relaciones entre ángulos",
+      "summary": "Identificar relaciones entre ángulos formados por rectas que se cortan.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 16
+    },
+    {
+      "id": "ma06-oa-17",
+      "code": "MA06 OA 17",
+      "axis_id": "ma06-geo",
+      "title": "Suma de ángulos interiores",
+      "summary": "Comprender que los ángulos interiores de un triángulo suman 180° y los de un cuadrilátero 360°.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 17
+    },
+    {
+      "id": "ma06-oa-18",
+      "code": "MA06 OA 18",
+      "axis_id": "ma06-med",
+      "title": "Superficie de cubos y paralelepípedos",
+      "summary": "Calcular superficie de cubos y paralelepípedos en unidades cuadradas.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 18
+    },
+    {
+      "id": "ma06-oa-19",
+      "code": "MA06 OA 19",
+      "axis_id": "ma06-med",
+      "title": "Volumen de cubos y paralelepípedos",
+      "summary": "Calcular volumen de cubos y paralelepípedos en unidades cúbicas.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 19
+    },
+    {
+      "id": "ma06-oa-20",
+      "code": "MA06 OA 20",
+      "axis_id": "ma06-med",
+      "title": "Estimación y medición de ángulos",
+      "summary": "Estimar y medir ángulos con transportador y expresar la medida en grados.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 20
+    },
+    {
+      "id": "ma06-oa-21",
+      "code": "MA06 OA 21",
+      "axis_id": "ma06-med",
+      "title": "Ángulos en paralelas y triángulos",
+      "summary": "Calcular ángulos en rectas paralelas cortadas por una transversal y en triángulos.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 21
+    },
+    {
+      "id": "ma06-oa-22",
+      "code": "MA06 OA 22",
+      "axis_id": "ma06-datos",
+      "title": "Comparación de distribuciones",
+      "summary": "Comparar distribuciones de dos grupos mediante diagramas de puntos y de tallo y hojas.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 22
+    },
+    {
+      "id": "ma06-oa-23",
+      "code": "MA06 OA 23",
+      "axis_id": "ma06-datos",
+      "title": "Tendencia en experimentos aleatorios",
+      "summary": "Conjeturar tendencias al repetir experimentos con dados, monedas u otros dispositivos aleatorios.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 23
+    },
+    {
+      "id": "ma06-oa-24",
+      "code": "MA06 OA 24",
+      "axis_id": "ma06-datos",
+      "title": "Gráficos de barra doble y circulares",
+      "summary": "Leer e interpretar gráficos de barra doble y circulares y comunicar conclusiones.",
+      "official_source_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/6-basico",
+      "sort_order": 24
+    }
+  ],
+  "units": [
+    {
+      "id": "school-6b-numeros-proporcionalidad",
+      "slug": "6-basico-numeros-proporcionalidad",
+      "title": "6.º básico · Números, razones y porcentajes",
+      "axis": "Números y operaciones",
+      "icon": "%",
+      "sort_order": 1,
+      "description": "Factores, operaciones, razones y porcentajes."
+    },
+    {
+      "id": "school-6b-fracciones-decimales",
+      "slug": "6-basico-fracciones-decimales",
+      "title": "6.º básico · Fracciones y decimales",
+      "axis": "Números y operaciones",
+      "icon": "½",
+      "sort_order": 2,
+      "description": "Fracciones impropias, números mixtos, operaciones y decimales."
+    },
+    {
+      "id": "school-6b-algebra",
+      "slug": "6-basico-patrones-algebra",
+      "title": "6.º básico · Patrones y álgebra",
+      "axis": "Patrones y álgebra",
+      "icon": "x",
+      "sort_order": 3,
+      "description": "Tablas, generalizaciones y ecuaciones."
+    },
+    {
+      "id": "school-6b-geometria-angulos",
+      "slug": "6-basico-geometria-angulos",
+      "title": "6.º básico · Geometría y ángulos",
+      "axis": "Geometría",
+      "icon": "△",
+      "sort_order": 4,
+      "description": "Triángulos, redes, teselaciones y relaciones angulares."
+    },
+    {
+      "id": "school-6b-medicion",
+      "slug": "6-basico-superficie-volumen",
+      "title": "6.º básico · Superficie y volumen",
+      "axis": "Medición",
+      "icon": "▧",
+      "sort_order": 5,
+      "description": "Superficie, volumen y aplicaciones geométricas."
+    },
+    {
+      "id": "school-6b-datos-probabilidad",
+      "slug": "6-basico-datos-probabilidad",
+      "title": "6.º básico · Datos y probabilidades",
+      "axis": "Datos y probabilidades",
+      "icon": "▥",
+      "sort_order": 6,
+      "description": "Distribuciones, experimentos aleatorios y gráficos."
+    }
+  ],
+  "topics": [
+    {
+      "id": "topic-ma06-oa01a",
+      "oa": "MA06 OA 01",
+      "objective_id": "ma06-oa-01",
+      "axis_id": "ma06-num",
+      "slug": "factores-y-divisores",
+      "title": "Factores y divisores",
+      "summary": "Encuentra todos los factores de un número y explica la relación con la división exacta.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 1,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "factores-primos"
+    },
+    {
+      "id": "topic-ma06-oa01b",
+      "oa": "MA06 OA 01",
+      "objective_id": "ma06-oa-01",
+      "axis_id": "ma06-num",
+      "slug": "multiplos-mcm",
+      "title": "Múltiplos y encuentros periódicos",
+      "summary": "Genera múltiplos y resuelve situaciones donde dos ciclos vuelven a coincidir.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 2,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa01c",
+      "oa": "MA06 OA 01",
+      "objective_id": "ma06-oa-01",
+      "axis_id": "ma06-num",
+      "slug": "primos-y-compuestos",
+      "title": "Números primos y compuestos",
+      "summary": "Distingue números primos y compuestos mediante sus factores.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 3,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa02",
+      "oa": "MA06 OA 02",
+      "objective_id": "ma06-oa-02",
+      "axis_id": "ma06-num",
+      "slug": "cuatro-operaciones-problemas",
+      "title": "Problemas con las cuatro operaciones",
+      "summary": "Elige operaciones, estima y comprueba resultados en problemas de varias etapas.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 4,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa03a",
+      "oa": "MA06 OA 03",
+      "objective_id": "ma06-oa-03",
+      "axis_id": "ma06-num",
+      "slug": "razon-comparacion",
+      "title": "Razón como comparación",
+      "summary": "Interpreta una razón como comparación multiplicativa entre dos cantidades.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 5,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "mezclador-razones"
+    },
+    {
+      "id": "topic-ma06-oa03b",
+      "oa": "MA06 OA 03",
+      "objective_id": "ma06-oa-03",
+      "axis_id": "ma06-num",
+      "slug": "razones-equivalentes",
+      "title": "Razones equivalentes",
+      "summary": "Construye y reconoce razones equivalentes usando tablas y diagramas.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 6,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa04a",
+      "oa": "MA06 OA 04",
+      "objective_id": "ma06-oa-04",
+      "axis_id": "ma06-num",
+      "slug": "porcentaje-significado",
+      "title": "Porcentaje como parte de 100",
+      "summary": "Representa porcentajes en cuadrículas, fracciones y decimales.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 7,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "porcentaje-100"
+    },
+    {
+      "id": "topic-ma06-oa04b",
+      "oa": "MA06 OA 04",
+      "objective_id": "ma06-oa-04",
+      "axis_id": "ma06-num",
+      "slug": "porcentaje-de-una-cantidad",
+      "title": "Porcentaje de una cantidad",
+      "summary": "Calcula porcentajes frecuentes y resuelve problemas cotidianos.",
+      "unit_id": "school-6b-numeros-proporcionalidad",
+      "sort_order": 8,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa05a",
+      "oa": "MA06 OA 05",
+      "objective_id": "ma06-oa-05",
+      "axis_id": "ma06-num",
+      "slug": "impropias-y-mixtos",
+      "title": "Fracciones impropias y números mixtos",
+      "summary": "Transforma entre fracciones impropias y números mixtos.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 9,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "fracciones-mixtas"
+    },
+    {
+      "id": "topic-ma06-oa05b",
+      "oa": "MA06 OA 05",
+      "objective_id": "ma06-oa-05",
+      "axis_id": "ma06-num",
+      "slug": "fracciones-en-la-recta",
+      "title": "Fracciones y mixtos en la recta",
+      "summary": "Ubica fracciones y números mixtos en la recta numérica.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 10,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa06a",
+      "oa": "MA06 OA 06",
+      "objective_id": "ma06-oa-06",
+      "axis_id": "ma06-num",
+      "slug": "suma-resta-fracciones",
+      "title": "Suma y resta de fracciones",
+      "summary": "Opera fracciones con distintos denominadores usando equivalencias.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 11,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa06b",
+      "oa": "MA06 OA 06",
+      "objective_id": "ma06-oa-06",
+      "axis_id": "ma06-num",
+      "slug": "suma-resta-numeros-mixtos",
+      "title": "Suma y resta de números mixtos",
+      "summary": "Opera números mixtos interpretando unidades completas y partes fraccionarias.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 12,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa07a",
+      "oa": "MA06 OA 07",
+      "objective_id": "ma06-oa-07",
+      "axis_id": "ma06-num",
+      "slug": "multiplicacion-decimales",
+      "title": "Multiplicación de decimales",
+      "summary": "Multiplica decimales por naturales y múltiplos de 10 usando valor posicional.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 13,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "escala-decimal"
+    },
+    {
+      "id": "topic-ma06-oa07b",
+      "oa": "MA06 OA 07",
+      "objective_id": "ma06-oa-07",
+      "axis_id": "ma06-num",
+      "slug": "division-decimales",
+      "title": "División de decimales",
+      "summary": "Divide decimales por naturales y relaciona el cálculo con reparto y medida.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 14,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa08",
+      "oa": "MA06 OA 08",
+      "objective_id": "ma06-oa-08",
+      "axis_id": "ma06-num",
+      "slug": "problemas-fracciones-decimales-6b",
+      "title": "Problemas con fracciones y decimales",
+      "summary": "Resuelve problemas rutinarios y no rutinarios seleccionando representaciones y operaciones.",
+      "unit_id": "school-6b-fracciones-decimales",
+      "sort_order": 15,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa09a",
+      "oa": "MA06 OA 09",
+      "objective_id": "ma06-oa-09",
+      "axis_id": "ma06-alg",
+      "slug": "patrones-en-tablas",
+      "title": "Patrones en tablas",
+      "summary": "Descubre cómo cambian dos cantidades organizadas en una tabla.",
+      "unit_id": "school-6b-algebra",
+      "sort_order": 16,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa09b",
+      "oa": "MA06 OA 09",
+      "objective_id": "ma06-oa-09",
+      "axis_id": "ma06-alg",
+      "slug": "reglas-de-formacion-6b",
+      "title": "Reglas con lenguaje matemático",
+      "summary": "Formula una regla a partir de una tabla o situación.",
+      "unit_id": "school-6b-algebra",
+      "sort_order": 17,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa10a",
+      "oa": "MA06 OA 10",
+      "objective_id": "ma06-oa-10",
+      "axis_id": "ma06-alg",
+      "slug": "expresiones-con-letras",
+      "title": "Expresiones con letras",
+      "summary": "Usa letras para representar números variables o desconocidos.",
+      "unit_id": "school-6b-algebra",
+      "sort_order": 18,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa10b",
+      "oa": "MA06 OA 10",
+      "objective_id": "ma06-oa-10",
+      "axis_id": "ma06-alg",
+      "slug": "modelar-relaciones-con-ecuaciones",
+      "title": "Modelar relaciones con ecuaciones",
+      "summary": "Traduce situaciones a expresiones y ecuaciones sencillas.",
+      "unit_id": "school-6b-algebra",
+      "sort_order": 19,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa11a",
+      "oa": "MA06 OA 11",
+      "objective_id": "ma06-oa-11",
+      "axis_id": "ma06-alg",
+      "slug": "ecuaciones-con-balanza",
+      "title": "Ecuaciones como balanza",
+      "summary": "Comprende la igualdad manteniendo el equilibrio en ambos lados.",
+      "unit_id": "school-6b-algebra",
+      "sort_order": 20,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "balanza-ecuaciones"
+    },
+    {
+      "id": "topic-ma06-oa11b",
+      "oa": "MA06 OA 11",
+      "objective_id": "ma06-oa-11",
+      "axis_id": "ma06-alg",
+      "slug": "ecuaciones-procedimiento-formal",
+      "title": "Resolver ecuaciones formalmente",
+      "summary": "Resuelve y comprueba ecuaciones de primer grado de una incógnita.",
+      "unit_id": "school-6b-algebra",
+      "sort_order": 21,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa12a",
+      "oa": "MA06 OA 12",
+      "objective_id": "ma06-oa-12",
+      "axis_id": "ma06-geo",
+      "slug": "clasificacion-triangulos-6b",
+      "title": "Clasificación de triángulos",
+      "summary": "Clasifica triángulos por lados y por ángulos.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 22,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa12b",
+      "oa": "MA06 OA 12",
+      "objective_id": "ma06-oa-12",
+      "axis_id": "ma06-geo",
+      "slug": "construccion-triangulos",
+      "title": "Construcción de triángulos",
+      "summary": "Construye triángulos a partir de medidas y analiza cuándo la construcción es posible.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 23,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa13",
+      "oa": "MA06 OA 13",
+      "objective_id": "ma06-oa-13",
+      "axis_id": "ma06-geo",
+      "slug": "redes-de-cubos-paralelepipedos",
+      "title": "Redes de cubos y paralelepípedos",
+      "summary": "Relaciona redes planas con las caras de cuerpos geométricos.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 24,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa14",
+      "oa": "MA06 OA 14",
+      "objective_id": "ma06-oa-14",
+      "axis_id": "ma06-geo",
+      "slug": "teselaciones-transformaciones-6b",
+      "title": "Teselaciones y transformaciones",
+      "summary": "Cubre el plano usando traslaciones, reflexiones y rotaciones.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 25,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa15",
+      "oa": "MA06 OA 15",
+      "objective_id": "ma06-oa-15",
+      "axis_id": "ma06-geo",
+      "slug": "tipos-y-construccion-angulos",
+      "title": "Tipos y construcción de ángulos",
+      "summary": "Reconoce y construye ángulos según su medida.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 26,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "explorador-angulos"
+    },
+    {
+      "id": "topic-ma06-oa16",
+      "oa": "MA06 OA 16",
+      "objective_id": "ma06-oa-16",
+      "axis_id": "ma06-geo",
+      "slug": "angulos-opuestos-complementarios",
+      "title": "Ángulos opuestos y complementarios",
+      "summary": "Identifica relaciones angulares al intersectar rectas.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 27,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa17",
+      "oa": "MA06 OA 17",
+      "objective_id": "ma06-oa-17",
+      "axis_id": "ma06-geo",
+      "slug": "suma-angulos-interiores",
+      "title": "Suma de ángulos interiores",
+      "summary": "Usa 180° en triángulos y 360° en cuadriláteros para razonar y calcular.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 28,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa20",
+      "oa": "MA06 OA 20",
+      "objective_id": "ma06-oa-20",
+      "axis_id": "ma06-med",
+      "slug": "medicion-con-transportador",
+      "title": "Medición con transportador",
+      "summary": "Estima, mide y construye ángulos expresados en grados.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 29,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa21",
+      "oa": "MA06 OA 21",
+      "objective_id": "ma06-oa-21",
+      "axis_id": "ma06-med",
+      "slug": "angulos-paralelas-transversal",
+      "title": "Ángulos en paralelas y transversal",
+      "summary": "Calcula ángulos usando relaciones entre paralelas, transversal y triángulos.",
+      "unit_id": "school-6b-geometria-angulos",
+      "sort_order": 30,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa18",
+      "oa": "MA06 OA 18",
+      "objective_id": "ma06-oa-18",
+      "axis_id": "ma06-med",
+      "slug": "superficie-cubos-paralelepipedos",
+      "title": "Superficie de cubos y paralelepípedos",
+      "summary": "Calcula el área total sumando áreas de caras.",
+      "unit_id": "school-6b-medicion",
+      "sort_order": 31,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa19",
+      "oa": "MA06 OA 19",
+      "objective_id": "ma06-oa-19",
+      "axis_id": "ma06-med",
+      "slug": "volumen-cubos-paralelepipedos",
+      "title": "Volumen de cubos y paralelepípedos",
+      "summary": "Calcula volumen como cantidad de unidades cúbicas.",
+      "unit_id": "school-6b-medicion",
+      "sort_order": 32,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "constructor-volumen"
+    },
+    {
+      "id": "topic-ma06-oa22a",
+      "oa": "MA06 OA 22",
+      "objective_id": "ma06-oa-22",
+      "axis_id": "ma06-datos",
+      "slug": "diagramas-puntos-tallo-hojas-6b",
+      "title": "Diagramas de puntos y tallo-hojas",
+      "summary": "Representa conjuntos de datos y reconoce su distribución.",
+      "unit_id": "school-6b-datos-probabilidad",
+      "sort_order": 33,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa22b",
+      "oa": "MA06 OA 22",
+      "objective_id": "ma06-oa-22",
+      "axis_id": "ma06-datos",
+      "slug": "comparar-distribuciones-6b",
+      "title": "Comparar distribuciones",
+      "summary": "Compara centro, concentración y dispersión de dos grupos de datos.",
+      "unit_id": "school-6b-datos-probabilidad",
+      "sort_order": 34,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": null
+    },
+    {
+      "id": "topic-ma06-oa23",
+      "oa": "MA06 OA 23",
+      "objective_id": "ma06-oa-23",
+      "axis_id": "ma06-datos",
+      "slug": "experimentos-repetidos-probabilidad",
+      "title": "Experimentos aleatorios repetidos",
+      "summary": "Observa cómo las frecuencias se estabilizan al repetir un experimento.",
+      "unit_id": "school-6b-datos-probabilidad",
+      "sort_order": 35,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "simulador-probabilidad"
+    },
+    {
+      "id": "topic-ma06-oa24",
+      "oa": "MA06 OA 24",
+      "objective_id": "ma06-oa-24",
+      "axis_id": "ma06-datos",
+      "slug": "graficos-dobles-circulares",
+      "title": "Gráficos de barra doble y circulares",
+      "summary": "Lee, compara e interpreta información en gráficos de barra doble y circulares.",
+      "unit_id": "school-6b-datos-probabilidad",
+      "sort_order": 36,
+      "difficulty": "Fundamental",
+      "estimated_minutes": 35,
+      "lab_slug": "graficos-comparativos"
+    }
+  ],
+  "prerequisites": [
+    {
+      "topic_id": "topic-ma06-oa01a",
+      "prerequisite_topic_id": "topic-ma05-oa-04",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa01b",
+      "prerequisite_topic_id": "topic-ma06-oa01a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa01c",
+      "prerequisite_topic_id": "topic-ma06-oa01a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa02",
+      "prerequisite_topic_id": "topic-ma05-oa-06",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa03a",
+      "prerequisite_topic_id": "topic-ma05-oa-13",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa03b",
+      "prerequisite_topic_id": "topic-ma06-oa03a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa04a",
+      "prerequisite_topic_id": "topic-ma05-oa-10",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa04b",
+      "prerequisite_topic_id": "topic-ma06-oa04a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa05a",
+      "prerequisite_topic_id": "topic-ma05-oa-08",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa05b",
+      "prerequisite_topic_id": "topic-ma06-oa05a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa06a",
+      "prerequisite_topic_id": "topic-ma05-oa-09",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa06b",
+      "prerequisite_topic_id": "topic-ma06-oa06a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa07a",
+      "prerequisite_topic_id": "topic-ma05-oa-12",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa07b",
+      "prerequisite_topic_id": "topic-ma06-oa07a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa08",
+      "prerequisite_topic_id": "topic-ma06-oa06b",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa08",
+      "prerequisite_topic_id": "topic-ma06-oa07b",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa09a",
+      "prerequisite_topic_id": "topic-ma05-oa-14",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa09b",
+      "prerequisite_topic_id": "topic-ma06-oa09a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa10a",
+      "prerequisite_topic_id": "topic-ma06-oa09b",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa10b",
+      "prerequisite_topic_id": "topic-ma06-oa10a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa11a",
+      "prerequisite_topic_id": "topic-ma06-oa10b",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa11b",
+      "prerequisite_topic_id": "topic-ma06-oa11a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa12a",
+      "prerequisite_topic_id": "topic-ma05-oa-18",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa12b",
+      "prerequisite_topic_id": "topic-ma06-oa12a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa13",
+      "prerequisite_topic_id": "topic-ma05-oa-23",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa14",
+      "prerequisite_topic_id": "topic-ma05-oa-18",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa15",
+      "prerequisite_topic_id": "topic-ma05-oa-17",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa16",
+      "prerequisite_topic_id": "topic-ma06-oa15",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa17",
+      "prerequisite_topic_id": "topic-ma06-oa16",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa20",
+      "prerequisite_topic_id": "topic-ma06-oa15",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa21",
+      "prerequisite_topic_id": "topic-ma06-oa16",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa21",
+      "prerequisite_topic_id": "topic-ma06-oa17",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa18",
+      "prerequisite_topic_id": "topic-ma06-oa13",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa19",
+      "prerequisite_topic_id": "topic-ma06-oa18",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa22a",
+      "prerequisite_topic_id": "topic-ma05-oa-27",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa22b",
+      "prerequisite_topic_id": "topic-ma06-oa22a",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa23",
+      "prerequisite_topic_id": "topic-ma05-oa-24",
+      "relation_type": "required"
+    },
+    {
+      "topic_id": "topic-ma06-oa24",
+      "prerequisite_topic_id": "topic-ma05-oa-26",
+      "relation_type": "required"
+    }
+  ],
+  "labs": [
+    {
+      "slug": "factores-primos",
+      "title": "Detector de factores",
+      "emoji": "🔎",
+      "topic_slug": "factores-y-divisores",
+      "type": "factors",
+      "summary": "Cambia el número y observa sus factores y si es primo."
+    },
+    {
+      "slug": "mezclador-razones",
+      "title": "Mezclador de razones",
+      "emoji": "🥤",
+      "topic_slug": "razon-comparacion",
+      "type": "ratio",
+      "summary": "Modifica dos cantidades y observa la razón."
+    },
+    {
+      "slug": "porcentaje-100",
+      "title": "Laboratorio del 100%",
+      "emoji": "💯",
+      "topic_slug": "porcentaje-significado",
+      "type": "percent",
+      "summary": "Conecta porcentaje, fracción y decimal."
+    },
+    {
+      "slug": "fracciones-mixtas",
+      "title": "Constructor de números mixtos",
+      "emoji": "🍫",
+      "topic_slug": "impropias-y-mixtos",
+      "type": "mixed_fraction",
+      "summary": "Pasa entre mixtos e impropias."
+    },
+    {
+      "slug": "escala-decimal",
+      "title": "Escala decimal",
+      "emoji": "🔬",
+      "topic_slug": "multiplicacion-decimales",
+      "type": "decimal_scale",
+      "summary": "Observa cambios al multiplicar por potencias de 10."
+    },
+    {
+      "slug": "balanza-ecuaciones",
+      "title": "Balanza de ecuaciones",
+      "emoji": "⚖️",
+      "topic_slug": "ecuaciones-con-balanza",
+      "type": "equation",
+      "summary": "Mantén la igualdad haciendo la misma transformación."
+    },
+    {
+      "slug": "explorador-angulos",
+      "title": "Explorador de ángulos",
+      "emoji": "📐",
+      "topic_slug": "tipos-y-construccion-angulos",
+      "type": "angle",
+      "summary": "Mueve y clasifica ángulos."
+    },
+    {
+      "slug": "constructor-volumen",
+      "title": "Constructor de volumen",
+      "emoji": "🧊",
+      "topic_slug": "volumen-cubos-paralelepipedos",
+      "type": "volume",
+      "summary": "Visualiza largo, ancho, alto y volumen."
+    },
+    {
+      "slug": "simulador-probabilidad",
+      "title": "Simulador de probabilidad",
+      "emoji": "🪙",
+      "topic_slug": "experimentos-repetidos-probabilidad",
+      "type": "probability",
+      "summary": "Repite lanzamientos y observa frecuencias."
+    },
+    {
+      "slug": "graficos-comparativos",
+      "title": "Comparador de gráficos",
+      "emoji": "📊",
+      "topic_slug": "graficos-dobles-circulares",
+      "type": "double_bar",
+      "summary": "Compara dos grupos lado a lado."
+    }
+  ],
+  "expected": {
+    "official_objectives": 24,
+    "topics": 36,
+    "units": 6,
+    "lessons": 36,
+    "practice_questions_per_topic": 8,
+    "diagnostic_questions": 36,
+    "review_sets": 6,
+    "review_questions_per_set": 10,
+    "labs": 10
+  }
+}

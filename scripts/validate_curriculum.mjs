@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+import fs from "node:fs";
+const file=process.argv[2]??"src/content/curriculum/6-basico/course.json";
+const d=JSON.parse(fs.readFileSync(file,"utf8"));
+const fail=[]; const ok=(label,value,detail="")=>{console.log(`${value?"✓":"✗"} ${label}${detail?` — ${detail}`:""}`);if(!value)fail.push(label)};
+const unique=(a)=>new Set(a).size===a.length;
+const tids=new Set(d.topics.map(x=>x.id)), oids=new Set(d.objectives.map(x=>x.id)), uids=new Set(d.units.map(x=>x.id)), aids=new Set(d.axes.map(x=>x.id));
+console.log(`\nMathLabs Curriculum Validator\nCurso: ${d.course.name}\n`);
+ok("24 OA oficiales mapeados",d.objectives.length===24,`${d.objectives.length}/24`);
+ok("36 temas didácticos",d.topics.length===36,`${d.topics.length}/36`);
+ok("6 unidades",d.units.length===6,`${d.units.length}/6`);
+ok("10 laboratorios",d.labs.length===10,`${d.labs.length}/10`);
+ok("Códigos OA únicos",unique(d.objectives.map(x=>x.code)));
+ok("Slugs de temas únicos",unique(d.topics.map(x=>x.slug)));
+ok("Temas → OA válidos",d.topics.every(x=>oids.has(x.objective_id)));
+ok("Temas → unidades válidas",d.topics.every(x=>uids.has(x.unit_id)));
+ok("Temas → ejes válidos",d.topics.every(x=>aids.has(x.axis_id)));
+ok("Prerrequisitos válidos",d.prerequisites.every(x=>tids.has(x.topic_id)&&(tids.has(x.prerequisite_topic_id)||x.prerequisite_topic_id.startsWith("topic-ma05-"))));
+ok("Laboratorios → temas válidos",d.labs.every(l=>d.topics.some(t=>t.slug===l.topic_slug)));
+ok("Cada OA tiene tema",d.objectives.every(o=>d.topics.some(t=>t.objective_id===o.id)));
+console.log(`\nResultado: ${fail.length?"ERRORES: "+fail.length:"CURRÍCULO VÁLIDO ✓"}`); if(fail.length)process.exit(1);

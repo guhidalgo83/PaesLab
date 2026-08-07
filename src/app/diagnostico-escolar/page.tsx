@@ -24,6 +24,7 @@ export default function SchoolDiagnosticPage() {
   const [profile, setProfile] = useState<StudentSchoolProfile | null>(null);
   const [course, setCourse] = useState<Course | null>(null);
   const [sessions, setSessions] = useState<SessionSummary[]>([]);
+  const [diagnosticCount, setDiagnosticCount] = useState(0);
   const [loading, setLoading] = useState(true);
   const [starting, setStarting] = useState(false);
   const [message, setMessage] = useState("");
@@ -58,7 +59,7 @@ export default function SchoolDiagnosticPage() {
       }
 
       const loadedProfile = profileData as unknown as StudentSchoolProfile;
-      const [courseResult, sessionResult] = await Promise.all([
+      const [courseResult, sessionResult, diagnosticResult] = await Promise.all([
         supabase.from("courses").select("*").eq("id", loadedProfile.course_id).maybeSingle(),
         supabase
           .from("school_diagnostic_sessions")
@@ -67,12 +68,18 @@ export default function SchoolDiagnosticPage() {
           .eq("course_id", loadedProfile.course_id)
           .order("started_at", { ascending: false })
           .limit(5),
+        supabase
+          .from("school_diagnostic_items")
+          .select("id", { count: "exact", head: true })
+          .eq("course_id", loadedProfile.course_id)
+          .eq("is_published", true),
       ]);
 
       if (!cancelled) {
         setProfile(loadedProfile);
         setCourse(courseResult.data as unknown as Course | null);
         setSessions((sessionResult.data ?? []) as unknown as SessionSummary[]);
+        setDiagnosticCount(diagnosticResult.count ?? 0);
         setMessage(courseResult.error?.message ?? sessionResult.error?.message ?? "");
         setLoading(false);
       }
@@ -125,15 +132,15 @@ export default function SchoolDiagnosticPage() {
               Descubre qué sabes y por dónde conviene comenzar.
             </h1>
             <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-400">
-              El diagnóstico completo de {course?.name ?? "tu curso"} revisa los 27 objetivos de
+              El diagnóstico de {course?.name ?? "tu curso"} revisa los aprendizajes publicados de
               números, álgebra, geometría, medición, datos y probabilidades. No tiene nota ni límite de
               tiempo: su objetivo es construir una ruta personal.
             </p>
 
             <div className="mt-8 grid gap-4 sm:grid-cols-3">
               {[
-                ["27", "preguntas breves"],
-                ["27", "temas evaluados"],
+                [String(diagnosticCount), "preguntas breves"],
+                [String(diagnosticCount), "temas evaluados"],
                 ["1", "ruta personalizada"],
               ].map(([value, label]) => (
                 <div key={label} className="rounded-2xl border border-white/10 bg-white/[0.035] p-5">
