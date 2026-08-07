@@ -102,8 +102,10 @@ export default function TopicPage() {
   }
 
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    void initialize();
+    const timeoutId = window.setTimeout(() => {
+      void initialize();
+    }, 0);
+    return () => window.clearTimeout(timeoutId);
   }, [params]);
 
   if (loading) {
@@ -175,7 +177,7 @@ export default function TopicPage() {
                     </p>
                     <div className="mt-4 flex flex-wrap gap-3">
                       <Link href="/aprender" className="rounded-xl border border-white/15 px-4 py-3 text-sm font-black">Explorar lecciones</Link>
-                      <Link href="/entrenar" className="rounded-xl border border-white/15 px-4 py-3 text-sm font-black">Practicar</Link>
+                      <Link href={`/practica-escolar/${topic.slug}`} className="rounded-xl bg-teal-300 px-4 py-3 text-sm font-black text-slate-950">Practicar este tema</Link>
                     </div>
                   </div>
                 )}
@@ -207,6 +209,9 @@ export default function TopicPage() {
               </div>
             </section>
 
+            <Link href={`/practica-escolar/${topic.slug}`} className="block rounded-3xl bg-teal-300 p-6 font-black text-slate-950">
+              Practicar este tema con retroalimentación →
+            </Link>
             <Link href="/agenda-estudio" className="block rounded-3xl bg-amber-300 p-6 font-black text-slate-950">
               Agregar este tema a una prueba o guía →
             </Link>

@@ -1,4 +1,4 @@
-export type TestType = "M1" | "M2";
+export type TestType = "M1" | "M2" | "SCHOOL";
 export type Difficulty = "Básico" | "Medio" | "Avanzado";
 export type LessonStatus = "not_started" | "in_progress" | "completed";
 

@@ -1,0 +1,9 @@
+version: 4.0
+name: MathLabs V4 — Primera unidad escolar completa
+course: 5.º básico
+unit: Números y operaciones
+lessons: 6
+lesson_blocks: 78
+solved_examples: 36
+guided_exercises: 18
+practice_questions: 72
