@@ -1,0 +1,25 @@
+{
+  "version": "10.0",
+  "name": "MathLabs V10 — Learning OS",
+  "new_pages": 5,
+  "new_tables": 2,
+  "new_rpcs": 5,
+  "new_components": 6,
+  "pages": [
+    "/hoy",
+    "/progreso/5-basico",
+    "/mis-errores",
+    "/logros",
+    "/informe/5-basico"
+  ],
+  "features": [
+    "Centro de aprendizaje personalizado",
+    "Motor de próximos pasos",
+    "Mapa de dominio por eje",
+    "Tendencia de 8 semanas",
+    "Cuaderno automático de errores",
+    "12 logros pedagógicos",
+    "Preferencias de sesión y enfoque",
+    "Informe imprimible/guardable como PDF desde el navegador"
+  ]
+}

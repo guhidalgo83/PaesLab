@@ -173,6 +173,22 @@ export default function CoursePage() {
         </div>
 
         {isFifthGrade ? (
+          <>
+          <section className="mt-10 overflow-hidden rounded-[2.5rem] border border-teal-300/20 bg-[radial-gradient(circle_at_top_right,rgba(45,212,191,0.15),transparent_32%),linear-gradient(135deg,#0f172a,#020617)] p-7 sm:p-9">
+            <div className="flex flex-col gap-6 lg:flex-row lg:items-center lg:justify-between">
+              <div>
+                <p className="text-sm font-black uppercase tracking-[0.22em] text-teal-200">Tu aprendizaje en un solo lugar</p>
+                <h2 className="mt-3 text-3xl font-black sm:text-4xl">Mi centro MathLabs</h2>
+                <p className="mt-3 max-w-2xl leading-7 text-slate-300">
+                  Ve qué dominar, qué repasar, tus errores, laboratorios, logros y evolución semanal.
+                </p>
+              </div>
+              <Link href="/hoy" className="rounded-2xl bg-teal-300 px-6 py-4 text-center font-black text-slate-950">
+                Ver mi siguiente paso →
+              </Link>
+            </div>
+          </section>
+
           <section className="mt-10 overflow-hidden rounded-[2.5rem] border border-cyan-300/20 bg-[radial-gradient(circle_at_top_left,rgba(34,211,238,0.18),transparent_32%),radial-gradient(circle_at_bottom_right,rgba(217,70,239,0.14),transparent_28%),linear-gradient(135deg,#0f172a,#020617)] p-7 sm:p-9">
             <div className="grid gap-7 lg:grid-cols-[1.15fr_0.85fr] lg:items-center">
               <div>
@@ -200,6 +216,7 @@ export default function CoursePage() {
               />
             </div>
           </section>
+          </>
         ) : null}
 
         {!course.is_available ? (
