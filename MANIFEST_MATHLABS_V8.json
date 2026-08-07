@@ -1,0 +1,14 @@
+{
+  "version": "8.0",
+  "name": "MathLabs V8 — Aventura Matemática Tomo 1",
+  "new_routes": [
+    "/aventura/5-basico",
+    "/repaso-escolar/tomo-1-unidad-1",
+    "/repaso-escolar/tomo-1-unidad-2"
+  ],
+  "chapters": 9,
+  "review_sets": 2,
+  "review_questions": 36,
+  "new_tables": 5,
+  "new_secure_functions": 4
+}

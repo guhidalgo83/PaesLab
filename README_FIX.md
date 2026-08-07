@@ -1,9 +1,12 @@
-# Corrección SQL MathLabs V7
+# Corrección TypeScript MathLabs V7/V8
 
-Corrige el error `null value in column content` de `lesson_blocks`.
+Este parche corrige los errores TS2322/TS2677 de `MathConceptModel.tsx` y elimina la carpeta residual `mathlabs_v7_tomo1_didactico` que quedó dentro del repositorio y estaba siendo compilada por TypeScript.
 
-Reemplaza únicamente:
-
-- `database/20_mathlabs_tomo1_didactico.sql`
-
-Después vuelve a ejecutar el archivo completo en Supabase.
+```bash
+cd /workspaces/paeslab
+unzip -o mathlabs_v7_v8_fix_typescript.zip -d .
+bash scripts/fix_v7_v8_typescript.sh
+npx tsc --noEmit
+npx eslint . --quiet
+npm run build
+```

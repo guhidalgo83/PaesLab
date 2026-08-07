@@ -26,32 +26,40 @@ function asString(value: unknown, fallback = ""): string {
 
 function asPointArray(value: unknown): Point[] {
   if (!Array.isArray(value)) return [];
-  return value
-    .map((item) => {
-      if (!item || typeof item !== "object") return null;
-      const candidate = item as Record<string, unknown>;
-      return {
-        x: asNumber(candidate.x, 0),
-        y: asNumber(candidate.y, 0),
-        label: asString(candidate.label),
-      };
-    })
-    .filter((item): item is Point => item !== null);
+
+  return value.reduce<Point[]>((items, item) => {
+    if (!item || typeof item !== "object") return items;
+
+    const candidate = item as Record<string, unknown>;
+    const label = asString(candidate.label);
+
+    items.push({
+      x: asNumber(candidate.x, 0),
+      y: asNumber(candidate.y, 0),
+      ...(label ? { label } : {}),
+    });
+
+    return items;
+  }, []);
 }
 
 function asBarItems(value: unknown): BarItem[] {
   if (!Array.isArray(value)) return [];
-  return value
-    .map((item) => {
-      if (!item || typeof item !== "object") return null;
-      const candidate = item as Record<string, unknown>;
-      return {
-        label: asString(candidate.label),
-        value: asNumber(candidate.value, 0),
-        color: asString(candidate.color),
-      };
-    })
-    .filter((item): item is BarItem => item !== null);
+
+  return value.reduce<BarItem[]>((items, item) => {
+    if (!item || typeof item !== "object") return items;
+
+    const candidate = item as Record<string, unknown>;
+    const color = asString(candidate.color);
+
+    items.push({
+      label: asString(candidate.label),
+      value: asNumber(candidate.value, 0),
+      ...(color ? { color } : {}),
+    });
+
+    return items;
+  }, []);
 }
 
 function asLineItems(value: unknown): LineItem[] {

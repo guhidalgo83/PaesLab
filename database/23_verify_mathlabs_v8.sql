@@ -1,0 +1,5 @@
+-- Verificación MathLabs V8
+select count(*) as conjuntos_repaso from public.school_review_sets where id in ('tomo1-unidad1','tomo1-unidad2');
+select review_set_id,count(*) as preguntas from public.school_review_items where review_set_id in ('tomo1-unidad1','tomo1-unidad2') group by review_set_id order by review_set_id;
+select c.relname as tabla,c.relrowsecurity as rls_activo from pg_class c join pg_namespace n on n.oid=c.relnamespace where n.nspname='public' and c.relname in ('school_review_sets','school_review_items','school_review_sessions','school_review_session_items','school_review_responses') order by c.relname;
+select p.oid::regprocedure as funcion,has_function_privilege('anon',p.oid,'EXECUTE') as anon_ejecuta,has_function_privilege('authenticated',p.oid,'EXECUTE') as authenticated_ejecuta,has_function_privilege('public',p.oid,'EXECUTE') as public_ejecuta from pg_proc p join pg_namespace n on n.oid=p.pronamespace where n.nspname='public' and p.proname in ('start_school_review','get_school_review_question','submit_school_review_answer','complete_school_review') order by p.proname;
