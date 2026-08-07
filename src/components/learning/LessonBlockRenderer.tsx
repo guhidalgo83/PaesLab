@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import QuestionVisual from "@/components/QuestionVisual";
 import MathConceptModel from "@/components/mathlabs/MathConceptModel";
 import type { LessonBlock } from "@/types/learning";
@@ -354,6 +355,36 @@ export default function LessonBlockRenderer({ block }: { block: LessonBlock }) {
               <span className="font-black text-lime-200">Tip {index + 1}.</span> {tip}
             </article>
           ))}
+        </div>
+      </section>
+    );
+  }
+
+
+  if (block.block_type === "lab") {
+    const labSlug = asText(data.lab_slug);
+    const labEmoji = asText(data.emoji) || "🧪";
+    return (
+      <section className="rounded-[2rem] border border-cyan-300/20 bg-[radial-gradient(circle_at_top_right,rgba(34,211,238,0.13),transparent_32%),linear-gradient(135deg,rgba(8,145,178,0.10),rgba(79,70,229,0.06))] p-6 sm:p-7">
+        <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
+          <div className="flex items-start gap-4">
+            <div className="grid h-14 w-14 flex-none place-items-center rounded-2xl bg-cyan-300/10 text-3xl">
+              {labEmoji}
+            </div>
+            <div>
+              <p className="text-xs font-black uppercase tracking-[0.2em] text-cyan-200">Laboratorio visual</p>
+              <h2 className="mt-2 text-2xl font-black text-white">{block.title}</h2>
+              <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-300">{block.content}</p>
+            </div>
+          </div>
+          {labSlug ? (
+            <Link
+              href={`/laboratorio/5-basico/${labSlug}`}
+              className="rounded-2xl bg-cyan-300 px-5 py-3 text-center font-black text-slate-950"
+            >
+              Abrir laboratorio →
+            </Link>
+          ) : null}
         </div>
       </section>
     );

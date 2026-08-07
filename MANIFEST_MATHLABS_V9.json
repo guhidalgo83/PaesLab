@@ -1,0 +1,52 @@
+{
+  "version": "9.0",
+  "name": "MathLabs V9 — Laboratorios visuales",
+  "visual_labs": 8,
+  "micro_challenges": 24,
+  "new_routes": [
+    "/laboratorio/5-basico",
+    "/laboratorio/5-basico/[labSlug]"
+  ],
+  "labs": [
+    {
+      "slug": "valor-posicional",
+      "title": "Ciudad de los números",
+      "chapter": "Números grandes"
+    },
+    {
+      "slug": "multiplicacion-visual",
+      "title": "Fábrica de multiplicaciones",
+      "chapter": "Multiplicación"
+    },
+    {
+      "slug": "division-grupos",
+      "title": "Estación de reparto",
+      "chapter": "División"
+    },
+    {
+      "slug": "medidas-conversion",
+      "title": "Taller de medidas",
+      "chapter": "Longitud"
+    },
+    {
+      "slug": "decimales-cuadricula",
+      "title": "Piscina de centésimos",
+      "chapter": "Números decimales"
+    },
+    {
+      "slug": "patrones-maquina",
+      "title": "Máquina de patrones",
+      "chapter": "Patrones"
+    },
+    {
+      "slug": "muro-fracciones",
+      "title": "Muro de fracciones",
+      "chapter": "Fracciones"
+    },
+    {
+      "slug": "datos-en-accion",
+      "title": "Observatorio de datos",
+      "chapter": "Datos"
+    }
+  ]
+}
