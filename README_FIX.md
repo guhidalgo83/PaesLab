@@ -1,17 +1,9 @@
-# MathLabs V4 — Corrección ESLint
+# Corrección SQL MathLabs V7
 
-Corrige tres errores:
+Corrige el error `null value in column content` de `lesson_blocks`.
 
-1. Reemplaza enlaces internos `<a>` por `Link` de Next.js.
-2. Elimina el `any` explícito en la lectura de preguntas vinculadas.
-3. No modifica Supabase, preguntas, lecciones ni progreso.
+Reemplaza únicamente:
 
-Instalación:
+- `database/20_mathlabs_tomo1_didactico.sql`
 
-```bash
-cd /workspaces/paeslab
-unzip -o mathlabs_v4_fix_eslint_links_types.zip -d .
-npx eslint . --quiet
-npx tsc --noEmit
-npm run build
-```
+Después vuelve a ejecutar el archivo completo en Supabase.

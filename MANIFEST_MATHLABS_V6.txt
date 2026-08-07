@@ -1,0 +1,13 @@
+version: 6.0
+name: MathLabs V6 — 5.º básico completo
+new_units: 4
+new_lessons: 14
+new_blocks: 196
+new_solved_examples: 84
+new_guided: 42
+new_visual_models: 14
+new_practice_questions: 168
+diagnostic_questions_v2: 27
+total_school_units: 6
+total_school_lessons: 27
+total_practice_questions_expected: 324

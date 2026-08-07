@@ -125,15 +125,15 @@ export default function SchoolDiagnosticPage() {
               Descubre qué sabes y por dónde conviene comenzar.
             </h1>
             <p className="mt-5 max-w-3xl text-lg leading-8 text-slate-400">
-              El diagnóstico de {course?.name ?? "tu curso"} revisa habilidades de
-              números, álgebra, geometría, medición y datos. No tiene nota ni límite de
+              El diagnóstico completo de {course?.name ?? "tu curso"} revisa los 27 objetivos de
+              números, álgebra, geometría, medición, datos y probabilidades. No tiene nota ni límite de
               tiempo: su objetivo es construir una ruta personal.
             </p>
 
             <div className="mt-8 grid gap-4 sm:grid-cols-3">
               {[
-                ["24", "preguntas breves"],
-                ["12", "temas evaluados"],
+                ["27", "preguntas breves"],
+                ["27", "temas evaluados"],
                 ["1", "ruta personalizada"],
               ].map(([value, label]) => (
                 <div key={label} className="rounded-2xl border border-white/10 bg-white/[0.035] p-5">
