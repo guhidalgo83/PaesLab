@@ -1,0 +1,12 @@
+{
+  "course_id": "cl-8-basico",
+  "snapshot_date": "2026-08-11",
+  "curriculum_basis": "Currículo oficial de Matemática 8.º básico actualmente publicado",
+  "course_url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico",
+  "program_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-8-basico",
+  "update_process_url": "https://www.curriculumnacional.cl/actualizacion-curricular",
+  "update_process_status": "monitoring",
+  "requires_revalidation_before_release": true,
+  "official_oa_count": 17,
+  "topic_count": 34
+}

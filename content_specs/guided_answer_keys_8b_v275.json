@@ -1,0 +1,4626 @@
+[
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-01",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-02",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-03",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-04",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-05",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-06",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-07",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01a-G-08",
+    "topic_id": "topic-v275-ma08-oa01a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "entero",
+      "producto",
+      "signo"
+    ],
+    "expected_text": "(-a)b=-(ab)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Multiplicación de números enteros.",
+    "retry_feedback": "Revisa entero, la relación (-a)b=-(ab) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-01",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-02",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-03",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-04",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-05",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-06",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-07",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa01b-G-08",
+    "topic_id": "topic-v275-ma08-oa01b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "división",
+      "cociente",
+      "signo"
+    ],
+    "expected_text": "(-a)/(-b)=a/b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de enteros y problemas.",
+    "retry_feedback": "Revisa división, la relación (-a)/(-b)=a/b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-01",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-02",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-03",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-04",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-05",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-06",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-07",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02a-G-08",
+    "topic_id": "topic-v275-ma08-oa02a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "racional",
+      "fracción",
+      "producto"
+    ],
+    "expected_text": "a/b·c/d=ac/bd",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Producto de números racionales.",
+    "retry_feedback": "Revisa racional, la relación a/b·c/d=ac/bd y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-01",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-02",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-03",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-04",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-05",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-06",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-07",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa02b-G-08",
+    "topic_id": "topic-v275-ma08-oa02b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "recíproco",
+      "división",
+      "recta numérica"
+    ],
+    "expected_text": "a/b÷c/d=ad/bc",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con División de racionales y recta numérica.",
+    "retry_feedback": "Revisa recíproco, la relación a/b÷c/d=ad/bc y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-01",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-02",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-03",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-04",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-05",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-06",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-07",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03a-G-08",
+    "topic_id": "topic-v275-ma08-oa03a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "potencia",
+      "exponente",
+      "base racional"
+    ],
+    "expected_text": "a^m·a^n=a^(m+n)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Leyes de potencias con exponente entero.",
+    "retry_feedback": "Revisa potencia, la relación a^m·a^n=a^(m+n) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-01",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-02",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-03",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-04",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-05",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-06",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-07",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa03b-G-08",
+    "topic_id": "topic-v275-ma08-oa03b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "exponente negativo",
+      "recíproco",
+      "potencia de potencia"
+    ],
+    "expected_text": "(a^m)^n=a^(mn)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Potencia de potencia y exponentes negativos.",
+    "retry_feedback": "Revisa exponente negativo, la relación (a^m)^n=a^(mn) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-01",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-02",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-03",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-04",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-05",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-06",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-07",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04a-G-08",
+    "topic_id": "topic-v275-ma08-oa04a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "raíz cuadrada",
+      "cuadrado perfecto",
+      "estimación"
+    ],
+    "expected_text": "√(a²)=a para a≥0",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Raíz cuadrada y cuadrados perfectos.",
+    "retry_feedback": "Revisa raíz cuadrada, la relación √(a²)=a para a≥0 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-01",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-02",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-03",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-04",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-05",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-06",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-07",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa04b-G-08",
+    "topic_id": "topic-v275-ma08-oa04b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "estimación",
+      "intervalo",
+      "geometría"
+    ],
+    "expected_text": "n²<a<(n+1)²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Estimación y aplicaciones de raíces.",
+    "retry_feedback": "Revisa estimación, la relación n²<a<(n+1)² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-01",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-02",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-03",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-04",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-05",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-06",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-07",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05a-G-08",
+    "topic_id": "topic-v275-ma08-oa05a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "porcentaje",
+      "aumento",
+      "disminución"
+    ],
+    "expected_text": "Q'=Q(1±r)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Aumentos y disminuciones porcentuales.",
+    "retry_feedback": "Revisa porcentaje, la relación Q'=Q(1±r) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-01",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-02",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-03",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-04",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-05",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-06",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-07",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa05b-G-08",
+    "topic_id": "topic-v275-ma08-oa05b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "variación sucesiva",
+      "factor",
+      "contexto"
+    ],
+    "expected_text": "Q_n=Q_0∏(1+r_i)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Variaciones sucesivas y problemas.",
+    "retry_feedback": "Revisa variación sucesiva, la relación Q_n=Q_0∏(1+r_i) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-01",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-02",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-03",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-04",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-05",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-06",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-07",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06a-G-08",
+    "topic_id": "topic-v275-ma08-oa06a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "expresión algebraica",
+      "distributividad",
+      "término"
+    ],
+    "expected_text": "a(b+c)=ab+ac",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Suma, producto y área algebraica.",
+    "retry_feedback": "Revisa expresión algebraica, la relación a(b+c)=ab+ac y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-01",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-02",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-03",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-04",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-05",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-06",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-07",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa06b-G-08",
+    "topic_id": "topic-v275-ma08-oa06b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "factor común",
+      "factorización",
+      "equivalencia"
+    ],
+    "expected_text": "ab+ac=a(b+c)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Factorización de expresiones algebraicas.",
+    "retry_feedback": "Revisa factor común, la relación ab+ac=a(b+c) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-01",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-02",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-03",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-04",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-05",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-06",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-07",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07a-G-08",
+    "topic_id": "topic-v275-ma08-oa07a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función",
+      "entrada",
+      "salida"
+    ],
+    "expected_text": "x→f(x)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función como máquina y tabla.",
+    "retry_feedback": "Revisa función, la relación x→f(x) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-01",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-02",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-03",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-04",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-05",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-06",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-07",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa07b-G-08",
+    "topic_id": "topic-v275-ma08-oa07b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "cambio lineal",
+      "tasa",
+      "gráfico"
+    ],
+    "expected_text": "y=kx",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Cambio lineal y representación.",
+    "retry_feedback": "Revisa cambio lineal, la relación y=kx y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-01",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-02",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-03",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-04",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-05",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-06",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-07",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08a-G-08",
+    "topic_id": "topic-v275-ma08-oa08a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "ecuación",
+      "equivalencia",
+      "incógnita"
+    ],
+    "expected_text": "ax+b=c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Ecuaciones lineales y equivalencia.",
+    "retry_feedback": "Revisa ecuación, la relación ax+b=c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-01",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-02",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-03",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-04",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-05",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-06",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-07",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa08b-G-08",
+    "topic_id": "topic-v275-ma08-oa08b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "modelo",
+      "ecuación",
+      "contexto"
+    ],
+    "expected_text": "ax+b=cx+d",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Modelación con ecuaciones lineales.",
+    "retry_feedback": "Revisa modelo, la relación ax+b=cx+d y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-01",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-02",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-03",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-04",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-05",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-06",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-07",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09a-G-08",
+    "topic_id": "topic-v275-ma08-oa09a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "inecuación",
+      "intervalo",
+      "recta numérica"
+    ],
+    "expected_text": "ax+b<c",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones lineales y recta numérica.",
+    "retry_feedback": "Revisa inecuación, la relación ax+b<c y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-01",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-02",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-03",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-04",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-05",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-06",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-07",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa09b-G-08",
+    "topic_id": "topic-v275-ma08-oa09b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coeficiente racional",
+      "desigualdad",
+      "signo"
+    ],
+    "expected_text": "a<b ⇒ -a>-b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Inecuaciones con racionales y problemas.",
+    "retry_feedback": "Revisa coeficiente racional, la relación a<b ⇒ -a>-b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-01",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-02",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-03",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-04",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-05",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-06",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-07",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10a-G-08",
+    "topic_id": "topic-v275-ma08-oa10a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "función afín",
+      "pendiente",
+      "intercepto"
+    ],
+    "expected_text": "y=mx+b",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Función afín y parámetros.",
+    "retry_feedback": "Revisa función afín, la relación y=mx+b y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-01",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-02",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-03",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-04",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-05",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-06",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-07",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa10b-G-08",
+    "topic_id": "topic-v275-ma08-oa10b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "tasa de cambio",
+      "valor inicial"
+    ],
+    "expected_text": "Δy/Δx=m",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Gráfico y modelación afín.",
+    "retry_feedback": "Revisa gráfico, la relación Δy/Δx=m y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-01",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-02",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-03",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-04",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-05",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-06",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-07",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11a-G-08",
+    "topic_id": "topic-v275-ma08-oa11a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "superficie",
+      "prisma",
+      "cilindro"
+    ],
+    "expected_text": "A_cil=2πrh+2πr²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Área de prismas y cilindros.",
+    "retry_feedback": "Revisa superficie, la relación A_cil=2πrh+2πr² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-01",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-02",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-03",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-04",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-05",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-06",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-07",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa11b-G-08",
+    "topic_id": "topic-v275-ma08-oa11b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "volumen",
+      "base",
+      "altura"
+    ],
+    "expected_text": "V=A_base·h",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Volumen de prismas y cilindros.",
+    "retry_feedback": "Revisa volumen, la relación V=A_base·h y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-01",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-02",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-03",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-04",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-05",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-06",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-07",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12a-G-08",
+    "topic_id": "topic-v275-ma08-oa12a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "triángulo rectángulo",
+      "cateto",
+      "hipotenusa"
+    ],
+    "expected_text": "a²+b²=c²",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Teorema de Pitágoras y validez.",
+    "retry_feedback": "Revisa triángulo rectángulo, la relación a²+b²=c² y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-01",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-02",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-03",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-04",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-05",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-06",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-07",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa12b-G-08",
+    "topic_id": "topic-v275-ma08-oa12b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "distancia",
+      "diagonal",
+      "longitud"
+    ],
+    "expected_text": "c=√(a²+b²)",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Distancias y problemas con Pitágoras.",
+    "retry_feedback": "Revisa distancia, la relación c=√(a²+b²) y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-01",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-02",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-03",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-04",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-05",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-06",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-07",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13a-G-08",
+    "topic_id": "topic-v275-ma08-oa13a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "traslación",
+      "vector",
+      "coordenada"
+    ],
+    "expected_text": "P'=P+v",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Traslaciones y vectores.",
+    "retry_feedback": "Revisa traslación, la relación P'=P+v y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-01",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-02",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-03",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-04",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-05",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-06",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-07",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa13b-G-08",
+    "topic_id": "topic-v275-ma08-oa13b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "rotación",
+      "reflexión",
+      "centro/eje"
+    ],
+    "expected_text": "isometría conserva distancia",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Rotaciones y reflexiones.",
+    "retry_feedback": "Revisa rotación, la relación isometría conserva distancia y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-01",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-02",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-03",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-04",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-05",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-06",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-07",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14a-G-08",
+    "topic_id": "topic-v275-ma08-oa14a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "composición",
+      "orden",
+      "imagen intermedia"
+    ],
+    "expected_text": "T₂∘T₁",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Composición de transformaciones.",
+    "retry_feedback": "Revisa composición, la relación T₂∘T₁ y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-01",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-02",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-03",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-04",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-05",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-06",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-07",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa14b-G-08",
+    "topic_id": "topic-v275-ma08-oa14b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "coordenada",
+      "composición",
+      "plano cartesiano"
+    ],
+    "expected_text": "(x,y)→(x',y')",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Transformaciones compuestas en coordenadas.",
+    "retry_feedback": "Revisa coordenada, la relación (x,y)→(x',y') y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-01",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-02",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-03",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-04",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-05",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-06",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-07",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15a-G-08",
+    "topic_id": "topic-v275-ma08-oa15a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "percentil",
+      "cuartil",
+      "posición"
+    ],
+    "expected_text": "Q1=P25, Q2=P50, Q3=P75",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Percentiles y cuartiles.",
+    "retry_feedback": "Revisa percentil, la relación Q1=P25, Q2=P50, Q3=P75 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-01",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-02",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-03",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-04",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-05",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-06",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-07",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa15b-G-08",
+    "topic_id": "topic-v275-ma08-oa15b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "diagrama de cajón",
+      "mediana",
+      "ric"
+    ],
+    "expected_text": "RIC=Q3-Q1",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Diagrama de cajón y comparación.",
+    "retry_feedback": "Revisa diagrama de cajón, la relación RIC=Q3-Q1 y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-01",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-02",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-03",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-04",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-05",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-06",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-07",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16a-G-08",
+    "topic_id": "topic-v275-ma08-oa16a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "gráfico",
+      "escala",
+      "comparación"
+    ],
+    "expected_text": "datos iguales ≠ impresión visual igual",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Comparación crítica de gráficos.",
+    "retry_feedback": "Revisa gráfico, la relación datos iguales ≠ impresión visual igual y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-01",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-02",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-03",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-04",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-05",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-06",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-07",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa16b-G-08",
+    "topic_id": "topic-v275-ma08-oa16b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "manipulación",
+      "eje truncado",
+      "proporción"
+    ],
+    "expected_text": "eje + escala + fuente",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Manipulación y comunicación de datos.",
+    "retry_feedback": "Revisa manipulación, la relación eje + escala + fuente y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-01",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-02",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-03",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-04",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-05",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-06",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-07",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17a-G-08",
+    "topic_id": "topic-v275-ma08-oa17a",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "principio multiplicativo",
+      "opción",
+      "tabla"
+    ],
+    "expected_text": "N=m·n",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Principio multiplicativo y tablas.",
+    "retry_feedback": "Revisa principio multiplicativo, la relación N=m·n y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-01",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 0,
+    "stage": "guided",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-02",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 1,
+    "stage": "completion",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-03",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 2,
+    "stage": "faded",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-04",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 3,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-05",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 4,
+    "stage": "error_repair",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-06",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 5,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-07",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 6,
+    "stage": "independent",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  },
+  {
+    "item_id": "topic-v275-ma08-oa17b-G-08",
+    "topic_id": "topic-v275-ma08-oa17b",
+    "item_index": 7,
+    "stage": "transfer",
+    "validation_type": "keywords",
+    "expected_numbers": [],
+    "expected_keywords": [
+      "árbol",
+      "etapa",
+      "resultado"
+    ],
+    "expected_text": "N=∏n_i",
+    "tolerance": 0,
+    "correct_feedback": "Bien: conectaste correctamente la idea con Árboles y problemas combinatorios.",
+    "retry_feedback": "Revisa árbol, la relación N=∏n_i y una segunda forma de comprobar."
+  }
+]

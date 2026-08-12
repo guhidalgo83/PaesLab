@@ -1,0 +1,3881 @@
+{
+  "course_id": "cl-8-basico",
+  "snapshot_date": "2026-08-11",
+  "sources": [
+    {
+      "source_key": "mineduc-8b-course",
+      "course_id": "cl-8-basico",
+      "kind": "official_curriculum_page",
+      "title": "Matemática 8.º básico",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Currículo oficial actualmente publicado."
+    },
+    {
+      "source_key": "mineduc-8b-program",
+      "course_id": "cl-8-basico",
+      "kind": "official_program",
+      "title": "Programa de Estudio Matemática 8.º básico",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-8-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Programa oficial; ficha 2024."
+    },
+    {
+      "source_key": "mineduc-8b-update-1b-2m",
+      "course_id": "cl-8-basico",
+      "kind": "official_update_process",
+      "title": "Actualización Curricular 1.º básico a 2.º medio",
+      "url": "https://www.curriculumnacional.cl/actualizacion-curricular",
+      "authority": "Mineduc",
+      "notes": "Proceso en seguimiento; requiere revalidación antes de release."
+    },
+    {
+      "source_key": "mineduc-8b-oa-01",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 01",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-01",
+      "authority": "UCE Mineduc",
+      "notes": "Multiplicación y división de números enteros, con representaciones, regla de signos y resolución de problemas."
+    },
+    {
+      "source_key": "mineduc-8b-oa-02",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 02",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-02",
+      "authority": "UCE Mineduc",
+      "notes": "Multiplicación y división de números racionales en problemas, conectando fracciones, decimales y recta numérica."
+    },
+    {
+      "source_key": "mineduc-8b-oa-03",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 03",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-03",
+      "authority": "UCE Mineduc",
+      "notes": "Multiplicación, división y potencias de potencias con base racional y exponente entero."
+    },
+    {
+      "source_key": "mineduc-8b-oa-04",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 04",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-04",
+      "authority": "UCE Mineduc",
+      "notes": "Raíces cuadradas de números naturales mediante estimación, representaciones y aplicaciones."
+    },
+    {
+      "source_key": "mineduc-8b-oa-05",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 05",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-05",
+      "authority": "UCE Mineduc",
+      "notes": "Variaciones porcentuales en contextos diversos, con representaciones y registro del procedimiento."
+    },
+    {
+      "source_key": "mineduc-8b-oa-06",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 06",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-06",
+      "authority": "UCE Mineduc",
+      "notes": "Operaciones con expresiones algebraicas, representaciones pictóricas/simbólicas y formas factorizadas."
+    },
+    {
+      "source_key": "mineduc-8b-oa-07",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 07",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-07",
+      "authority": "UCE Mineduc",
+      "notes": "Noción de función mediante cambio lineal, tablas, máquinas, reglas y representaciones."
+    },
+    {
+      "source_key": "mineduc-8b-oa-08",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 08",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-08",
+      "authority": "UCE Mineduc",
+      "notes": "Modelación de situaciones mediante ecuaciones lineales con coeficientes racionales."
+    },
+    {
+      "source_key": "mineduc-8b-oa-09",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 09",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-09",
+      "authority": "UCE Mineduc",
+      "notes": "Resolución de inecuaciones lineales con coeficientes racionales mediante representaciones gráficas y simbólicas."
+    },
+    {
+      "source_key": "mineduc-8b-oa-10",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 10",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-10",
+      "authority": "UCE Mineduc",
+      "notes": "Función afín como traslación de una función lineal, representaciones y aplicaciones."
+    },
+    {
+      "source_key": "mineduc-8b-oa-11",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 11",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-11",
+      "authority": "UCE Mineduc",
+      "notes": "Área de superficie y volumen de prismas rectos y cilindros, incluyendo redes y estimación."
+    },
+    {
+      "source_key": "mineduc-8b-oa-12",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 12",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-12",
+      "authority": "UCE Mineduc",
+      "notes": "Validez y aplicación del teorema de Pitágoras en representaciones y problemas."
+    },
+    {
+      "source_key": "mineduc-8b-oa-13",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 13",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-13",
+      "authority": "UCE Mineduc",
+      "notes": "Posición y movimiento de figuras 2D mediante traslaciones, rotaciones, reflexiones y vectores."
+    },
+    {
+      "source_key": "mineduc-8b-oa-14",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 14",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-14",
+      "authority": "UCE Mineduc",
+      "notes": "Composición de rotaciones, traslaciones y reflexiones en plano cartesiano y espacio."
+    },
+    {
+      "source_key": "mineduc-8b-oa-15",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 15",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-15",
+      "authority": "UCE Mineduc",
+      "notes": "Medidas de posición, percentiles y cuartiles, diagramas de cajón y comparación de poblaciones."
+    },
+    {
+      "source_key": "mineduc-8b-oa-16",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 16",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-16",
+      "authority": "UCE Mineduc",
+      "notes": "Evaluación crítica de presentaciones de datos y gráficos, incluyendo posibles manipulaciones."
+    },
+    {
+      "source_key": "mineduc-8b-oa-17",
+      "course_id": "cl-8-basico",
+      "kind": "official_oa",
+      "title": "MA08 OA 17",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-17",
+      "authority": "UCE Mineduc",
+      "notes": "Principio combinatorio multiplicativo mediante situaciones, tablas, árboles y cálculo de probabilidades."
+    },
+    {
+      "source_key": "mineduc-8b-u1",
+      "course_id": "cl-8-basico",
+      "kind": "official_program_unit",
+      "title": "U1: Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-8-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad del programa oficial."
+    },
+    {
+      "source_key": "mineduc-8b-u2",
+      "course_id": "cl-8-basico",
+      "kind": "official_program_unit",
+      "title": "U2: Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-8-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad del programa oficial."
+    },
+    {
+      "source_key": "mineduc-8b-u3",
+      "course_id": "cl-8-basico",
+      "kind": "official_program_unit",
+      "title": "U3: Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-8-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad del programa oficial."
+    },
+    {
+      "source_key": "mineduc-8b-u4",
+      "course_id": "cl-8-basico",
+      "kind": "official_program_unit",
+      "title": "U4: Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-8-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad del programa oficial."
+    }
+  ],
+  "oas": [
+    {
+      "code": "MA08 OA 01",
+      "unit": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "text": "Multiplicación y división de números enteros, con representaciones, regla de signos y resolución de problemas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-01"
+    },
+    {
+      "code": "MA08 OA 02",
+      "unit": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "text": "Multiplicación y división de números racionales en problemas, conectando fracciones, decimales y recta numérica.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-02"
+    },
+    {
+      "code": "MA08 OA 03",
+      "unit": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "text": "Multiplicación, división y potencias de potencias con base racional y exponente entero.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-03"
+    },
+    {
+      "code": "MA08 OA 04",
+      "unit": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "text": "Raíces cuadradas de números naturales mediante estimación, representaciones y aplicaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-04"
+    },
+    {
+      "code": "MA08 OA 05",
+      "unit": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "text": "Variaciones porcentuales en contextos diversos, con representaciones y registro del procedimiento.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-05"
+    },
+    {
+      "code": "MA08 OA 06",
+      "unit": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "text": "Operaciones con expresiones algebraicas, representaciones pictóricas/simbólicas y formas factorizadas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-06"
+    },
+    {
+      "code": "MA08 OA 07",
+      "unit": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "text": "Noción de función mediante cambio lineal, tablas, máquinas, reglas y representaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-07"
+    },
+    {
+      "code": "MA08 OA 08",
+      "unit": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "text": "Modelación de situaciones mediante ecuaciones lineales con coeficientes racionales.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-08"
+    },
+    {
+      "code": "MA08 OA 09",
+      "unit": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "text": "Resolución de inecuaciones lineales con coeficientes racionales mediante representaciones gráficas y simbólicas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-09"
+    },
+    {
+      "code": "MA08 OA 10",
+      "unit": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "text": "Función afín como traslación de una función lineal, representaciones y aplicaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-10"
+    },
+    {
+      "code": "MA08 OA 11",
+      "unit": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "text": "Área de superficie y volumen de prismas rectos y cilindros, incluyendo redes y estimación.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-11"
+    },
+    {
+      "code": "MA08 OA 12",
+      "unit": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "text": "Validez y aplicación del teorema de Pitágoras en representaciones y problemas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-12"
+    },
+    {
+      "code": "MA08 OA 13",
+      "unit": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "text": "Posición y movimiento de figuras 2D mediante traslaciones, rotaciones, reflexiones y vectores.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-13"
+    },
+    {
+      "code": "MA08 OA 14",
+      "unit": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "text": "Composición de rotaciones, traslaciones y reflexiones en plano cartesiano y espacio.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-14"
+    },
+    {
+      "code": "MA08 OA 15",
+      "unit": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "text": "Medidas de posición, percentiles y cuartiles, diagramas de cajón y comparación de poblaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-15"
+    },
+    {
+      "code": "MA08 OA 16",
+      "unit": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "text": "Evaluación crítica de presentaciones de datos y gráficos, incluyendo posibles manipulaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-16"
+    },
+    {
+      "code": "MA08 OA 17",
+      "unit": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "text": "Principio combinatorio multiplicativo mediante situaciones, tablas, árboles y cálculo de probabilidades.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/8-basico/ma08-oa-17"
+    }
+  ],
+  "nodes": [
+    {
+      "node_id": "8B-V275-01-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01a",
+      "ordinal": 1,
+      "title": "Multiplicación de números enteros: Concepto y significado",
+      "description": "Explicar entero y conectarlo con producto.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "critical",
+      "terms": [
+        "entero",
+        "producto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01a",
+      "ordinal": 2,
+      "title": "Multiplicación de números enteros: Representación y procedimiento",
+      "description": "Representar y resolver con (-a)b=-(ab).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "high",
+      "terms": [
+        "producto",
+        "signo"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01a",
+      "ordinal": 3,
+      "title": "Multiplicación de números enteros: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "high",
+      "terms": [
+        "signo",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01a",
+      "ordinal": 4,
+      "title": "Multiplicación de números enteros: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "normal",
+      "terms": [
+        "representación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01b",
+      "ordinal": 5,
+      "title": "División de enteros y problemas: Concepto y significado",
+      "description": "Explicar división y conectarlo con cociente.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "critical",
+      "terms": [
+        "división",
+        "cociente"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01b",
+      "ordinal": 6,
+      "title": "División de enteros y problemas: Representación y procedimiento",
+      "description": "Representar y resolver con (-a)/(-b)=a/b.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "high",
+      "terms": [
+        "cociente",
+        "signo"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01b",
+      "ordinal": 7,
+      "title": "División de enteros y problemas: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "high",
+      "terms": [
+        "signo",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-01-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa01b",
+      "ordinal": 8,
+      "title": "División de enteros y problemas: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-01",
+      "importance": "normal",
+      "terms": [
+        "problema",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02a",
+      "ordinal": 1,
+      "title": "Producto de números racionales: Concepto y significado",
+      "description": "Explicar racional y conectarlo con fracción.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "critical",
+      "terms": [
+        "racional",
+        "fracción"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02a",
+      "ordinal": 2,
+      "title": "Producto de números racionales: Representación y procedimiento",
+      "description": "Representar y resolver con a/b·c/d=ac/bd.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "high",
+      "terms": [
+        "fracción",
+        "producto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02a",
+      "ordinal": 3,
+      "title": "Producto de números racionales: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "high",
+      "terms": [
+        "producto",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02a",
+      "ordinal": 4,
+      "title": "Producto de números racionales: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "normal",
+      "terms": [
+        "equivalencia",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02b",
+      "ordinal": 5,
+      "title": "División de racionales y recta numérica: Concepto y significado",
+      "description": "Explicar recíproco y conectarlo con división.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "critical",
+      "terms": [
+        "recíproco",
+        "división"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02b",
+      "ordinal": 6,
+      "title": "División de racionales y recta numérica: Representación y procedimiento",
+      "description": "Representar y resolver con a/b÷c/d=ad/bc.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "high",
+      "terms": [
+        "división",
+        "recta numérica"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02b",
+      "ordinal": 7,
+      "title": "División de racionales y recta numérica: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "high",
+      "terms": [
+        "recta numérica",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-02-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa02b",
+      "ordinal": 8,
+      "title": "División de racionales y recta numérica: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-02",
+      "importance": "normal",
+      "terms": [
+        "problema",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03a",
+      "ordinal": 1,
+      "title": "Leyes de potencias con exponente entero: Concepto y significado",
+      "description": "Explicar potencia y conectarlo con exponente.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "critical",
+      "terms": [
+        "potencia",
+        "exponente"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03a",
+      "ordinal": 2,
+      "title": "Leyes de potencias con exponente entero: Representación y procedimiento",
+      "description": "Representar y resolver con a^m·a^n=a^(m+n).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "high",
+      "terms": [
+        "exponente",
+        "base racional"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03a",
+      "ordinal": 3,
+      "title": "Leyes de potencias con exponente entero: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "high",
+      "terms": [
+        "base racional",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03a",
+      "ordinal": 4,
+      "title": "Leyes de potencias con exponente entero: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "normal",
+      "terms": [
+        "propiedad",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03b",
+      "ordinal": 5,
+      "title": "Potencia de potencia y exponentes negativos: Concepto y significado",
+      "description": "Explicar exponente negativo y conectarlo con recíproco.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "critical",
+      "terms": [
+        "exponente negativo",
+        "recíproco"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03b",
+      "ordinal": 6,
+      "title": "Potencia de potencia y exponentes negativos: Representación y procedimiento",
+      "description": "Representar y resolver con (a^m)^n=a^(mn).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "high",
+      "terms": [
+        "recíproco",
+        "potencia de potencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03b",
+      "ordinal": 7,
+      "title": "Potencia de potencia y exponentes negativos: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "high",
+      "terms": [
+        "potencia de potencia",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-03-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa03b",
+      "ordinal": 8,
+      "title": "Potencia de potencia y exponentes negativos: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-03",
+      "importance": "normal",
+      "terms": [
+        "verificación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04a",
+      "ordinal": 1,
+      "title": "Raíz cuadrada y cuadrados perfectos: Concepto y significado",
+      "description": "Explicar raíz cuadrada y conectarlo con cuadrado perfecto.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "critical",
+      "terms": [
+        "raíz cuadrada",
+        "cuadrado perfecto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04a",
+      "ordinal": 2,
+      "title": "Raíz cuadrada y cuadrados perfectos: Representación y procedimiento",
+      "description": "Representar y resolver con √(a²)=a para a≥0.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "high",
+      "terms": [
+        "cuadrado perfecto",
+        "estimación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04a",
+      "ordinal": 3,
+      "title": "Raíz cuadrada y cuadrados perfectos: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "high",
+      "terms": [
+        "estimación",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04a",
+      "ordinal": 4,
+      "title": "Raíz cuadrada y cuadrados perfectos: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "normal",
+      "terms": [
+        "inversa",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04b",
+      "ordinal": 5,
+      "title": "Estimación y aplicaciones de raíces: Concepto y significado",
+      "description": "Explicar estimación y conectarlo con intervalo.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "critical",
+      "terms": [
+        "estimación",
+        "intervalo"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04b",
+      "ordinal": 6,
+      "title": "Estimación y aplicaciones de raíces: Representación y procedimiento",
+      "description": "Representar y resolver con n²<a<(n+1)².",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "high",
+      "terms": [
+        "intervalo",
+        "geometría"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04b",
+      "ordinal": 7,
+      "title": "Estimación y aplicaciones de raíces: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "high",
+      "terms": [
+        "geometría",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-04-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa04b",
+      "ordinal": 8,
+      "title": "Estimación y aplicaciones de raíces: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-04",
+      "importance": "normal",
+      "terms": [
+        "raíz",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05a",
+      "ordinal": 1,
+      "title": "Aumentos y disminuciones porcentuales: Concepto y significado",
+      "description": "Explicar porcentaje y conectarlo con aumento.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "critical",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05a",
+      "ordinal": 2,
+      "title": "Aumentos y disminuciones porcentuales: Representación y procedimiento",
+      "description": "Representar y resolver con Q'=Q(1±r).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "high",
+      "terms": [
+        "aumento",
+        "disminución"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05a",
+      "ordinal": 3,
+      "title": "Aumentos y disminuciones porcentuales: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "high",
+      "terms": [
+        "disminución",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05a",
+      "ordinal": 4,
+      "title": "Aumentos y disminuciones porcentuales: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "normal",
+      "terms": [
+        "factor",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05b",
+      "ordinal": 5,
+      "title": "Variaciones sucesivas y problemas: Concepto y significado",
+      "description": "Explicar variación sucesiva y conectarlo con factor.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "critical",
+      "terms": [
+        "variación sucesiva",
+        "factor"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05b",
+      "ordinal": 6,
+      "title": "Variaciones sucesivas y problemas: Representación y procedimiento",
+      "description": "Representar y resolver con Q_n=Q_0∏(1+r_i).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "high",
+      "terms": [
+        "factor",
+        "contexto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05b",
+      "ordinal": 7,
+      "title": "Variaciones sucesivas y problemas: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "high",
+      "terms": [
+        "contexto",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-05-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Raíces cuadradas. Multiplicación y división de números enteros y de potencias.",
+      "topic_id": "topic-v275-ma08-oa05b",
+      "ordinal": 8,
+      "title": "Variaciones sucesivas y problemas: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-05",
+      "importance": "normal",
+      "terms": [
+        "comparación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06a",
+      "ordinal": 1,
+      "title": "Suma, producto y área algebraica: Concepto y significado",
+      "description": "Explicar expresión algebraica y conectarlo con distributividad.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "critical",
+      "terms": [
+        "expresión algebraica",
+        "distributividad"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06a",
+      "ordinal": 2,
+      "title": "Suma, producto y área algebraica: Representación y procedimiento",
+      "description": "Representar y resolver con a(b+c)=ab+ac.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "high",
+      "terms": [
+        "distributividad",
+        "término"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06a",
+      "ordinal": 3,
+      "title": "Suma, producto y área algebraica: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "high",
+      "terms": [
+        "término",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06a",
+      "ordinal": 4,
+      "title": "Suma, producto y área algebraica: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "normal",
+      "terms": [
+        "área",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06b",
+      "ordinal": 5,
+      "title": "Factorización de expresiones algebraicas: Concepto y significado",
+      "description": "Explicar factor común y conectarlo con factorización.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "critical",
+      "terms": [
+        "factor común",
+        "factorización"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06b",
+      "ordinal": 6,
+      "title": "Factorización de expresiones algebraicas: Representación y procedimiento",
+      "description": "Representar y resolver con ab+ac=a(b+c).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "high",
+      "terms": [
+        "factorización",
+        "equivalencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06b",
+      "ordinal": 7,
+      "title": "Factorización de expresiones algebraicas: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "high",
+      "terms": [
+        "equivalencia",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-06-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa06b",
+      "ordinal": 8,
+      "title": "Factorización de expresiones algebraicas: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-06",
+      "importance": "normal",
+      "terms": [
+        "volumen",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07a",
+      "ordinal": 1,
+      "title": "Función como máquina y tabla: Concepto y significado",
+      "description": "Explicar función y conectarlo con entrada.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "critical",
+      "terms": [
+        "función",
+        "entrada"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07a",
+      "ordinal": 2,
+      "title": "Función como máquina y tabla: Representación y procedimiento",
+      "description": "Representar y resolver con x→f(x).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "high",
+      "terms": [
+        "entrada",
+        "salida"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07a",
+      "ordinal": 3,
+      "title": "Función como máquina y tabla: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "high",
+      "terms": [
+        "salida",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07a",
+      "ordinal": 4,
+      "title": "Función como máquina y tabla: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "normal",
+      "terms": [
+        "tabla",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07b",
+      "ordinal": 5,
+      "title": "Cambio lineal y representación: Concepto y significado",
+      "description": "Explicar cambio lineal y conectarlo con tasa.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "critical",
+      "terms": [
+        "cambio lineal",
+        "tasa"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07b",
+      "ordinal": 6,
+      "title": "Cambio lineal y representación: Representación y procedimiento",
+      "description": "Representar y resolver con y=kx.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "high",
+      "terms": [
+        "tasa",
+        "gráfico"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07b",
+      "ordinal": 7,
+      "title": "Cambio lineal y representación: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "high",
+      "terms": [
+        "gráfico",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-07-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa07b",
+      "ordinal": 8,
+      "title": "Cambio lineal y representación: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-07",
+      "importance": "normal",
+      "terms": [
+        "regla",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08a",
+      "ordinal": 1,
+      "title": "Ecuaciones lineales y equivalencia: Concepto y significado",
+      "description": "Explicar ecuación y conectarlo con equivalencia.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "critical",
+      "terms": [
+        "ecuación",
+        "equivalencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08a",
+      "ordinal": 2,
+      "title": "Ecuaciones lineales y equivalencia: Representación y procedimiento",
+      "description": "Representar y resolver con ax+b=c.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "high",
+      "terms": [
+        "equivalencia",
+        "incógnita"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08a",
+      "ordinal": 3,
+      "title": "Ecuaciones lineales y equivalencia: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "high",
+      "terms": [
+        "incógnita",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08a",
+      "ordinal": 4,
+      "title": "Ecuaciones lineales y equivalencia: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "normal",
+      "terms": [
+        "despeje",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08b",
+      "ordinal": 5,
+      "title": "Modelación con ecuaciones lineales: Concepto y significado",
+      "description": "Explicar modelo y conectarlo con ecuación.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "critical",
+      "terms": [
+        "modelo",
+        "ecuación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08b",
+      "ordinal": 6,
+      "title": "Modelación con ecuaciones lineales: Representación y procedimiento",
+      "description": "Representar y resolver con ax+b=cx+d.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "high",
+      "terms": [
+        "ecuación",
+        "contexto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08b",
+      "ordinal": 7,
+      "title": "Modelación con ecuaciones lineales: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "high",
+      "terms": [
+        "contexto",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-08-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa08b",
+      "ordinal": 8,
+      "title": "Modelación con ecuaciones lineales: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-08",
+      "importance": "normal",
+      "terms": [
+        "verificación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09a",
+      "ordinal": 1,
+      "title": "Inecuaciones lineales y recta numérica: Concepto y significado",
+      "description": "Explicar inecuación y conectarlo con intervalo.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "critical",
+      "terms": [
+        "inecuación",
+        "intervalo"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09a",
+      "ordinal": 2,
+      "title": "Inecuaciones lineales y recta numérica: Representación y procedimiento",
+      "description": "Representar y resolver con ax+b<c.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "high",
+      "terms": [
+        "intervalo",
+        "recta numérica"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09a",
+      "ordinal": 3,
+      "title": "Inecuaciones lineales y recta numérica: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "high",
+      "terms": [
+        "recta numérica",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09a",
+      "ordinal": 4,
+      "title": "Inecuaciones lineales y recta numérica: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "normal",
+      "terms": [
+        "solución",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09b",
+      "ordinal": 5,
+      "title": "Inecuaciones con racionales y problemas: Concepto y significado",
+      "description": "Explicar coeficiente racional y conectarlo con desigualdad.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "critical",
+      "terms": [
+        "coeficiente racional",
+        "desigualdad"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09b",
+      "ordinal": 6,
+      "title": "Inecuaciones con racionales y problemas: Representación y procedimiento",
+      "description": "Representar y resolver con a<b ⇒ -a>-b.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "high",
+      "terms": [
+        "desigualdad",
+        "signo"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09b",
+      "ordinal": 7,
+      "title": "Inecuaciones con racionales y problemas: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "high",
+      "terms": [
+        "signo",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-09-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa09b",
+      "ordinal": 8,
+      "title": "Inecuaciones con racionales y problemas: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-09",
+      "importance": "normal",
+      "terms": [
+        "problema",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10a",
+      "ordinal": 1,
+      "title": "Función afín y parámetros: Concepto y significado",
+      "description": "Explicar función afín y conectarlo con pendiente.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "critical",
+      "terms": [
+        "función afín",
+        "pendiente"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10a",
+      "ordinal": 2,
+      "title": "Función afín y parámetros: Representación y procedimiento",
+      "description": "Representar y resolver con y=mx+b.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "high",
+      "terms": [
+        "pendiente",
+        "intercepto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10a",
+      "ordinal": 3,
+      "title": "Función afín y parámetros: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "high",
+      "terms": [
+        "intercepto",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10a",
+      "ordinal": 4,
+      "title": "Función afín y parámetros: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "normal",
+      "terms": [
+        "parámetro",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10b",
+      "ordinal": 5,
+      "title": "Gráfico y modelación afín: Concepto y significado",
+      "description": "Explicar gráfico y conectarlo con tasa de cambio.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "critical",
+      "terms": [
+        "gráfico",
+        "tasa de cambio"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10b",
+      "ordinal": 6,
+      "title": "Gráfico y modelación afín: Representación y procedimiento",
+      "description": "Representar y resolver con Δy/Δx=m.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "high",
+      "terms": [
+        "tasa de cambio",
+        "valor inicial"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10b",
+      "ordinal": 7,
+      "title": "Gráfico y modelación afín: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "high",
+      "terms": [
+        "valor inicial",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-10-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 10",
+      "unit_code": "U2",
+      "unit_title": "Expresiones algebraicas. Noción de función. Cambio lineal y afín. Ecuaciones e inecuaciones lineales.",
+      "topic_id": "topic-v275-ma08-oa10b",
+      "ordinal": 8,
+      "title": "Gráfico y modelación afín: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-10",
+      "importance": "normal",
+      "terms": [
+        "modelo",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11a",
+      "ordinal": 1,
+      "title": "Área de prismas y cilindros: Concepto y significado",
+      "description": "Explicar superficie y conectarlo con prisma.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "critical",
+      "terms": [
+        "superficie",
+        "prisma"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11a",
+      "ordinal": 2,
+      "title": "Área de prismas y cilindros: Representación y procedimiento",
+      "description": "Representar y resolver con A_cil=2πrh+2πr².",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "high",
+      "terms": [
+        "prisma",
+        "cilindro"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11a",
+      "ordinal": 3,
+      "title": "Área de prismas y cilindros: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "high",
+      "terms": [
+        "cilindro",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11a",
+      "ordinal": 4,
+      "title": "Área de prismas y cilindros: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "normal",
+      "terms": [
+        "red",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11b",
+      "ordinal": 5,
+      "title": "Volumen de prismas y cilindros: Concepto y significado",
+      "description": "Explicar volumen y conectarlo con base.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "critical",
+      "terms": [
+        "volumen",
+        "base"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11b",
+      "ordinal": 6,
+      "title": "Volumen de prismas y cilindros: Representación y procedimiento",
+      "description": "Representar y resolver con V=A_base·h.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "high",
+      "terms": [
+        "base",
+        "altura"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11b",
+      "ordinal": 7,
+      "title": "Volumen de prismas y cilindros: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "high",
+      "terms": [
+        "altura",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-11-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa11b",
+      "ordinal": 8,
+      "title": "Volumen de prismas y cilindros: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-11",
+      "importance": "normal",
+      "terms": [
+        "estimación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12a",
+      "ordinal": 1,
+      "title": "Teorema de Pitágoras y validez: Concepto y significado",
+      "description": "Explicar triángulo rectángulo y conectarlo con cateto.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "critical",
+      "terms": [
+        "triángulo rectángulo",
+        "cateto"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12a",
+      "ordinal": 2,
+      "title": "Teorema de Pitágoras y validez: Representación y procedimiento",
+      "description": "Representar y resolver con a²+b²=c².",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "high",
+      "terms": [
+        "cateto",
+        "hipotenusa"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12a",
+      "ordinal": 3,
+      "title": "Teorema de Pitágoras y validez: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "high",
+      "terms": [
+        "hipotenusa",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12a",
+      "ordinal": 4,
+      "title": "Teorema de Pitágoras y validez: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "normal",
+      "terms": [
+        "teorema",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12b",
+      "ordinal": 5,
+      "title": "Distancias y problemas con Pitágoras: Concepto y significado",
+      "description": "Explicar distancia y conectarlo con diagonal.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "critical",
+      "terms": [
+        "distancia",
+        "diagonal"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12b",
+      "ordinal": 6,
+      "title": "Distancias y problemas con Pitágoras: Representación y procedimiento",
+      "description": "Representar y resolver con c=√(a²+b²).",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "high",
+      "terms": [
+        "diagonal",
+        "longitud"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12b",
+      "ordinal": 7,
+      "title": "Distancias y problemas con Pitágoras: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "high",
+      "terms": [
+        "longitud",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-12-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa12b",
+      "ordinal": 8,
+      "title": "Distancias y problemas con Pitágoras: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-12",
+      "importance": "normal",
+      "terms": [
+        "aplicación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13a",
+      "ordinal": 1,
+      "title": "Traslaciones y vectores: Concepto y significado",
+      "description": "Explicar traslación y conectarlo con vector.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "critical",
+      "terms": [
+        "traslación",
+        "vector"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13a",
+      "ordinal": 2,
+      "title": "Traslaciones y vectores: Representación y procedimiento",
+      "description": "Representar y resolver con P'=P+v.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "high",
+      "terms": [
+        "vector",
+        "coordenada"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13a",
+      "ordinal": 3,
+      "title": "Traslaciones y vectores: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "high",
+      "terms": [
+        "coordenada",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13a",
+      "ordinal": 4,
+      "title": "Traslaciones y vectores: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "normal",
+      "terms": [
+        "imagen",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13b",
+      "ordinal": 5,
+      "title": "Rotaciones y reflexiones: Concepto y significado",
+      "description": "Explicar rotación y conectarlo con reflexión.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "critical",
+      "terms": [
+        "rotación",
+        "reflexión"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13b",
+      "ordinal": 6,
+      "title": "Rotaciones y reflexiones: Representación y procedimiento",
+      "description": "Representar y resolver con isometría conserva distancia.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "high",
+      "terms": [
+        "reflexión",
+        "centro/eje"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13b",
+      "ordinal": 7,
+      "title": "Rotaciones y reflexiones: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "high",
+      "terms": [
+        "centro/eje",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-13-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa13b",
+      "ordinal": 8,
+      "title": "Rotaciones y reflexiones: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-13",
+      "importance": "normal",
+      "terms": [
+        "isometría",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14a",
+      "ordinal": 1,
+      "title": "Composición de transformaciones: Concepto y significado",
+      "description": "Explicar composición y conectarlo con orden.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "critical",
+      "terms": [
+        "composición",
+        "orden"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14a",
+      "ordinal": 2,
+      "title": "Composición de transformaciones: Representación y procedimiento",
+      "description": "Representar y resolver con T₂∘T₁.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "high",
+      "terms": [
+        "orden",
+        "imagen intermedia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14a",
+      "ordinal": 3,
+      "title": "Composición de transformaciones: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "high",
+      "terms": [
+        "imagen intermedia",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14a",
+      "ordinal": 4,
+      "title": "Composición de transformaciones: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "normal",
+      "terms": [
+        "transformación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14b",
+      "ordinal": 5,
+      "title": "Transformaciones compuestas en coordenadas: Concepto y significado",
+      "description": "Explicar coordenada y conectarlo con composición.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "critical",
+      "terms": [
+        "coordenada",
+        "composición"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14b",
+      "ordinal": 6,
+      "title": "Transformaciones compuestas en coordenadas: Representación y procedimiento",
+      "description": "Representar y resolver con (x,y)→(x',y').",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "high",
+      "terms": [
+        "composición",
+        "plano cartesiano"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14b",
+      "ordinal": 7,
+      "title": "Transformaciones compuestas en coordenadas: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "high",
+      "terms": [
+        "plano cartesiano",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-14-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Teorema de Pitágoras. Prismas y cilindros. Posición y movimientos.",
+      "topic_id": "topic-v275-ma08-oa14b",
+      "ordinal": 8,
+      "title": "Transformaciones compuestas en coordenadas: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-14",
+      "importance": "normal",
+      "terms": [
+        "verificación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15a",
+      "ordinal": 1,
+      "title": "Percentiles y cuartiles: Concepto y significado",
+      "description": "Explicar percentil y conectarlo con cuartil.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "critical",
+      "terms": [
+        "percentil",
+        "cuartil"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15a",
+      "ordinal": 2,
+      "title": "Percentiles y cuartiles: Representación y procedimiento",
+      "description": "Representar y resolver con Q1=P25, Q2=P50, Q3=P75.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "high",
+      "terms": [
+        "cuartil",
+        "posición"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15a",
+      "ordinal": 3,
+      "title": "Percentiles y cuartiles: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "high",
+      "terms": [
+        "posición",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15a",
+      "ordinal": 4,
+      "title": "Percentiles y cuartiles: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "normal",
+      "terms": [
+        "distribución",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15b",
+      "ordinal": 5,
+      "title": "Diagrama de cajón y comparación: Concepto y significado",
+      "description": "Explicar diagrama de cajón y conectarlo con mediana.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "critical",
+      "terms": [
+        "diagrama de cajón",
+        "mediana"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15b",
+      "ordinal": 6,
+      "title": "Diagrama de cajón y comparación: Representación y procedimiento",
+      "description": "Representar y resolver con RIC=Q3-Q1.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "high",
+      "terms": [
+        "mediana",
+        "RIC"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15b",
+      "ordinal": 7,
+      "title": "Diagrama de cajón y comparación: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "high",
+      "terms": [
+        "RIC",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-15-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa15b",
+      "ordinal": 8,
+      "title": "Diagrama de cajón y comparación: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-15",
+      "importance": "normal",
+      "terms": [
+        "comparación",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16a",
+      "ordinal": 1,
+      "title": "Comparación crítica de gráficos: Concepto y significado",
+      "description": "Explicar gráfico y conectarlo con escala.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "critical",
+      "terms": [
+        "gráfico",
+        "escala"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16a",
+      "ordinal": 2,
+      "title": "Comparación crítica de gráficos: Representación y procedimiento",
+      "description": "Representar y resolver con datos iguales ≠ impresión visual igual.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "high",
+      "terms": [
+        "escala",
+        "comparación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16a",
+      "ordinal": 3,
+      "title": "Comparación crítica de gráficos: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "high",
+      "terms": [
+        "comparación",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16a",
+      "ordinal": 4,
+      "title": "Comparación crítica de gráficos: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "normal",
+      "terms": [
+        "evidencia",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16b",
+      "ordinal": 5,
+      "title": "Manipulación y comunicación de datos: Concepto y significado",
+      "description": "Explicar manipulación y conectarlo con eje truncado.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "critical",
+      "terms": [
+        "manipulación",
+        "eje truncado"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16b",
+      "ordinal": 6,
+      "title": "Manipulación y comunicación de datos: Representación y procedimiento",
+      "description": "Representar y resolver con eje + escala + fuente.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "high",
+      "terms": [
+        "eje truncado",
+        "proporción"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16b",
+      "ordinal": 7,
+      "title": "Manipulación y comunicación de datos: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "high",
+      "terms": [
+        "proporción",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-16-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa16b",
+      "ordinal": 8,
+      "title": "Manipulación y comunicación de datos: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-16",
+      "importance": "normal",
+      "terms": [
+        "fuente",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-A-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17a",
+      "ordinal": 1,
+      "title": "Principio multiplicativo y tablas: Concepto y significado",
+      "description": "Explicar principio multiplicativo y conectarlo con opción.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "critical",
+      "terms": [
+        "principio multiplicativo",
+        "opción"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-A-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17a",
+      "ordinal": 2,
+      "title": "Principio multiplicativo y tablas: Representación y procedimiento",
+      "description": "Representar y resolver con N=m·n.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "high",
+      "terms": [
+        "opción",
+        "tabla"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-A-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17a",
+      "ordinal": 3,
+      "title": "Principio multiplicativo y tablas: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "high",
+      "terms": [
+        "tabla",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-A-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17a",
+      "ordinal": 4,
+      "title": "Principio multiplicativo y tablas: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "normal",
+      "terms": [
+        "conteo",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-B-N1",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17b",
+      "ordinal": 5,
+      "title": "Árboles y problemas combinatorios: Concepto y significado",
+      "description": "Explicar árbol y conectarlo con etapa.",
+      "source_level": "official_core",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "critical",
+      "terms": [
+        "árbol",
+        "etapa"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-B-N2",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17b",
+      "ordinal": 6,
+      "title": "Árboles y problemas combinatorios: Representación y procedimiento",
+      "description": "Representar y resolver con N=∏n_i.",
+      "source_level": "program_support",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "high",
+      "terms": [
+        "etapa",
+        "resultado"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-B-N3",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17b",
+      "ordinal": 7,
+      "title": "Árboles y problemas combinatorios: Razonamiento y verificación",
+      "description": "Justificar condiciones y comprobar con otra representación.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "high",
+      "terms": [
+        "resultado",
+        "verificación"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    },
+    {
+      "node_id": "8B-V275-17-B-N4",
+      "course_id": "cl-8-basico",
+      "oa_code": "MA08 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Medidas de posición y el principio combinatorio multiplicativo de probabilidades.",
+      "topic_id": "topic-v275-ma08-oa17b",
+      "ordinal": 8,
+      "title": "Árboles y problemas combinatorios: Transferencia y tecnología",
+      "description": "Resolver una situación nueva e interpretar el resultado.",
+      "source_level": "instructional_decomposition",
+      "source_key": "mineduc-8b-oa-17",
+      "importance": "normal",
+      "terms": [
+        "probabilidad",
+        "transferencia"
+      ],
+      "expected_evidence": [
+        "lesson",
+        "worked_or_guided",
+        "representation_or_lab",
+        "misconception_or_transfer"
+      ],
+      "snapshot_version": "2026-08-11",
+      "is_active": true
+    }
+  ]
+}
