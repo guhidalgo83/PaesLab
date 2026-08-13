@@ -1,0 +1,64 @@
+{
+  "release": "REVIEWED_RC2",
+  "macroblock": "v28.5–v28.9",
+  "course_id": "cl-6-basico",
+  "course": "6.º básico",
+  "snapshot_date": "2026-08-12",
+  "official_oa_count": 24,
+  "official_text_status": "normalized_official_statement",
+  "curriculum_snapshot_sha256": "d2f909be65341b167f53be12d18078464ce615dd4214962e59d0c6bee9c0ab35",
+  "topics": 48,
+  "distinct_topics_per_oa": 2,
+  "curriculum_nodes": 192,
+  "coverage_state": {
+    "partial_pending_human_review": 192,
+    "strong": 0
+  },
+  "micro_lessons": 288,
+  "worked_examples_with_exact_answers": 288,
+  "guided_practice_with_exact_contracts": 384,
+  "representation_specs": 144,
+  "rendered_representations": 0,
+  "interactive_lab_specs": 48,
+  "student_ready_labs": 0,
+  "assessment_items": 1248,
+  "practice_items": 960,
+  "diagnostic_items": 144,
+  "review_items": 144,
+  "unique_stems": 1248,
+  "unique_task_signatures": 1248,
+  "semantic_duplicate_options": 0,
+  "placeholder_options": 0,
+  "independently_recomputed_answers": 1248,
+  "answer_distribution": {
+    "A": 312,
+    "B": 312,
+    "C": 312,
+    "D": 312
+  },
+  "diagnostic": {
+    "candidate_items": 144,
+    "min_items": 24,
+    "target_items": 24,
+    "max_items": 30,
+    "default_limit": 24,
+    "estimated_target_minutes": 26.42,
+    "max_minutes": 45
+  },
+  "database_readiness": {
+    "provisional_q4": 78,
+    "auto_gate_topics_expected": 0,
+    "human_certified_topics": 0,
+    "release_candidates": 0,
+    "live_student_delivery": false
+  },
+  "release_blockers": [
+    "CURRICULUM_REVALIDATION_REQUIRED_BEFORE_RELEASE",
+    "HUMAN_CONTENT_REVIEW_PENDING",
+    "HUMAN_ASSESSMENT_CERTIFICATION_PENDING",
+    "REPRESENTATION_IMPLEMENTATION_PENDING",
+    "INTERACTIVE_LAB_IMPLEMENTATION_PENDING",
+    "ADAPTIVE_CALIBRATION_PENDING",
+    "LIVE_STUDENT_DELIVERY_DISABLED"
+  ]
+}

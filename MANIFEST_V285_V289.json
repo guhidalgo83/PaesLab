@@ -1,0 +1,117 @@
+{
+  "release": "REVIEWED_RC2",
+  "replaces_release": "REVIEWED_RC1_REJECTED_DO_NOT_INSTALL",
+  "macroblock": "v28.5–v28.9",
+  "course_id": "cl-6-basico",
+  "course": "6.º básico",
+  "snapshot_date": "2026-08-12",
+  "curriculum_snapshot_sha256": "d2f909be65341b167f53be12d18078464ce615dd4214962e59d0c6bee9c0ab35",
+  "artifact_count_excluding_manifest": 21,
+  "files": [
+    {
+      "path": "README_V285_V289_6B_MACROBLOCK.md",
+      "sha256": "f44ff539aef42ecea2974cceb5a25971af74e88a25b60192d938c3764f5e9a54",
+      "bytes": 855
+    },
+    {
+      "path": "content_specs/adaptive_metadata_6b_v287.json",
+      "sha256": "5b38d4f902be20b7626aff9602949fc11696acac47f564ae3d996220904d0e44",
+      "bytes": 645881
+    },
+    {
+      "path": "content_specs/assessment_certification_6b_v289.json",
+      "sha256": "7524075f2bc96e840f5adf1833e272f15d5c0c9aae4867dfb541b6675f822a8a",
+      "bytes": 14643
+    },
+    {
+      "path": "content_specs/assessment_items_6b_v286.json",
+      "sha256": "e6e82f20ea8de171e8168820d97440b97453e9874619174045d1f8b7671f760a",
+      "bytes": 3142395
+    },
+    {
+      "path": "content_specs/curriculum_coverage_6b_v285.json",
+      "sha256": "b1d3c1a263b1cd413710b6cf7f6a1202d61604846d1a14ab5e34e032e7f94f68",
+      "bytes": 136287
+    },
+    {
+      "path": "content_specs/curriculum_master_6b_v285.json",
+      "sha256": "33cb84f8e7d8226869ed93120396d31097c1e40f862e5f3c6d870eeaa178f1be",
+      "bytes": 206232
+    },
+    {
+      "path": "content_specs/curriculum_source_snapshot_6b_v289.json",
+      "sha256": "51c0b8be95aab2a1efb82f0aa59a09dbc81e7632e286177bfc38df3cf552b54e",
+      "bytes": 6716
+    },
+    {
+      "path": "content_specs/deep_content_6b_v285.json",
+      "sha256": "39ef8052a0e062d8df8e487eb384716955fe7b19431a37b01c2e70ebfab23ba2",
+      "bytes": 2766661
+    },
+    {
+      "path": "content_specs/diagnostic_blueprint_6b_v288.json",
+      "sha256": "dbb4cd8beca5867697d78092f97c7a34286da5e0fe0965cacf3fdf9940e98230",
+      "bytes": 4003
+    },
+    {
+      "path": "content_specs/guided_answer_keys_6b_v285.json",
+      "sha256": "e38f92a70b5425cf0d2ce0430f627f51636d88aa101aad31d9728bb1ddd75e53",
+      "bytes": 371236
+    },
+    {
+      "path": "content_specs/learning_routes_6b_v289.json",
+      "sha256": "39ee2e53feb64ed851c0fc2419ef44b367771b57a2ddd756ad2f3087839f34cb",
+      "bytes": 53235
+    },
+    {
+      "path": "content_specs/review_sets_6b_v286.json",
+      "sha256": "09fd70bc2d8cf98c8f46c293c9d99eff57f05d235c44be0b795ea3b65d20c907",
+      "bytes": 4447
+    },
+    {
+      "path": "docs/V285_V289_6B_RC2_PREINSTALL_STANDARD.md",
+      "sha256": "9a88b5ecfd5bec612543f4cafe130b33fab2c242c7302bb9e92769bf057878f3",
+      "bytes": 2421
+    },
+    {
+      "path": "reports/V285_V289_6B_RC2_SUMMARY.json",
+      "sha256": "c31b7a0146142730e4556622dd922d994e9d524c7b785ba929baa01bf2df7d24",
+      "bytes": 1816
+    },
+    {
+      "path": "scripts/check_v285_v289_6b_macroblock.py",
+      "sha256": "4898288245a2b335f2ef4589a468e02af6ebe9e06d33ff69fba1b55a7693be22",
+      "bytes": 82473
+    },
+    {
+      "path": "src/app/admin/expansion-6b-v289/page.tsx",
+      "sha256": "95abbb79e7107a54b428d9b5b74240a749e9571136dc0d50e5db43cbd5749c18",
+      "bytes": 4691
+    },
+    {
+      "path": "src/types/expansion-6b-v289.ts",
+      "sha256": "743eb0189cbd67e88f0ffbdedbabcdf3b34b96b21913690d5aa444be5c98a57c",
+      "bytes": 960
+    },
+    {
+      "path": "supabase/139_mathlabs_v285_v289_6b_macroblock_full_install.sql",
+      "sha256": "aa3bdebb5345cb4b9f61aef2bab5dd9748ae613b73b4b3538c1b94345672b217",
+      "bytes": 5479045
+    },
+    {
+      "path": "supabase/139a_preflight_mathlabs_v285_v289_6b_rc2.sql",
+      "sha256": "2da428263abe5bb4fd7a941a78cb2a9f2cdd648aca30c6f42024dd9b5be1f88b",
+      "bytes": 6635
+    },
+    {
+      "path": "supabase/139b_rollback_mathlabs_v285_v289_6b_rc2.sql",
+      "sha256": "ad73724d61c676269827d2361fc8b28c7304d08ecda9c8f52110a128cf2fd1c1",
+      "bytes": 12113
+    },
+    {
+      "path": "supabase/140_verify_mathlabs_v285_v289_6b_macroblock.sql",
+      "sha256": "d60606743144df5301ae07b87b9e1c1b980eda502cecbaa3eadcef9277e25ee7",
+      "bytes": 16780
+    }
+  ]
+}

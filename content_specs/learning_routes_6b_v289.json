@@ -1,0 +1,2210 @@
+[
+  {
+    "topic_id": "topic-v285-ma06-oa01a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa01b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa02a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa02b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa03a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa03b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa04a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa04b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa05a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa05b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa06a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa06b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa07a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa07b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa08a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa08b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa09a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa09b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa10a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa10b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa11a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa11b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa12a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa12b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa13a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa13b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa14a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa14b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa15a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa15b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa16a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa16b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa17a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa17b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa18a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa18b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa19a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa19b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa20a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa20b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa21a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa21b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa22a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa22b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa23a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa23b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa24a",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  },
+  {
+    "topic_id": "topic-v285-ma06-oa24b",
+    "course_id": "cl-6-basico",
+    "phases": [
+      {
+        "key": "retrieve",
+        "label": "Recuerda",
+        "target_items": 2,
+        "exit_rule": "at_least_one_correct"
+      },
+      {
+        "key": "learn",
+        "label": "Aprende",
+        "target_micro_lessons": 1,
+        "exit_rule": "student_continue"
+      },
+      {
+        "key": "guided",
+        "label": "Practica conmigo",
+        "target_guided": 3,
+        "exit_rule": "two_of_last_three_correct"
+      },
+      {
+        "key": "independent",
+        "label": "Ahora tú",
+        "target_items": 3,
+        "exit_rule": "mastery_signal_at_least_0.70"
+      },
+      {
+        "key": "transfer",
+        "label": "Comprueba",
+        "target_items": 1,
+        "exit_rule": "attempt_recorded"
+      },
+      {
+        "key": "review",
+        "label": "Programa repaso",
+        "target_items": 0,
+        "exit_rule": "review_scheduled"
+      }
+    ],
+    "mastery_threshold": 0.75,
+    "recovery_threshold": 0.45,
+    "status": "staging",
+    "content_version": "v28.9"
+  }
+]
