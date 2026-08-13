@@ -1,0 +1,152 @@
+{
+  "course_id": "cl-5-basico",
+  "snapshot_date": "2026-08-12",
+  "curriculum_basis": "Currículo oficial de Matemática 5.º básico actualmente publicado",
+  "course_url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico",
+  "program_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-5-basico",
+  "update_process_url": "https://www.curriculumnacional.cl/actualizacion-curricular",
+  "update_process_status": "monitoring",
+  "requires_revalidation_before_release": true,
+  "official_oa_count": 27,
+  "topic_count": 54,
+  "official_text_status": "normalized_official_statement",
+  "source_fingerprints": [
+    {
+      "oa_code": "MA05 OA 01",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-01",
+      "official_text_sha256": "38b72e39962e201bc622d446dd186774a6f14555b2abc7b51d9200c049c068ec"
+    },
+    {
+      "oa_code": "MA05 OA 02",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-02",
+      "official_text_sha256": "f7b8aec61562995b8afe6d5d55aacd5eba7599fbabfaa9b8f270bac13380fb3e"
+    },
+    {
+      "oa_code": "MA05 OA 03",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-03",
+      "official_text_sha256": "c278aaa08e5918ff244a9607b4e47fa2b721fe5610d473226fa0fb15188b874d"
+    },
+    {
+      "oa_code": "MA05 OA 04",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-04",
+      "official_text_sha256": "688ec125bf77c15fbb5089b9587cb669de5d2bbb14822fd70cb4854d61a57304"
+    },
+    {
+      "oa_code": "MA05 OA 05",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-05",
+      "official_text_sha256": "8952c48c6b07186cd0ec2e66b4068db5afa933318625eb65599ac91c7b180e93"
+    },
+    {
+      "oa_code": "MA05 OA 06",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-06",
+      "official_text_sha256": "4e1d50f91f0878abfe8e6cdac3b1156956849b0948e67638549cb3194bc0fa5e"
+    },
+    {
+      "oa_code": "MA05 OA 07",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-07",
+      "official_text_sha256": "2e4701858d434dfd76f02b3140c87ecd9e5e2d43be863bf192be09d1a0d2842c"
+    },
+    {
+      "oa_code": "MA05 OA 08",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-08",
+      "official_text_sha256": "9c3d19a1d45b176d4f969927e08e88873cdf52fb44e7b3c4e6bb7df92c1eedf4"
+    },
+    {
+      "oa_code": "MA05 OA 09",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-09",
+      "official_text_sha256": "a3cd6bf3fdd44e1b3f9c9d022da35607614e3e0157a25f79e6874a4057dad5c6"
+    },
+    {
+      "oa_code": "MA05 OA 10",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-10",
+      "official_text_sha256": "f072df8ad6d026fb8035bf00de9ce417151879d4d63e6e5913267d3049d439d5"
+    },
+    {
+      "oa_code": "MA05 OA 11",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-11",
+      "official_text_sha256": "4cef1c685b8848c67d9c977fc64333620c0fd040df55c42da8f5572b69c3e028"
+    },
+    {
+      "oa_code": "MA05 OA 12",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-12",
+      "official_text_sha256": "a0dd6d6c3d7d861f458a1e65ee5010b28414ce9fd440a131e9b95e833c8a270e"
+    },
+    {
+      "oa_code": "MA05 OA 13",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-13",
+      "official_text_sha256": "638f409eafaf5bca233585abbb4ee566eeaaf0761e0ec3194ba7802075b5ac15"
+    },
+    {
+      "oa_code": "MA05 OA 14",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-14",
+      "official_text_sha256": "21a294ac34909cee452e4a81df7d3a2aea47f40547751d6bdbeec533c60921ee"
+    },
+    {
+      "oa_code": "MA05 OA 15",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-15",
+      "official_text_sha256": "ae5eee3f35808343144e6a3af1b0b05f949335ba3e969ca6ee0870dca787968c"
+    },
+    {
+      "oa_code": "MA05 OA 16",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-16",
+      "official_text_sha256": "3ee1a2fac8b661d583f3b7ffa4f364255acf0cb6bf988d542099ae9b26e587bf"
+    },
+    {
+      "oa_code": "MA05 OA 17",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-17",
+      "official_text_sha256": "2d36ab562b09d5b78417d0ce8f94dc5def212a6e20c376af643c7b7175e3a1e9"
+    },
+    {
+      "oa_code": "MA05 OA 18",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-18",
+      "official_text_sha256": "d7c4b7c01d8d2ceda276ce75d05069f0247a794e9dfa351899eade29597420f6"
+    },
+    {
+      "oa_code": "MA05 OA 19",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-19",
+      "official_text_sha256": "4c3a950ea7ee868bea8580a7f2279acde7397a3214ba7c08df1100ddd88257f8"
+    },
+    {
+      "oa_code": "MA05 OA 20",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-20",
+      "official_text_sha256": "c48b6ba96d7e79fe0172e64d215322109940dbcbceea4f599f36528b03f43dbc"
+    },
+    {
+      "oa_code": "MA05 OA 21",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-21",
+      "official_text_sha256": "dc70803bca79dde7496e148cfed13648fdb0a515126653fa5fa6a98a093f9e6c"
+    },
+    {
+      "oa_code": "MA05 OA 22",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-22",
+      "official_text_sha256": "c6801c8cefb1d1c07cff8b545c73b80f3b5171dfce4b22005b59b3c36dd6b674"
+    },
+    {
+      "oa_code": "MA05 OA 23",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-23",
+      "official_text_sha256": "c782cd0577e7c4e582de2191618974af7608b20adf461e6f6bffff6447f05fec"
+    },
+    {
+      "oa_code": "MA05 OA 24",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-24",
+      "official_text_sha256": "686cf7ec1c38263fb76c701a49d500ee207b608a13b1e89f85d42ccb064174e5"
+    },
+    {
+      "oa_code": "MA05 OA 25",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-25",
+      "official_text_sha256": "4e71806c48845d679c9d7bc069bf0b97515a96ca02c4a75b71a558bee6703362"
+    },
+    {
+      "oa_code": "MA05 OA 26",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-26",
+      "official_text_sha256": "17cc18513c54bd43e3566f93d02cc78eeda332f5b10f50c4776e3a8d6ea139a2"
+    },
+    {
+      "oa_code": "MA05 OA 27",
+      "url": "https://www.curriculumnacional.cl/curriculum/1o-6o-basico/matematica/5-basico/ma05-oa-27",
+      "official_text_sha256": "f3d32865f2e0c6fc40b78640b71242c9f91ee301381e378f95036e23572bd7cc"
+    }
+  ],
+  "curriculum_snapshot_sha256": "fb8b4eaa8c2e40d10b5bc0f35864cfbec54155089bc003f4c217d540baadf366",
+  "human_revalidation_status": "pending"
+}
