@@ -1,0 +1,4424 @@
+{
+  "course_id": "cl-7-basico",
+  "snapshot_date": "2026-08-12",
+  "sources": [
+    {
+      "source_key": "mineduc-7b-course",
+      "course_id": "cl-7-basico",
+      "kind": "official_curriculum_page",
+      "title": "Matemática 7.º básico",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Currículo oficial actualmente publicado."
+    },
+    {
+      "source_key": "mineduc-7b-program",
+      "course_id": "cl-7-basico",
+      "kind": "official_program",
+      "title": "Programa de Estudio Matemática 7.º básico",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-7-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Programa oficial consultado para la organización del nivel."
+    },
+    {
+      "source_key": "mineduc-7b-update-1b-2m",
+      "course_id": "cl-7-basico",
+      "kind": "official_update_process",
+      "title": "Actualización Curricular 1.º básico a 2.º medio",
+      "url": "https://www.curriculumnacional.cl/actualizacion-curricular",
+      "authority": "Mineduc",
+      "notes": "Proceso en seguimiento; requiere revalidación antes de release."
+    },
+    {
+      "source_key": "mineduc-7b-oa-01",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 01",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-01",
+      "authority": "UCE Mineduc",
+      "notes": "Mostrar que comprenden la adición y la sustracción de números enteros: representando los números enteros en la recta numérica; representándolas de manera concreta, pictórica y simbólica; dándole significado a los símbolos + y − según el contexto; resolviendo problemas en contextos cotidianos.",
+      "source_sha256": "1a2e1a434afb45207dcf60cf086ddd0b19feb7289a29f46f14fb0e0d43c1e807",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-02",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 02",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-02",
+      "authority": "UCE Mineduc",
+      "notes": "Explicar la multiplicación y la división de fracciones positivas: utilizando representaciones concretas, pictóricas y simbólicas; relacionándolas con la multiplicación y la división de números decimales.",
+      "source_sha256": "f172d19929b3b0c4f3085d5e0c2b092ac4b4f18d3c59ae14fa8ea52b285d933a",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-03",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 03",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-03",
+      "authority": "UCE Mineduc",
+      "notes": "Resolver problemas que involucren la multiplicación y la división de fracciones y de decimales positivos de manera concreta, pictórica y simbólica, de forma manual y/o con software educativo.",
+      "source_sha256": "b7a8980b2f760ea8a0727fee64d61584c0441b92a725b9e4596f664a896484c2",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-04",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 04",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-04",
+      "authority": "UCE Mineduc",
+      "notes": "Mostrar que comprenden el concepto de porcentaje: representándolo de manera pictórica; calculando de varias maneras; aplicándolo a situaciones sencillas.",
+      "source_sha256": "6ef703ac815536d7851dbd84598fb3729ce0dc76acf4e8c131c78f9b7fc9f4b7",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-05",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 05",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-05",
+      "authority": "UCE Mineduc",
+      "notes": "Utilizar potencias de base 10 con exponente natural: usando los términos potencia, base, exponente y elevado; definiendo y usando el exponente 0 en el sistema decimal; expresando números naturales en notación científica; resolviendo problemas, usando la notación científica.",
+      "source_sha256": "76206392c5b8ad23ef89b691e4a9ac90c58cc632c490e1e230178cd76f4e4092",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-06",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 06",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-06",
+      "authority": "UCE Mineduc",
+      "notes": "Utilizar el lenguaje algebraico para generalizar relaciones entre números, para establecer y formular reglas y propiedades y construir ecuaciones.",
+      "source_sha256": "b8b17499de75cc4c0a5931c89ebf476b531e8ca4ec0f664d18af891d1b927e17",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-07",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 07",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-07",
+      "authority": "UCE Mineduc",
+      "notes": "Reducir expresiones algebraicas, reuniendo términos semejantes para obtener expresiones de la forma ax + by + cz, con a, b, c pertenecientes a los números enteros.",
+      "source_sha256": "335aac454187b326ca5391e4390adc69b9ef990cff35ae05019ebb4ea6e0f845",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-08",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 08",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-08",
+      "authority": "UCE Mineduc",
+      "notes": "Mostrar que comprenden las proporciones directas e inversas: realizando tablas de valores para relaciones proporcionales; graficando los valores de la tabla; explicando las características de la gráfica; resolviendo problemas de la vida diaria y de otras asignaturas.",
+      "source_sha256": "fbfac4508d283e1a23e6c415706066ead24377de5e58dbc95375c00a1dfb7a71",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-09",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 09",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-09",
+      "authority": "UCE Mineduc",
+      "notes": "Modelar y resolver problemas diversos de la vida diaria y de otras asignaturas, que involucran ecuaciones e inecuaciones lineales de las formas ax=b, x/a=b, ax<b, ax>b, x/a<b y x/a>b, con a y b enteros y a distinto de cero.",
+      "source_sha256": "8768d743df944e2962bdbec79efa48d9dd5dcd82fa28c9f3877ab937ff3bae54",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-10",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 10",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-10",
+      "authority": "UCE Mineduc",
+      "notes": "Descubrir relaciones que involucran ángulos exteriores o interiores de diferentes polígonos.",
+      "source_sha256": "84ff1bc7c977e5d98c087edb477348b8993ffba58eb14d7055cd2abde82a785b",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-11",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 11",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-11",
+      "authority": "UCE Mineduc",
+      "notes": "Mostrar que comprenden el círculo: describiendo las relaciones entre el radio, el diámetro y el perímetro del círculo; estimando de manera intuitiva el perímetro y el área de un círculo; aplicando las aproximaciones del perímetro y del área en la resolución de problemas geométricos, de otras asignaturas y de la vida diaria; identificándolo como lugar geométrico.",
+      "source_sha256": "1dcc4f300f5c431696f5fbd412a10a000dd30abca6b72c7a67f716e428874ac0",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-12",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 12",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-12",
+      "authority": "UCE Mineduc",
+      "notes": "Construir objetos geométricos de manera manual y/o con software educativo: líneas, como las perpendiculares, paralelas, bisectrices y alturas en triángulos y cuadriláteros; puntos, como el punto medio, centro de gravedad, centro del círculo inscrito y circunscrito de un triángulo; triángulos y cuadriláteros congruentes.",
+      "source_sha256": "36d0879c870fb1e04dd7edefc4a12c535150f9eb2e8faa1ac9c7427068b97676",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-13",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 13",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-13",
+      "authority": "UCE Mineduc",
+      "notes": "Desarrollar y aplicar la fórmula del área de triángulos, paralelógramos y trapecios.",
+      "source_sha256": "c66f4ba98d5f032a026977e345ee905a13e703f10da9e6adf2006b9e275a241f",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-14",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 14",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-14",
+      "authority": "UCE Mineduc",
+      "notes": "Identificar puntos en el plano cartesiano, usando pares ordenados y vectores de forma concreta, mediante juegos, y pictórica.",
+      "source_sha256": "fe088e970629a5fc4a0e228a07469c5b4f39920a22fd5519ee33ac6ba8c1a809",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-15",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 15",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-15",
+      "authority": "UCE Mineduc",
+      "notes": "Estimar el porcentaje de algunas características de una población desconocida por medio del muestreo.",
+      "source_sha256": "7366e1430e8fbe72f0e9910504693249424b732c535d3d8515a5aebb09a19310",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-16",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 16",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-16",
+      "authority": "UCE Mineduc",
+      "notes": "Representar datos obtenidos en una muestra mediante tablas de frecuencias absolutas y relativas, utilizando gráficos apropiados, de manera manual y/o con software educativo.",
+      "source_sha256": "937687d15feab483bee1d49314f8089e4bc0473d79ad665663141421c0bf4816",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-17",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 17",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-17",
+      "authority": "UCE Mineduc",
+      "notes": "Mostrar que comprenden las medidas de tendencia central y el rango: determinando las medidas de tendencia central para realizar inferencias sobre la población; determinando la medida de tendencia central adecuada para responder un problema planteado; utilizándolos para comparar dos poblaciones; determinando el efecto de un dato que es muy diferente a los otros.",
+      "source_sha256": "2dd29b4ffa6a4156071cef50b6c091ec4360007a1a39b2c543a674b275436f77",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-18",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 18",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-18",
+      "authority": "UCE Mineduc",
+      "notes": "Explicar las probabilidades de eventos obtenidos por medio de experimentos de manera manual y/o con software educativo: estimándolas de manera intuitiva; utilizando frecuencias relativas; relacionándolas con razones, fracciones o porcentaje.",
+      "source_sha256": "681341cc43a93318d2bf18d81114015cb129656f3b87c01d88cc1af21ba8a568",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-oa-19",
+      "course_id": "cl-7-basico",
+      "kind": "official_oa",
+      "title": "MA07 OA 19",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-19",
+      "authority": "UCE Mineduc",
+      "notes": "Comparar las frecuencias relativas de un evento obtenidas al repetir un experimento de forma manual y/o con software educativo, con la probabilidad obtenida de manera teórica, usando diagramas de árbol, tablas o gráficos.",
+      "source_sha256": "71f4e0fb7f5921c49b9c6922cf652fbbdc8a78c4f705b9d7583c52f6c537da2d",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "source_key": "mineduc-7b-u1",
+      "course_id": "cl-7-basico",
+      "kind": "official_program_unit",
+      "title": "U1: Números enteros, fracciones, porcentajes y potencias.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-7-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad de organización del macrobloque basada en el programa oficial."
+    },
+    {
+      "source_key": "mineduc-7b-u2",
+      "course_id": "cl-7-basico",
+      "kind": "official_program_unit",
+      "title": "U2: Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-7-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad de organización del macrobloque basada en el programa oficial."
+    },
+    {
+      "source_key": "mineduc-7b-u3",
+      "course_id": "cl-7-basico",
+      "kind": "official_program_unit",
+      "title": "U3: Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-7-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad de organización del macrobloque basada en el programa oficial."
+    },
+    {
+      "source_key": "mineduc-7b-u4",
+      "course_id": "cl-7-basico",
+      "kind": "official_program_unit",
+      "title": "U4: Muestreo, frecuencias, tendencia central y probabilidad.",
+      "url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-7-basico",
+      "authority": "UCE Mineduc",
+      "notes": "Unidad de organización del macrobloque basada en el programa oficial."
+    }
+  ],
+  "oas": [
+    {
+      "code": "MA07 OA 01",
+      "unit": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "official_text": "Mostrar que comprenden la adición y la sustracción de números enteros: representando los números enteros en la recta numérica; representándolas de manera concreta, pictórica y simbólica; dándole significado a los símbolos + y − según el contexto; resolviendo problemas en contextos cotidianos.",
+      "official_text_sha256": "1a2e1a434afb45207dcf60cf086ddd0b19feb7289a29f46f14fb0e0d43c1e807",
+      "summary": "Adición y sustracción de números enteros mediante representaciones, procedimientos y problemas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-01",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 02",
+      "unit": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "official_text": "Explicar la multiplicación y la división de fracciones positivas: utilizando representaciones concretas, pictóricas y simbólicas; relacionándolas con la multiplicación y la división de números decimales.",
+      "official_text_sha256": "f172d19929b3b0c4f3085d5e0c2b092ac4b4f18d3c59ae14fa8ea52b285d933a",
+      "summary": "Multiplicación y división de fracciones positivas con representaciones concretas, pictóricas y simbólicas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-02",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 03",
+      "unit": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "official_text": "Resolver problemas que involucren la multiplicación y la división de fracciones y de decimales positivos de manera concreta, pictórica y simbólica, de forma manual y/o con software educativo.",
+      "official_text_sha256": "b7a8980b2f760ea8a0727fee64d61584c0441b92a725b9e4596f664a896484c2",
+      "summary": "Resolución de problemas que involucran multiplicación y división de fracciones y decimales positivos.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-03",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 04",
+      "unit": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "official_text": "Mostrar que comprenden el concepto de porcentaje: representándolo de manera pictórica; calculando de varias maneras; aplicándolo a situaciones sencillas.",
+      "official_text_sha256": "6ef703ac815536d7851dbd84598fb3729ce0dc76acf4e8c131c78f9b7fc9f4b7",
+      "summary": "Cálculo y explicación de aumentos y disminuciones porcentuales en distintos contextos.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-04",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 05",
+      "unit": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "official_text": "Utilizar potencias de base 10 con exponente natural: usando los términos potencia, base, exponente y elevado; definiendo y usando el exponente 0 en el sistema decimal; expresando números naturales en notación científica; resolviendo problemas, usando la notación científica.",
+      "official_text_sha256": "76206392c5b8ad23ef89b691e4a9ac90c58cc632c490e1e230178cd76f4e4092",
+      "summary": "Uso de potencias de base 10, exponente cero y notación científica en problemas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-05",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 06",
+      "unit": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "official_text": "Utilizar el lenguaje algebraico para generalizar relaciones entre números, para establecer y formular reglas y propiedades y construir ecuaciones.",
+      "official_text_sha256": "b8b17499de75cc4c0a5931c89ebf476b531e8ca4ec0f664d18af891d1b927e17",
+      "summary": "Generalización de relaciones numéricas mediante lenguaje algebraico, reglas, propiedades y ecuaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-06",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 07",
+      "unit": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "official_text": "Reducir expresiones algebraicas, reuniendo términos semejantes para obtener expresiones de la forma ax + by + cz, con a, b, c pertenecientes a los números enteros.",
+      "official_text_sha256": "335aac454187b326ca5391e4390adc69b9ef990cff35ae05019ebb4ea6e0f845",
+      "summary": "Reducción de expresiones reuniendo términos semejantes con coeficientes enteros.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-07",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 08",
+      "unit": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "official_text": "Mostrar que comprenden las proporciones directas e inversas: realizando tablas de valores para relaciones proporcionales; graficando los valores de la tabla; explicando las características de la gráfica; resolviendo problemas de la vida diaria y de otras asignaturas.",
+      "official_text_sha256": "fbfac4508d283e1a23e6c415706066ead24377de5e58dbc95375c00a1dfb7a71",
+      "summary": "Comprensión de proporciones directas e inversas mediante tablas, gráficos y problemas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-08",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 09",
+      "unit": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "official_text": "Modelar y resolver problemas diversos de la vida diaria y de otras asignaturas, que involucran ecuaciones e inecuaciones lineales de las formas ax=b, x/a=b, ax<b, ax>b, x/a<b y x/a>b, con a y b enteros y a distinto de cero.",
+      "official_text_sha256": "8768d743df944e2962bdbec79efa48d9dd5dcd82fa28c9f3877ab937ff3bae54",
+      "summary": "Modelación y resolución de problemas con ecuaciones e inecuaciones lineales sencillas.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-09",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 10",
+      "unit": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "official_text": "Descubrir relaciones que involucran ángulos exteriores o interiores de diferentes polígonos.",
+      "official_text_sha256": "84ff1bc7c977e5d98c087edb477348b8993ffba58eb14d7055cd2abde82a785b",
+      "summary": "Relaciones entre ángulos interiores y exteriores de distintos polígonos.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-10",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 11",
+      "unit": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "official_text": "Mostrar que comprenden el círculo: describiendo las relaciones entre el radio, el diámetro y el perímetro del círculo; estimando de manera intuitiva el perímetro y el área de un círculo; aplicando las aproximaciones del perímetro y del área en la resolución de problemas geométricos, de otras asignaturas y de la vida diaria; identificándolo como lugar geométrico.",
+      "official_text_sha256": "1dcc4f300f5c431696f5fbd412a10a000dd30abca6b72c7a67f716e428874ac0",
+      "summary": "Relaciones entre radio, diámetro, perímetro y área del círculo y sus aplicaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-11",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 12",
+      "unit": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "official_text": "Construir objetos geométricos de manera manual y/o con software educativo: líneas, como las perpendiculares, paralelas, bisectrices y alturas en triángulos y cuadriláteros; puntos, como el punto medio, centro de gravedad, centro del círculo inscrito y circunscrito de un triángulo; triángulos y cuadriláteros congruentes.",
+      "official_text_sha256": "36d0879c870fb1e04dd7edefc4a12c535150f9eb2e8faa1ac9c7427068b97676",
+      "summary": "Construcción de rectas notables, puntos notables y figuras congruentes con instrumentos o software.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-12",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 13",
+      "unit": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "official_text": "Desarrollar y aplicar la fórmula del área de triángulos, paralelógramos y trapecios.",
+      "official_text_sha256": "c66f4ba98d5f032a026977e345ee905a13e703f10da9e6adf2006b9e275a241f",
+      "summary": "Desarrollo y aplicación de fórmulas de área de triángulos, paralelogramos y trapecios.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-13",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 14",
+      "unit": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "official_text": "Identificar puntos en el plano cartesiano, usando pares ordenados y vectores de forma concreta, mediante juegos, y pictórica.",
+      "official_text_sha256": "fe088e970629a5fc4a0e228a07469c5b4f39920a22fd5519ee33ac6ba8c1a809",
+      "summary": "Identificación de puntos, pares ordenados y vectores en el plano cartesiano.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-14",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 15",
+      "unit": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "official_text": "Estimar el porcentaje de algunas características de una población desconocida por medio del muestreo.",
+      "official_text_sha256": "7366e1430e8fbe72f0e9910504693249424b732c535d3d8515a5aebb09a19310",
+      "summary": "Estimación de características de una población desconocida por medio de muestras.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-15",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 16",
+      "unit": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "official_text": "Representar datos obtenidos en una muestra mediante tablas de frecuencias absolutas y relativas, utilizando gráficos apropiados, de manera manual y/o con software educativo.",
+      "official_text_sha256": "937687d15feab483bee1d49314f8089e4bc0473d79ad665663141421c0bf4816",
+      "summary": "Representación de muestras mediante frecuencias absolutas, relativas y gráficos apropiados.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-16",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 17",
+      "unit": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "official_text": "Mostrar que comprenden las medidas de tendencia central y el rango: determinando las medidas de tendencia central para realizar inferencias sobre la población; determinando la medida de tendencia central adecuada para responder un problema planteado; utilizándolos para comparar dos poblaciones; determinando el efecto de un dato que es muy diferente a los otros.",
+      "official_text_sha256": "2dd29b4ffa6a4156071cef50b6c091ec4360007a1a39b2c543a674b275436f77",
+      "summary": "Uso de media, mediana, moda y rango para inferir y comparar poblaciones.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-17",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 18",
+      "unit": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "official_text": "Explicar las probabilidades de eventos obtenidos por medio de experimentos de manera manual y/o con software educativo: estimándolas de manera intuitiva; utilizando frecuencias relativas; relacionándolas con razones, fracciones o porcentaje.",
+      "official_text_sha256": "681341cc43a93318d2bf18d81114015cb129656f3b87c01d88cc1af21ba8a568",
+      "summary": "Explicación de probabilidades experimentales mediante frecuencia relativa, razones y porcentajes.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-18",
+      "source_status": "normalized_official_statement"
+    },
+    {
+      "code": "MA07 OA 19",
+      "unit": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "official_text": "Comparar las frecuencias relativas de un evento obtenidas al repetir un experimento de forma manual y/o con software educativo, con la probabilidad obtenida de manera teórica, usando diagramas de árbol, tablas o gráficos.",
+      "official_text_sha256": "71f4e0fb7f5921c49b9c6922cf652fbbdc8a78c4f705b9d7583c52f6c537da2d",
+      "summary": "Comparación entre frecuencia relativa observada y probabilidad teórica mediante tablas, árboles o gráficos.",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-19",
+      "source_status": "normalized_official_statement"
+    }
+  ],
+  "nodes": [
+    {
+      "node_id": "7B-V280-01-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01a",
+      "ordinal": 1,
+      "title": "Adición y sustracción de enteros: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "critical",
+      "terms": [
+        "entero",
+        "signo"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01a",
+      "ordinal": 2,
+      "title": "Adición y sustracción de enteros: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "critical",
+      "terms": [
+        "signo",
+        "recta numérica"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01a",
+      "ordinal": 3,
+      "title": "Adición y sustracción de enteros: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "high",
+      "terms": [
+        "recta numérica",
+        "entero"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01a",
+      "ordinal": 4,
+      "title": "Adición y sustracción de enteros: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "high",
+      "terms": [
+        "entero",
+        "signo"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01b",
+      "ordinal": 5,
+      "title": "Adición y sustracción de enteros: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "critical",
+      "terms": [
+        "entero",
+        "signo"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01b",
+      "ordinal": 6,
+      "title": "Adición y sustracción de enteros: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "critical",
+      "terms": [
+        "signo",
+        "recta numérica"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01b",
+      "ordinal": 7,
+      "title": "Adición y sustracción de enteros: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "high",
+      "terms": [
+        "recta numérica",
+        "entero"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-01-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 01",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa01b",
+      "ordinal": 8,
+      "title": "Adición y sustracción de enteros: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 01.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-01",
+      "importance": "high",
+      "terms": [
+        "entero",
+        "signo"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02a",
+      "ordinal": 1,
+      "title": "Multiplicación y división de fracciones: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "critical",
+      "terms": [
+        "fracción",
+        "producto"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02a",
+      "ordinal": 2,
+      "title": "Multiplicación y división de fracciones: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "critical",
+      "terms": [
+        "producto",
+        "cociente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02a",
+      "ordinal": 3,
+      "title": "Multiplicación y división de fracciones: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "high",
+      "terms": [
+        "cociente",
+        "fracción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02a",
+      "ordinal": 4,
+      "title": "Multiplicación y división de fracciones: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "high",
+      "terms": [
+        "fracción",
+        "producto"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02b",
+      "ordinal": 5,
+      "title": "Multiplicación y división de fracciones: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "critical",
+      "terms": [
+        "fracción",
+        "producto"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02b",
+      "ordinal": 6,
+      "title": "Multiplicación y división de fracciones: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "critical",
+      "terms": [
+        "producto",
+        "cociente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02b",
+      "ordinal": 7,
+      "title": "Multiplicación y división de fracciones: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "high",
+      "terms": [
+        "cociente",
+        "fracción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-02-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 02",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa02b",
+      "ordinal": 8,
+      "title": "Multiplicación y división de fracciones: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 02.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-02",
+      "importance": "high",
+      "terms": [
+        "fracción",
+        "producto"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03a",
+      "ordinal": 1,
+      "title": "Problemas con fracciones y decimales: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "critical",
+      "terms": [
+        "fracción",
+        "decimal"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03a",
+      "ordinal": 2,
+      "title": "Problemas con fracciones y decimales: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "critical",
+      "terms": [
+        "decimal",
+        "operación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03a",
+      "ordinal": 3,
+      "title": "Problemas con fracciones y decimales: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "high",
+      "terms": [
+        "operación",
+        "fracción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03a",
+      "ordinal": 4,
+      "title": "Problemas con fracciones y decimales: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "high",
+      "terms": [
+        "fracción",
+        "decimal"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03b",
+      "ordinal": 5,
+      "title": "Problemas con fracciones y decimales: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "critical",
+      "terms": [
+        "fracción",
+        "decimal"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03b",
+      "ordinal": 6,
+      "title": "Problemas con fracciones y decimales: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "critical",
+      "terms": [
+        "decimal",
+        "operación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03b",
+      "ordinal": 7,
+      "title": "Problemas con fracciones y decimales: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "high",
+      "terms": [
+        "operación",
+        "fracción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-03-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 03",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa03b",
+      "ordinal": 8,
+      "title": "Problemas con fracciones y decimales: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 03.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-03",
+      "importance": "high",
+      "terms": [
+        "fracción",
+        "decimal"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04a",
+      "ordinal": 1,
+      "title": "Variaciones porcentuales: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "critical",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04a",
+      "ordinal": 2,
+      "title": "Variaciones porcentuales: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "critical",
+      "terms": [
+        "aumento",
+        "disminución"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04a",
+      "ordinal": 3,
+      "title": "Variaciones porcentuales: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "high",
+      "terms": [
+        "disminución",
+        "porcentaje"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04a",
+      "ordinal": 4,
+      "title": "Variaciones porcentuales: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "high",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04b",
+      "ordinal": 5,
+      "title": "Variaciones porcentuales: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "critical",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04b",
+      "ordinal": 6,
+      "title": "Variaciones porcentuales: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "critical",
+      "terms": [
+        "aumento",
+        "disminución"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04b",
+      "ordinal": 7,
+      "title": "Variaciones porcentuales: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "high",
+      "terms": [
+        "disminución",
+        "porcentaje"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-04-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 04",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa04b",
+      "ordinal": 8,
+      "title": "Variaciones porcentuales: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 04.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-04",
+      "importance": "high",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05a",
+      "ordinal": 1,
+      "title": "Potencias de base diez: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "critical",
+      "terms": [
+        "potencia",
+        "base"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05a",
+      "ordinal": 2,
+      "title": "Potencias de base diez: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "critical",
+      "terms": [
+        "base",
+        "exponente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05a",
+      "ordinal": 3,
+      "title": "Potencias de base diez: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "high",
+      "terms": [
+        "exponente",
+        "potencia"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05a",
+      "ordinal": 4,
+      "title": "Potencias de base diez: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "high",
+      "terms": [
+        "potencia",
+        "base"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05b",
+      "ordinal": 5,
+      "title": "Potencias de base diez: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "critical",
+      "terms": [
+        "potencia",
+        "base"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05b",
+      "ordinal": 6,
+      "title": "Potencias de base diez: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "critical",
+      "terms": [
+        "base",
+        "exponente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05b",
+      "ordinal": 7,
+      "title": "Potencias de base diez: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "high",
+      "terms": [
+        "exponente",
+        "potencia"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-05-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 05",
+      "unit_code": "U1",
+      "unit_title": "Números enteros, fracciones, porcentajes y potencias.",
+      "topic_id": "topic-v280-ma07-oa05b",
+      "ordinal": 8,
+      "title": "Potencias de base diez: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 05.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-05",
+      "importance": "high",
+      "terms": [
+        "potencia",
+        "base"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06a",
+      "ordinal": 1,
+      "title": "Lenguaje algebraico: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "critical",
+      "terms": [
+        "variable",
+        "expresión"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06a",
+      "ordinal": 2,
+      "title": "Lenguaje algebraico: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "critical",
+      "terms": [
+        "expresión",
+        "regla"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06a",
+      "ordinal": 3,
+      "title": "Lenguaje algebraico: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "high",
+      "terms": [
+        "regla",
+        "variable"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06a",
+      "ordinal": 4,
+      "title": "Lenguaje algebraico: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "high",
+      "terms": [
+        "variable",
+        "expresión"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06b",
+      "ordinal": 5,
+      "title": "Lenguaje algebraico: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "critical",
+      "terms": [
+        "variable",
+        "expresión"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06b",
+      "ordinal": 6,
+      "title": "Lenguaje algebraico: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "critical",
+      "terms": [
+        "expresión",
+        "regla"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06b",
+      "ordinal": 7,
+      "title": "Lenguaje algebraico: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "high",
+      "terms": [
+        "regla",
+        "variable"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-06-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 06",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa06b",
+      "ordinal": 8,
+      "title": "Lenguaje algebraico: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 06.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-06",
+      "importance": "high",
+      "terms": [
+        "variable",
+        "expresión"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07a",
+      "ordinal": 1,
+      "title": "Reducción de expresiones algebraicas: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "critical",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07a",
+      "ordinal": 2,
+      "title": "Reducción de expresiones algebraicas: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "critical",
+      "terms": [
+        "coeficiente",
+        "reducción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07a",
+      "ordinal": 3,
+      "title": "Reducción de expresiones algebraicas: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "high",
+      "terms": [
+        "reducción",
+        "término semejante"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07a",
+      "ordinal": 4,
+      "title": "Reducción de expresiones algebraicas: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "high",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07b",
+      "ordinal": 5,
+      "title": "Reducción de expresiones algebraicas: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "critical",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07b",
+      "ordinal": 6,
+      "title": "Reducción de expresiones algebraicas: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "critical",
+      "terms": [
+        "coeficiente",
+        "reducción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07b",
+      "ordinal": 7,
+      "title": "Reducción de expresiones algebraicas: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "high",
+      "terms": [
+        "reducción",
+        "término semejante"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-07-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 07",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa07b",
+      "ordinal": 8,
+      "title": "Reducción de expresiones algebraicas: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 07.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-07",
+      "importance": "high",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08a",
+      "ordinal": 1,
+      "title": "Proporcionalidad directa e inversa: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "critical",
+      "terms": [
+        "proporción",
+        "constante"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08a",
+      "ordinal": 2,
+      "title": "Proporcionalidad directa e inversa: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "critical",
+      "terms": [
+        "constante",
+        "gráfico"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08a",
+      "ordinal": 3,
+      "title": "Proporcionalidad directa e inversa: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "high",
+      "terms": [
+        "gráfico",
+        "proporción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08a",
+      "ordinal": 4,
+      "title": "Proporcionalidad directa e inversa: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "high",
+      "terms": [
+        "proporción",
+        "constante"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08b",
+      "ordinal": 5,
+      "title": "Proporcionalidad directa e inversa: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "critical",
+      "terms": [
+        "proporción",
+        "constante"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08b",
+      "ordinal": 6,
+      "title": "Proporcionalidad directa e inversa: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "critical",
+      "terms": [
+        "constante",
+        "gráfico"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08b",
+      "ordinal": 7,
+      "title": "Proporcionalidad directa e inversa: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "high",
+      "terms": [
+        "gráfico",
+        "proporción"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-08-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 08",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa08b",
+      "ordinal": 8,
+      "title": "Proporcionalidad directa e inversa: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 08.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-08",
+      "importance": "high",
+      "terms": [
+        "proporción",
+        "constante"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09a",
+      "ordinal": 1,
+      "title": "Ecuaciones e inecuaciones lineales: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "critical",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09a",
+      "ordinal": 2,
+      "title": "Ecuaciones e inecuaciones lineales: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "critical",
+      "terms": [
+        "inecuación",
+        "solución"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09a",
+      "ordinal": 3,
+      "title": "Ecuaciones e inecuaciones lineales: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "high",
+      "terms": [
+        "solución",
+        "ecuación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09a",
+      "ordinal": 4,
+      "title": "Ecuaciones e inecuaciones lineales: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "high",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09b",
+      "ordinal": 5,
+      "title": "Ecuaciones e inecuaciones lineales: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "critical",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09b",
+      "ordinal": 6,
+      "title": "Ecuaciones e inecuaciones lineales: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "critical",
+      "terms": [
+        "inecuación",
+        "solución"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09b",
+      "ordinal": 7,
+      "title": "Ecuaciones e inecuaciones lineales: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "high",
+      "terms": [
+        "solución",
+        "ecuación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-09-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 09",
+      "unit_code": "U2",
+      "unit_title": "Lenguaje algebraico, proporcionalidad, ecuaciones e inecuaciones.",
+      "topic_id": "topic-v280-ma07-oa09b",
+      "ordinal": 8,
+      "title": "Ecuaciones e inecuaciones lineales: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 09.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-09",
+      "importance": "high",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10a",
+      "ordinal": 1,
+      "title": "Ángulos en polígonos: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "critical",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10a",
+      "ordinal": 2,
+      "title": "Ángulos en polígonos: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "critical",
+      "terms": [
+        "ángulo interior",
+        "ángulo exterior"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10a",
+      "ordinal": 3,
+      "title": "Ángulos en polígonos: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "high",
+      "terms": [
+        "ángulo exterior",
+        "polígono"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10a",
+      "ordinal": 4,
+      "title": "Ángulos en polígonos: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "high",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10b",
+      "ordinal": 5,
+      "title": "Ángulos en polígonos: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "critical",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10b",
+      "ordinal": 6,
+      "title": "Ángulos en polígonos: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "critical",
+      "terms": [
+        "ángulo interior",
+        "ángulo exterior"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10b",
+      "ordinal": 7,
+      "title": "Ángulos en polígonos: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "high",
+      "terms": [
+        "ángulo exterior",
+        "polígono"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-10-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 10",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa10b",
+      "ordinal": 8,
+      "title": "Ángulos en polígonos: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 10.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-10",
+      "importance": "high",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11a",
+      "ordinal": 1,
+      "title": "Círculo: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "critical",
+      "terms": [
+        "radio",
+        "diámetro"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11a",
+      "ordinal": 2,
+      "title": "Círculo: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "critical",
+      "terms": [
+        "diámetro",
+        "circunferencia"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11a",
+      "ordinal": 3,
+      "title": "Círculo: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "high",
+      "terms": [
+        "circunferencia",
+        "radio"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11a",
+      "ordinal": 4,
+      "title": "Círculo: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "high",
+      "terms": [
+        "radio",
+        "diámetro"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11b",
+      "ordinal": 5,
+      "title": "Círculo: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "critical",
+      "terms": [
+        "radio",
+        "diámetro"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11b",
+      "ordinal": 6,
+      "title": "Círculo: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "critical",
+      "terms": [
+        "diámetro",
+        "circunferencia"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11b",
+      "ordinal": 7,
+      "title": "Círculo: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "high",
+      "terms": [
+        "circunferencia",
+        "radio"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-11-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 11",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa11b",
+      "ordinal": 8,
+      "title": "Círculo: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 11.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-11",
+      "importance": "high",
+      "terms": [
+        "radio",
+        "diámetro"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12a",
+      "ordinal": 1,
+      "title": "Construcciones geométricas: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "critical",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12a",
+      "ordinal": 2,
+      "title": "Construcciones geométricas: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "critical",
+      "terms": [
+        "bisectriz",
+        "punto notable"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12a",
+      "ordinal": 3,
+      "title": "Construcciones geométricas: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "high",
+      "terms": [
+        "punto notable",
+        "perpendicular"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12a",
+      "ordinal": 4,
+      "title": "Construcciones geométricas: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "high",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12b",
+      "ordinal": 5,
+      "title": "Construcciones geométricas: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "critical",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12b",
+      "ordinal": 6,
+      "title": "Construcciones geométricas: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "critical",
+      "terms": [
+        "bisectriz",
+        "punto notable"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12b",
+      "ordinal": 7,
+      "title": "Construcciones geométricas: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "high",
+      "terms": [
+        "punto notable",
+        "perpendicular"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-12-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 12",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa12b",
+      "ordinal": 8,
+      "title": "Construcciones geométricas: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 12.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-12",
+      "importance": "high",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13a",
+      "ordinal": 1,
+      "title": "Área de figuras planas: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "critical",
+      "terms": [
+        "base",
+        "altura"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13a",
+      "ordinal": 2,
+      "title": "Área de figuras planas: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "critical",
+      "terms": [
+        "altura",
+        "área"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13a",
+      "ordinal": 3,
+      "title": "Área de figuras planas: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "high",
+      "terms": [
+        "área",
+        "base"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13a",
+      "ordinal": 4,
+      "title": "Área de figuras planas: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "high",
+      "terms": [
+        "base",
+        "altura"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13b",
+      "ordinal": 5,
+      "title": "Área de figuras planas: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "critical",
+      "terms": [
+        "base",
+        "altura"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13b",
+      "ordinal": 6,
+      "title": "Área de figuras planas: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "critical",
+      "terms": [
+        "altura",
+        "área"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13b",
+      "ordinal": 7,
+      "title": "Área de figuras planas: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "high",
+      "terms": [
+        "área",
+        "base"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-13-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 13",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa13b",
+      "ordinal": 8,
+      "title": "Área de figuras planas: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 13.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-13",
+      "importance": "high",
+      "terms": [
+        "base",
+        "altura"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14a",
+      "ordinal": 1,
+      "title": "Plano cartesiano y vectores: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "critical",
+      "terms": [
+        "coordenada",
+        "vector"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14a",
+      "ordinal": 2,
+      "title": "Plano cartesiano y vectores: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "critical",
+      "terms": [
+        "vector",
+        "desplazamiento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14a",
+      "ordinal": 3,
+      "title": "Plano cartesiano y vectores: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "high",
+      "terms": [
+        "desplazamiento",
+        "coordenada"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14a",
+      "ordinal": 4,
+      "title": "Plano cartesiano y vectores: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "high",
+      "terms": [
+        "coordenada",
+        "vector"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14b",
+      "ordinal": 5,
+      "title": "Plano cartesiano y vectores: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "critical",
+      "terms": [
+        "coordenada",
+        "vector"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14b",
+      "ordinal": 6,
+      "title": "Plano cartesiano y vectores: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "critical",
+      "terms": [
+        "vector",
+        "desplazamiento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14b",
+      "ordinal": 7,
+      "title": "Plano cartesiano y vectores: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "high",
+      "terms": [
+        "desplazamiento",
+        "coordenada"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-14-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 14",
+      "unit_code": "U3",
+      "unit_title": "Ángulos, círculo, construcciones, áreas y plano cartesiano.",
+      "topic_id": "topic-v280-ma07-oa14b",
+      "ordinal": 8,
+      "title": "Plano cartesiano y vectores: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 14.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-14",
+      "importance": "high",
+      "terms": [
+        "coordenada",
+        "vector"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15a",
+      "ordinal": 1,
+      "title": "Muestreo y estimación: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "critical",
+      "terms": [
+        "población",
+        "muestra"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15a",
+      "ordinal": 2,
+      "title": "Muestreo y estimación: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "critical",
+      "terms": [
+        "muestra",
+        "estimación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15a",
+      "ordinal": 3,
+      "title": "Muestreo y estimación: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "high",
+      "terms": [
+        "estimación",
+        "población"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15a",
+      "ordinal": 4,
+      "title": "Muestreo y estimación: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "high",
+      "terms": [
+        "población",
+        "muestra"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15b",
+      "ordinal": 5,
+      "title": "Muestreo y estimación: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "critical",
+      "terms": [
+        "población",
+        "muestra"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15b",
+      "ordinal": 6,
+      "title": "Muestreo y estimación: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "critical",
+      "terms": [
+        "muestra",
+        "estimación"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15b",
+      "ordinal": 7,
+      "title": "Muestreo y estimación: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "high",
+      "terms": [
+        "estimación",
+        "población"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-15-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 15",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa15b",
+      "ordinal": 8,
+      "title": "Muestreo y estimación: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 15.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-15",
+      "importance": "high",
+      "terms": [
+        "población",
+        "muestra"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16a",
+      "ordinal": 1,
+      "title": "Frecuencias y gráficos: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "critical",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16a",
+      "ordinal": 2,
+      "title": "Frecuencias y gráficos: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "critical",
+      "terms": [
+        "frecuencia relativa",
+        "gráfico"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16a",
+      "ordinal": 3,
+      "title": "Frecuencias y gráficos: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "high",
+      "terms": [
+        "gráfico",
+        "frecuencia absoluta"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16a",
+      "ordinal": 4,
+      "title": "Frecuencias y gráficos: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "high",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16b",
+      "ordinal": 5,
+      "title": "Frecuencias y gráficos: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "critical",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16b",
+      "ordinal": 6,
+      "title": "Frecuencias y gráficos: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "critical",
+      "terms": [
+        "frecuencia relativa",
+        "gráfico"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16b",
+      "ordinal": 7,
+      "title": "Frecuencias y gráficos: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "high",
+      "terms": [
+        "gráfico",
+        "frecuencia absoluta"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-16-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 16",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa16b",
+      "ordinal": 8,
+      "title": "Frecuencias y gráficos: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 16.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-16",
+      "importance": "high",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17a",
+      "ordinal": 1,
+      "title": "Tendencia central y rango: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "critical",
+      "terms": [
+        "media",
+        "mediana"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17a",
+      "ordinal": 2,
+      "title": "Tendencia central y rango: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "critical",
+      "terms": [
+        "mediana",
+        "rango"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17a",
+      "ordinal": 3,
+      "title": "Tendencia central y rango: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "high",
+      "terms": [
+        "rango",
+        "media"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17a",
+      "ordinal": 4,
+      "title": "Tendencia central y rango: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "high",
+      "terms": [
+        "media",
+        "mediana"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17b",
+      "ordinal": 5,
+      "title": "Tendencia central y rango: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "critical",
+      "terms": [
+        "media",
+        "mediana"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17b",
+      "ordinal": 6,
+      "title": "Tendencia central y rango: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "critical",
+      "terms": [
+        "mediana",
+        "rango"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17b",
+      "ordinal": 7,
+      "title": "Tendencia central y rango: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "high",
+      "terms": [
+        "rango",
+        "media"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-17-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 17",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa17b",
+      "ordinal": 8,
+      "title": "Tendencia central y rango: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 17.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-17",
+      "importance": "high",
+      "terms": [
+        "media",
+        "mediana"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18a",
+      "ordinal": 1,
+      "title": "Probabilidad experimental: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "critical",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18a",
+      "ordinal": 2,
+      "title": "Probabilidad experimental: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "critical",
+      "terms": [
+        "frecuencia relativa",
+        "evento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18a",
+      "ordinal": 3,
+      "title": "Probabilidad experimental: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "high",
+      "terms": [
+        "evento",
+        "experimento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18a",
+      "ordinal": 4,
+      "title": "Probabilidad experimental: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "high",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18b",
+      "ordinal": 5,
+      "title": "Probabilidad experimental: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "critical",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18b",
+      "ordinal": 6,
+      "title": "Probabilidad experimental: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "critical",
+      "terms": [
+        "frecuencia relativa",
+        "evento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18b",
+      "ordinal": 7,
+      "title": "Probabilidad experimental: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "high",
+      "terms": [
+        "evento",
+        "experimento"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-18-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 18",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa18b",
+      "ordinal": 8,
+      "title": "Probabilidad experimental: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 18.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-18",
+      "importance": "high",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-A-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19a",
+      "ordinal": 1,
+      "title": "Probabilidad teórica y experimental: fundamentos y representaciones · evidencia 1",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "critical",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-A-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19a",
+      "ordinal": 2,
+      "title": "Probabilidad teórica y experimental: fundamentos y representaciones · evidencia 2",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "critical",
+      "terms": [
+        "frecuencia relativa",
+        "espacio muestral"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-A-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19a",
+      "ordinal": 3,
+      "title": "Probabilidad teórica y experimental: fundamentos y representaciones · evidencia 3",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "high",
+      "terms": [
+        "espacio muestral",
+        "probabilidad teórica"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-A-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19a",
+      "ordinal": 4,
+      "title": "Probabilidad teórica y experimental: fundamentos y representaciones · evidencia 4",
+      "description": "Producir evidencia explícita de fundamentos y representaciones para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "high",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-B-N1",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19b",
+      "ordinal": 5,
+      "title": "Probabilidad teórica y experimental: modelación y resolución de problemas · evidencia 5",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "critical",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-B-N2",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19b",
+      "ordinal": 6,
+      "title": "Probabilidad teórica y experimental: modelación y resolución de problemas · evidencia 6",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "critical",
+      "terms": [
+        "frecuencia relativa",
+        "espacio muestral"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-B-N3",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19b",
+      "ordinal": 7,
+      "title": "Probabilidad teórica y experimental: modelación y resolución de problemas · evidencia 7",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "high",
+      "terms": [
+        "espacio muestral",
+        "probabilidad teórica"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    },
+    {
+      "node_id": "7B-V280-19-B-N4",
+      "course_id": "cl-7-basico",
+      "oa_code": "MA07 OA 19",
+      "unit_code": "U4",
+      "unit_title": "Muestreo, frecuencias, tendencia central y probabilidad.",
+      "topic_id": "topic-v280-ma07-oa19b",
+      "ordinal": 8,
+      "title": "Probabilidad teórica y experimental: modelación y resolución de problemas · evidencia 8",
+      "description": "Producir evidencia explícita de modelación y resolución de problemas para MA07 OA 19.",
+      "source_level": "official_core",
+      "source_key": "mineduc-7b-oa-19",
+      "importance": "high",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ],
+      "expected_evidence": [
+        "exact_solution",
+        "independent_validation_contract",
+        "plausible_distractors",
+        "human_curriculum_review"
+      ],
+      "snapshot_version": "2026-08-12",
+      "is_active": true
+    }
+  ]
+}

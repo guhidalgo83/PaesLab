@@ -1,0 +1,3954 @@
+[
+  {
+    "node_id": "7B-V280-01-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "entero",
+        "signo"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "signo",
+        "recta numérica"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "recta numérica",
+        "entero"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "entero",
+        "signo"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "entero",
+        "signo"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "signo",
+        "recta numérica"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "recta numérica",
+        "entero"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-01-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa01b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "entero",
+        "signo"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "producto"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "producto",
+        "cociente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "cociente",
+        "fracción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "producto"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "producto"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "producto",
+        "cociente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "cociente",
+        "fracción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-02-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa02b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "producto"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "decimal"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "decimal",
+        "operación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "operación",
+        "fracción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "decimal"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "decimal"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "decimal",
+        "operación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "operación",
+        "fracción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-03-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa03b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "fracción",
+        "decimal"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "aumento",
+        "disminución"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "disminución",
+        "porcentaje"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "aumento",
+        "disminución"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "disminución",
+        "porcentaje"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-04-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa04b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "porcentaje",
+        "aumento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "potencia",
+        "base"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "base",
+        "exponente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "exponente",
+        "potencia"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "potencia",
+        "base"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "potencia",
+        "base"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "base",
+        "exponente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "exponente",
+        "potencia"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-05-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa05b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "potencia",
+        "base"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "variable",
+        "expresión"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "expresión",
+        "regla"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "regla",
+        "variable"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "variable",
+        "expresión"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "variable",
+        "expresión"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "expresión",
+        "regla"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "regla",
+        "variable"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-06-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa06b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "variable",
+        "expresión"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "coeficiente",
+        "reducción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "reducción",
+        "término semejante"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "coeficiente",
+        "reducción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "reducción",
+        "término semejante"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-07-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa07b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "término semejante",
+        "coeficiente"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "proporción",
+        "constante"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "constante",
+        "gráfico"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "gráfico",
+        "proporción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "proporción",
+        "constante"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "proporción",
+        "constante"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "constante",
+        "gráfico"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "gráfico",
+        "proporción"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-08-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa08b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "proporción",
+        "constante"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "inecuación",
+        "solución"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "solución",
+        "ecuación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "inecuación",
+        "solución"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "solución",
+        "ecuación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-09-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa09b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ecuación",
+        "inecuación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ángulo interior",
+        "ángulo exterior"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ángulo exterior",
+        "polígono"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ángulo interior",
+        "ángulo exterior"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "ángulo exterior",
+        "polígono"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-10-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa10b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "polígono",
+        "ángulo interior"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "radio",
+        "diámetro"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "diámetro",
+        "circunferencia"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "circunferencia",
+        "radio"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "radio",
+        "diámetro"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "radio",
+        "diámetro"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "diámetro",
+        "circunferencia"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "circunferencia",
+        "radio"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-11-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa11b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "radio",
+        "diámetro"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "bisectriz",
+        "punto notable"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "punto notable",
+        "perpendicular"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "bisectriz",
+        "punto notable"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "punto notable",
+        "perpendicular"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-12-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa12b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "perpendicular",
+        "bisectriz"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "base",
+        "altura"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "altura",
+        "área"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "área",
+        "base"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "base",
+        "altura"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "base",
+        "altura"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "altura",
+        "área"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "área",
+        "base"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-13-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa13b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "base",
+        "altura"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "coordenada",
+        "vector"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "vector",
+        "desplazamiento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "desplazamiento",
+        "coordenada"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "coordenada",
+        "vector"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "coordenada",
+        "vector"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "vector",
+        "desplazamiento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "desplazamiento",
+        "coordenada"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-14-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa14b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "coordenada",
+        "vector"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "población",
+        "muestra"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "muestra",
+        "estimación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "estimación",
+        "población"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "población",
+        "muestra"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "población",
+        "muestra"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "muestra",
+        "estimación"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "estimación",
+        "población"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-15-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa15b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "población",
+        "muestra"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia relativa",
+        "gráfico"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "gráfico",
+        "frecuencia absoluta"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia relativa",
+        "gráfico"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "gráfico",
+        "frecuencia absoluta"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-16-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa16b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia absoluta",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "media",
+        "mediana"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "mediana",
+        "rango"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "rango",
+        "media"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "media",
+        "mediana"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "media",
+        "mediana"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "mediana",
+        "rango"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "rango",
+        "media"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-17-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa17b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "media",
+        "mediana"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia relativa",
+        "evento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "evento",
+        "experimento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia relativa",
+        "evento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "evento",
+        "experimento"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-18-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa18b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "experimento",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-A-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-A-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia relativa",
+        "espacio muestral"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-A-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "espacio muestral",
+        "probabilidad teórica"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-A-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19a",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-B-N1",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-B-N2",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "frecuencia relativa",
+        "espacio muestral"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-B-N3",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "espacio muestral",
+        "probabilidad teórica"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  },
+  {
+    "node_id": "7B-V280-19-B-N4",
+    "course_id": "cl-7-basico",
+    "topic_id": "topic-v280-ma07-oa19b",
+    "auto_score": 85,
+    "auto_state": "partial",
+    "concept_hit": true,
+    "lesson_hit": true,
+    "worked_hit": true,
+    "guided_hit": true,
+    "representation_hit": false,
+    "lab_hit": false,
+    "misconception_hit": true,
+    "transfer_hit": true,
+    "matched_terms": {
+      "method": "explicit_node_and_contract_mapping",
+      "terms": [
+        "probabilidad teórica",
+        "frecuencia relativa"
+      ]
+    },
+    "evidence_method": "rc2_contract_audit_pending_human_curriculum_review",
+    "snapshot_version": "2026-08-12",
+    "human_review_status": "pending",
+    "release_eligible": false
+  }
+]

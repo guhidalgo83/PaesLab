@@ -1,0 +1,100 @@
+{
+  "release": "REVIEWED_RC2_COMPAT3",
+  "macroblock": "v28.0–v28.4",
+  "course_id": "cl-7-basico",
+  "course": "7.º básico",
+  "snapshot_date": "2026-08-12",
+  "official_oa_count": 19,
+  "official_text_status": "normalized_official_statement",
+  "curriculum_snapshot_sha256": "39936f780794e609a388bc645c7bfc23de43c17901088a20a9a092569aa7d3e3",
+  "topics": 38,
+  "distinct_topics_per_oa": 2,
+  "curriculum_nodes": 152,
+  "coverage_state": {
+    "partial_pending_human_review": 152,
+    "strong": 0
+  },
+  "micro_lessons": 228,
+  "worked_examples_with_exact_answers": 228,
+  "guided_practice_with_exact_contracts": 304,
+  "representation_specs": 114,
+  "rendered_representations": 0,
+  "interactive_lab_specs": 38,
+  "student_ready_labs": 0,
+  "assessment_items": 988,
+  "practice_items": 760,
+  "diagnostic_items": 114,
+  "review_items": 114,
+  "unique_stems": 988,
+  "unique_task_signatures": 988,
+  "semantic_duplicate_options": 0,
+  "placeholder_options": 0,
+  "independently_recomputed_answers": 988,
+  "answer_distribution": {
+    "A": 247,
+    "B": 247,
+    "C": 247,
+    "D": 247
+  },
+  "diagnostic": {
+    "candidate_items": 114,
+    "min_items": 19,
+    "target_items": 19,
+    "max_items": 25,
+    "default_limit": 19,
+    "estimated_target_minutes": 20.92,
+    "max_minutes": 45
+  },
+  "database_readiness": {
+    "provisional_q4": 78,
+    "auto_gate_topics_expected": 0,
+    "human_certified_topics": 0,
+    "release_candidates": 0,
+    "live_student_delivery": false
+  },
+  "release_blockers": [
+    "CURRICULUM_REVALIDATION_REQUIRED_BEFORE_RELEASE",
+    "HUMAN_CONTENT_REVIEW_PENDING",
+    "HUMAN_ASSESSMENT_CERTIFICATION_PENDING",
+    "REPRESENTATION_IMPLEMENTATION_PENDING",
+    "INTERACTIVE_LAB_IMPLEMENTATION_PENDING",
+    "ADAPTIVE_CALIBRATION_PENDING",
+    "LIVE_STUDENT_DELIVERY_DISABLED"
+  ],
+  "legacy_baseline": {
+    "axes": 4,
+    "objectives": 19,
+    "knowledge_topics": 35,
+    "objective_topic_links": 35,
+    "published": true,
+    "preservation_required": true
+  },
+  "database_contract": {
+    "knowledge_topics_difficulty_allowed": [
+      "Inicial",
+      "Fundamental",
+      "Intermedio",
+      "Avanzado"
+    ],
+    "installed_topic_difficulties": [
+      "Intermedio",
+      "Avanzado"
+    ],
+    "preflight_guard_required": true,
+    "guided_validation_types": {
+      "mixed": 232,
+      "formula": 72
+    },
+    "assessment_depth_allowed": [
+      1,
+      2,
+      3
+    ],
+    "adaptive_depth_allowed": [
+      1,
+      2,
+      3
+    ],
+    "audited_check_constraints": 43
+  }
+}

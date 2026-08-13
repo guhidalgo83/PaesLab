@@ -1,0 +1,112 @@
+{
+  "course_id": "cl-7-basico",
+  "snapshot_date": "2026-08-12",
+  "curriculum_basis": "Currículo oficial de Matemática 7.º básico actualmente publicado",
+  "course_url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico",
+  "program_url": "https://www.curriculumnacional.cl/recursos/programa-estudio-matematica-7-basico",
+  "update_process_url": "https://www.curriculumnacional.cl/actualizacion-curricular",
+  "update_process_status": "monitoring",
+  "requires_revalidation_before_release": true,
+  "official_oa_count": 19,
+  "topic_count": 38,
+  "official_text_status": "normalized_official_statement",
+  "source_fingerprints": [
+    {
+      "oa_code": "MA07 OA 01",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-01",
+      "official_text_sha256": "1a2e1a434afb45207dcf60cf086ddd0b19feb7289a29f46f14fb0e0d43c1e807"
+    },
+    {
+      "oa_code": "MA07 OA 02",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-02",
+      "official_text_sha256": "f172d19929b3b0c4f3085d5e0c2b092ac4b4f18d3c59ae14fa8ea52b285d933a"
+    },
+    {
+      "oa_code": "MA07 OA 03",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-03",
+      "official_text_sha256": "b7a8980b2f760ea8a0727fee64d61584c0441b92a725b9e4596f664a896484c2"
+    },
+    {
+      "oa_code": "MA07 OA 04",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-04",
+      "official_text_sha256": "6ef703ac815536d7851dbd84598fb3729ce0dc76acf4e8c131c78f9b7fc9f4b7"
+    },
+    {
+      "oa_code": "MA07 OA 05",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-05",
+      "official_text_sha256": "76206392c5b8ad23ef89b691e4a9ac90c58cc632c490e1e230178cd76f4e4092"
+    },
+    {
+      "oa_code": "MA07 OA 06",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-06",
+      "official_text_sha256": "b8b17499de75cc4c0a5931c89ebf476b531e8ca4ec0f664d18af891d1b927e17"
+    },
+    {
+      "oa_code": "MA07 OA 07",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-07",
+      "official_text_sha256": "335aac454187b326ca5391e4390adc69b9ef990cff35ae05019ebb4ea6e0f845"
+    },
+    {
+      "oa_code": "MA07 OA 08",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-08",
+      "official_text_sha256": "fbfac4508d283e1a23e6c415706066ead24377de5e58dbc95375c00a1dfb7a71"
+    },
+    {
+      "oa_code": "MA07 OA 09",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-09",
+      "official_text_sha256": "8768d743df944e2962bdbec79efa48d9dd5dcd82fa28c9f3877ab937ff3bae54"
+    },
+    {
+      "oa_code": "MA07 OA 10",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-10",
+      "official_text_sha256": "84ff1bc7c977e5d98c087edb477348b8993ffba58eb14d7055cd2abde82a785b"
+    },
+    {
+      "oa_code": "MA07 OA 11",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-11",
+      "official_text_sha256": "1dcc4f300f5c431696f5fbd412a10a000dd30abca6b72c7a67f716e428874ac0"
+    },
+    {
+      "oa_code": "MA07 OA 12",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-12",
+      "official_text_sha256": "36d0879c870fb1e04dd7edefc4a12c535150f9eb2e8faa1ac9c7427068b97676"
+    },
+    {
+      "oa_code": "MA07 OA 13",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-13",
+      "official_text_sha256": "c66f4ba98d5f032a026977e345ee905a13e703f10da9e6adf2006b9e275a241f"
+    },
+    {
+      "oa_code": "MA07 OA 14",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-14",
+      "official_text_sha256": "fe088e970629a5fc4a0e228a07469c5b4f39920a22fd5519ee33ac6ba8c1a809"
+    },
+    {
+      "oa_code": "MA07 OA 15",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-15",
+      "official_text_sha256": "7366e1430e8fbe72f0e9910504693249424b732c535d3d8515a5aebb09a19310"
+    },
+    {
+      "oa_code": "MA07 OA 16",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-16",
+      "official_text_sha256": "937687d15feab483bee1d49314f8089e4bc0473d79ad665663141421c0bf4816"
+    },
+    {
+      "oa_code": "MA07 OA 17",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-17",
+      "official_text_sha256": "2dd29b4ffa6a4156071cef50b6c091ec4360007a1a39b2c543a674b275436f77"
+    },
+    {
+      "oa_code": "MA07 OA 18",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-18",
+      "official_text_sha256": "681341cc43a93318d2bf18d81114015cb129656f3b87c01d88cc1af21ba8a568"
+    },
+    {
+      "oa_code": "MA07 OA 19",
+      "url": "https://www.curriculumnacional.cl/curriculum/7o-basico-2o-medio/matematica/7-basico/ma07-oa-19",
+      "official_text_sha256": "71f4e0fb7f5921c49b9c6922cf652fbbdc8a78c4f705b9d7583c52f6c537da2d"
+    }
+  ],
+  "curriculum_snapshot_sha256": "39936f780794e609a388bc645c7bfc23de43c17901088a20a9a092569aa7d3e3",
+  "human_revalidation_status": "pending"
+}

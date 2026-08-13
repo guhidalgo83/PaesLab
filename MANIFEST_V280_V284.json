@@ -1,0 +1,145 @@
+{
+  "macroblock": "v28.0–v28.4",
+  "course_id": "cl-7-basico",
+  "course": "7.º básico",
+  "snapshot_date": "2026-08-12",
+  "curriculum_snapshot_sha256": "39936f780794e609a388bc645c7bfc23de43c17901088a20a9a092569aa7d3e3",
+  "compatibility_baseline": {
+    "course_id": "cl-7-basico",
+    "published_axes": 4,
+    "published_objectives": 19,
+    "published_knowledge_topics": 35,
+    "published_objective_topic_links": 35
+  },
+  "release": "REVIEWED_RC2_COMPAT3",
+  "replaces_release": "REVIEWED_RC2_COMPAT2_GUIDED_VALIDATION_AND_DEPTH_CONTRACT_MISMATCH",
+  "database_contract": {
+    "knowledge_topics_difficulty": [
+      "Intermedio",
+      "Avanzado"
+    ],
+    "guided_validation_types": {
+      "mixed": 232,
+      "formula": 72
+    },
+    "assessment_depth": [
+      1,
+      2,
+      3
+    ],
+    "adaptive_depth": [
+      1,
+      2,
+      3
+    ],
+    "audited_check_constraints": 43
+  },
+  "artifact_count_excluding_manifest": 21,
+  "files": [
+    {
+      "path": "README_V280_V284_7B_MACROBLOCK.md",
+      "sha256": "e57d634511e05a72135d6b5dfca481e608b1b51ddb7eb8223500a7e3e8e9c672",
+      "bytes": 1780
+    },
+    {
+      "path": "content_specs/adaptive_metadata_7b_v282.json",
+      "sha256": "b276b9547778f6c62d6430260648893c06acaea6d724edf6d02cb42945288a48",
+      "bytes": 419650
+    },
+    {
+      "path": "content_specs/assessment_certification_7b_v284.json",
+      "sha256": "95fd3bdaecf261082006dd8e0f9e3652c448c914dd9b0773c42571c4f48e30ff",
+      "bytes": 11593
+    },
+    {
+      "path": "content_specs/assessment_items_7b_v281.json",
+      "sha256": "65fc72467f922814513f7da6a489fba89b008dcfaacfad7d518f054ba281bec1",
+      "bytes": 1910802
+    },
+    {
+      "path": "content_specs/curriculum_coverage_7b_v280.json",
+      "sha256": "9102f118da400f789491372dd03b61052123e44f6ef472bfa315dbb07a2fd85c",
+      "bytes": 108115
+    },
+    {
+      "path": "content_specs/curriculum_master_7b_v280.json",
+      "sha256": "5fce1362c1776393f3bd01fb02e2c157358ff056ab7c278df06b26ca8af3f601",
+      "bytes": 168092
+    },
+    {
+      "path": "content_specs/curriculum_source_snapshot_7b_v284.json",
+      "sha256": "bc73a81ce3e6e94d02065908e9ce022a687f5549fe096ea387aa854d96601358",
+      "bytes": 5606
+    },
+    {
+      "path": "content_specs/deep_content_7b_v280.json",
+      "sha256": "673fde3fabb986f721176e0fd1d45ac74efe0b363a57d65975a5539c7d1f39a0",
+      "bytes": 2210575
+    },
+    {
+      "path": "content_specs/diagnostic_blueprint_7b_v283.json",
+      "sha256": "a65bb87cc4451a8da9d5cd3eff29a9303556502879553bf3e37e105597f07548",
+      "bytes": 3343
+    },
+    {
+      "path": "content_specs/guided_answer_keys_7b_v280.json",
+      "sha256": "fc196d6f350b60ea591a79263ed01c2b761485f1bc565f356d0263ab6b8c425b",
+      "bytes": 221857
+    },
+    {
+      "path": "content_specs/learning_routes_7b_v284.json",
+      "sha256": "320478fef2b1706275a5d57e4b6378dc4c1d9f72718340eb840fc6507dfacd30",
+      "bytes": 42145
+    },
+    {
+      "path": "content_specs/review_sets_7b_v281.json",
+      "sha256": "54bf06bcdc0d0b3d69d99f08ee06ef31fed3e88e25759e66aac883469a09f177",
+      "bytes": 3727
+    },
+    {
+      "path": "docs/V280_V284_7B_RC2_PREINSTALL_STANDARD.md",
+      "sha256": "a7033beeea301c0c3b7b892d5b98fd5633ad72b5da853ef7a1e5a08691c66ac1",
+      "bytes": 3352
+    },
+    {
+      "path": "reports/V280_V284_7B_RC2_SUMMARY.json",
+      "sha256": "20facf22ad189f99b447eff1215727a9ab81952f60f5fab0e96425612132ffb0",
+      "bytes": 2528
+    },
+    {
+      "path": "scripts/check_v280_v284_7b_macroblock.py",
+      "sha256": "956b28aaa958d343e5d52c867f8cd74b37c8e29751b4919ed0fec4c0abf1d8ed",
+      "bytes": 82586
+    },
+    {
+      "path": "src/app/admin/expansion-7b-v284/page.tsx",
+      "sha256": "429c36cf5ac9b328ea544e7e188b00dd0166bb7800eece8a8ac3a24f99cdcaef",
+      "bytes": 4690
+    },
+    {
+      "path": "src/types/expansion-7b-v284.ts",
+      "sha256": "cecfe4c7c2b20c062eb1aa3ddf06303208e620897d3e594773e3a2bc0d6f4467",
+      "bytes": 960
+    },
+    {
+      "path": "supabase/137_mathlabs_v280_v284_7b_macroblock_full_install.sql",
+      "sha256": "2e55af76677a7a0846ae3bab43b10d37428c3c52eb71ccd33a531f2450b6dd51",
+      "bytes": 4401357
+    },
+    {
+      "path": "supabase/137a_preflight_mathlabs_v280_v284_7b_rc2.sql",
+      "sha256": "4a0f0b739d8d5bb993230e49dcf32c66173eca741a0bf439c15761bdf4868bb2",
+      "bytes": 9670
+    },
+    {
+      "path": "supabase/137b_rollback_mathlabs_v280_v284_7b_rc2.sql",
+      "sha256": "90681b16e0b3f7e46ebaad76a7219b2b9d4c6c113d7faf68e29686976bf1acb8",
+      "bytes": 9758
+    },
+    {
+      "path": "supabase/138_verify_mathlabs_v280_v284_7b_macroblock.sql",
+      "sha256": "cbee7467edb7eec2f8fcd406a57a9c4071ea753d233a6d884e32930c5bdb1b65",
+      "bytes": 18278
+    }
+  ]
+}
